@@ -1,0 +1,4065 @@
+རྫོང་ཁ་ཨིང་ལིཤ་དེབ་ཆུང་ཚིག་མཛོད། 
+
+DZONGKHA-ENGLISH POCKET DICTIONARY 
+
+SECOND EDITION 
+
+2013 
+
+DZONGKHA DEVELOPMENT COMMISSION Thimphu, Bhutan
+
+Dzongkha Development Commission, PO Box 122, Thimphu,  Bhutan. ddc@dzongkha.gov.bt. www.dzongkha.gov.bt 
+
+© Dzongkha Development Commission, 2013 
+
+ All rights reserved. 
+
+First Edition 2002 
+
+Second Edition 2013 
+
+Initiative and support 
+
+Dasho Sherub Gyeltshen 
+
+Design 
+
+Lexicographer 
+
+Namgay Thinley 
+
+Subeditors 
+
+Tenzin Wangchuk Namgay Thinley  Phub Dorji 
+
+Sonam Rinchen 
+
+Editors 
+
+Dasho Sangay Dorji Tenzin Wangchuk Namgay Thinley  Wangchuk Rinzin Sonam Jamtsho Phub Dorji 
+
+Kiba Lhaden 
+
+Chris Fynn 
+
+Tenzin Namgyel 
+
+General Assistance Dasho Sangay Dorji Tenzin Wangchuk Sonam Jamtsho 
+
+Phub Dorji 
+
+Parbaty Subba 
+
+Pema Deki 
+
+Sangay Lhendup 
+
+Project Co-ordination Namgay Thinley 
+
+Printer P.T. Printing and Publishing House, Thimphu ISBN 978-99936-15-21-7
+
+དཀར་ཆག 
+
+ཆེད་བརྗོད། .......................................................................iv སྔོན་བརྗོད། .......................................................................vi བསྡུ་ཡིག ..........................................................................ix ཚིག་མཛོད་ལག་ལེན། .......................................................x ཚིག་མཛོད། ........................................................................༡ ཟུར་སྦྲགས། ...............................................................༡༠༩༧
+
+iii 
+
+ཆེད་བརྗོད། 
+
+༈ ད་རེས་ རོང་ཁ་གོང་འཕེལ་ལྷན་ཚོགས་ཀྱི་ཞིབ་འཚོལ་སྡེ་ཚན་ཁ་ཐུག་ལས་ ཧེ་མ་ གི་རོང་ཁ་ཨིང་ལིཤ་ཤན་སྦྱར་ཚིག་མཛོད་འདི་ལུ་ ཞིབ་འཚོལ་དང་བསྐྱར་ཞིབ་ཀྱི་ཐོག་ ལས་ པར་ཐེངས་གཉིས་པ་བཏོན་ཚུགས་མི་འདི་ལུ་ རྗེས་སུ་ཡི་རང་གི་ལེགས་སོ་ ཡོད། 
+
+རོང ་ཁ་ཨིང་ལིཤ་ཚིག་མཛོད་འདི་ནང་ ཧེ་མ་ལས་ལྷག་པ་་རོང་ཁ་་་་ཚིག་མང་ རབས་ཅིག་ཧེང་སྐལ་བཙུགས་ཏེ་ཡོདཔ་མ་ཚད་ ་་ཚིག་གི་ཐ་སྙད་སོ་སོའི་ཁྱད་ཆོས་ ཚུ་ཡང་ག་དེ་དྲག་དྲག་བཀོད་ཡོད་མི་དང་གཅིག་ཁར་ དེ་ཚུ་གི་གོ་དོན་ཨིང་ལིཤ་ནང་ བཀོད་དེ་ཡོད་ནི་འདི་གིས་ རྒྱལ་ཁབ་ཀྱི་སྐད་ཡིག་གི་སྲིད་བྱུས་ རོང་ཨིང་ཟུང་འབྲེལ་ གྱི་དམིགས་དོན་འགྲུབ་ནི་ལུ་ ཐེ་ཚོམ་མེད་པ་་ཕན་ཐོགས་འབྱུང་ཚུགས་ནི་ཨིན་མས། 
+
+ལྷག་པར་དུ་ རོང་ཁ་་ཡིག་སྡེབ་དང་མིང་ཚིག་ཐ་སྙད་ཚུ་ཡང་ རོང་ཁ་གོང་འཕེལ་ ལྷན་ཚོགས་ཁ་ཐུག་ལས་ ད་རེས་ཚུན་ཚོད་ལུ་ གཏན་འབེབས་གྲུབ་ཡོད་མི་དང་ འཁྲིལ་བ་་དུས་མཐུན་ཡོད་ནི་འདི་གིས་ ཡིག་སྡེབ་དང་སྐད་ཡིག་གི་གཞི་རྟེན་ཡིག་ཆ་ ཅིག་ཡང་ཨིནམ་ལས་ རོང་ཁ་ལག་ལེན་འཐབ་མི་ཡོངས་ཀྱིས་ ད་ལས་ཕར་ ཚིག་ མཛོད་འདི་དང་འཁྲིལ་ཏེ་ལག་ལེན་འཐབ་འོང་མནོ་བ་་རེ་བ་ཡོད། 
+
+རོང་ཁ་གོང་འཕེལ་ལྷན་ཚོགས་ཀྱི་དམིགས་དོན་འདི་བཟུམ་ཅིག་འགྲུབ་ཚུགས་མི་འདི་  ཚིག་མཛོད་སྡེ་ཚན་གྱི་དཀའ་ངལ་དང་ལེན་གྱི་ལཱ་ཤུལ་གྲུབ་འབྲས་ངོ་མ་ཅིག་ཨིནམ་མ་ ཚད་ ཡིག་ཚང་གི་ཞུན་དག་ཚོགས་ཆུང་དང་ འབྲེལ་ཡོད་ལཱ་རུབ་འབད་མི་ཚུ་གི་ བ་ོན་ཤུགས་ལུ་བརྟེན་ཏེ་ཨིནམ་ལས་ འབྲེལ་ཡོད་ཡོངས་ལུ་ ངོས་ལེན་གྱི་དགའ་ ཚོར་དང་གཅིག་ཁར་ ཚིག་མཛོད་འདི་དུས་ཐོག་ལུ་དཔེ་སྐྲུན་འབད་དེ་བཀྲམ་སྤེལ་
+
+iv 
+
+འབད་ཚུགས་མི་འདི ་ཡང་ རྒྱལ་ཡོངས་དགའ་དད་དཔལ་འཛོམས་ལྷན་ཚོགས་ལས་ མ་དངུལ་གྱི་གྲོགས་རམ་ལོགས་སུ་སྦེ་གནང་བ་་བཀའ་དྲིན་ཨིནམ་ལས་ དེ་ལུ་ དམིགས་བསལ་གྱི་བཀའ་དྲིན་དགའ་ཚོར་ཡོད། 
+
+རོང་ཁ་གོང་འཕེལ་དང་དར་ཁྱབ་ཀྱི་ལཱ་ནང་ མཁོ་གལ་ཧ་ཅང་ཆེ་བ་་ རོང་ཨིང་ཤན་ སྦྱར་ཚིག་མཛོད་འདི་གིས་ རྒྱལ་ཁབ་ཀྱི་མི་མང ་ཡོངས་ལུ་ཕན་ཐོགས་ཆེ་བ་་སྐད་ཡིག་ གི་ཞབས་ཏོག་ཕུལ་དུ་ཕྱིན་པ་འགྲུབ་ཚུགས་པ་་རེ་སོན་དང་ ལག་ལེན་འཐབ་མི་ འབྲེལ་ཡོད་ཡོངས་ལུ་ལེགས་སོན་གྱི་བཀྲ་ཤིས་བདེ་ལེགས་ཡོད། 
+
+ཤེས་རབ་རྒྱལ་མཚན། 
+
+དྲུང་ཆེན། 
+
+འབྲུག་གི་རྒྱལ་ས་ཐིམ་ཕུག 
+
+གནམ་ལོ་ཆུ་སྦྲུལ་ཟླ་༥ ཚེས་༡༥ ལུ།
+
+v 
+
+པར་ཐེངས་གཉིས་པའི་་སྔོན་བརྗོད། 
+
+༈ འབྲུག་གཞུང་རོང་ཁ་གོང་འཕེལ་ལྷན་ཚོགས་ཀྱིས་ སྤྱི་ལོ་༢༠༠༢ ལུ་པར་ཐེངས་ དང་པ་ པར་སྐྲུན་འབད་མི་གི་རོང་ཁ་ཨིང་ལིཤ་ཤན་སྦྱར་ཚིག་མཛོད་འདི་ ལྷན་ཚོགས་ ཡིག་ཚང་ནང་གི་ ཞིབ་འཚོལ་སྡེ་ཚན་གྱི་ཁ་ཐུག་ལས་ འདས་པ་་ལོ་ངོ་གསུམ་དེ་ ཅིག་གི་རིང་ལུ་ བསྐྱར་ཞིབ་ཀྱི་དོན་ལུ་ རོང་ཁ་་མིང་ཚིག་ཞིབ་འཚོལ་དང་བསྡུ་སྒྲིག་ འབད་དེ་ ད་རེས་ཞུན་དག་ཚར་ཏེ་ པར་ཐེངས་གཉིས་པ་སྦེ་པར་སྐྲུན་འབདཝ་ཨིན། 
+
+པར་ཐེངས་གཉིས་པ་འདི་ནང་ མིང་ཚིག་བསྡུ་ལེན་དང་ གསར་བཟོ་འབད་ཡོད་པ་་ རོང་ཁ་་ཚིག་གི་ཐ་སྙད་ མང་རབས་ཅིག་གསར་བཙུགས་འབད་ཡོད་པ་་ཁར་ མིང་ ཚིག་དེ་ཚུ་གི་ཁྱད་ཆོས་ ཚིག་སྡེ་་དབྱེ་བ་དང་ དུས་གསུམ་གྱི་དབྱེ་བ་ ཞེ་ས་དང་  མིང་གི་རྣམ་གྲངས་ འགལ་མིང་དང་ ཚིག་གཅིག་དོན་མང་ལུ་འཇུག་པ་་གོ་དོན་ཚུ་ ཡང་བཙུགས་ཏེ་ཡོད། དེ་མ་ཚད་ཚིག་མཛོད་འདི་ནང་ འབྲུག་གི་་་ཁྲིམས་ཆེན་མོ་ གིས་གཙོས་པ་་ སྤྱིར་བཏང་ལག་ལེན་ལུ་ཉེ་བར་མཁོ་བ་་ བཅའ་ཁྲིམས་ཚུ་ནང་གི་ མིང ་ཚིག་ཐ་སྙད་ཚུ་དང་ རོང་གོང་ལྷན་ཚོགས་ནང་ སྔར་ལས་པར་སྐྲུན་འབད་དེ་ཡོད་ པ་་ སྐད་གཉིས་ཟུང་འབྲེལ་ཚིག་མཛོད་ཀྱི་རིགས་དང་ དཔེ་དེབ་གཞན་ཚུ་ནང་ལས་ ཐ་སྙད་བསྡུ་སྒྲིག་འབད་དེ་ཡོད་མི་ཚུ་ཡང་བཙུགས་ཏེ་ཡོད། 
+
+རོང་ཁ་་་་ཚིག་དེ་ཚུ་དང་ དོ་མཉམ་ཀྱི་ཨིང་ལིཤ་མིང་ཚིག་ཡོད་མི་ཚུ་ ཤན་སྦྱར ་སྦེ་ བཀོད་དེ་ཡོདཔ་མ་ཚད་དོ་མཉམ་མེད་མི་ཚུ་ ་་ཚིག་གི་གོ་དོན་འགྲེལ་བཤད་དང་ དེ་ ལས་རོང་ཁ་་་་ཚིག་ལ་ལུ་ཅིག་ལུ་ དོ་མཉམ་གྱི་ཨིང་ལིཤ་མིང་ཚིག་གཅིག་ལས་ ལྷག་སྟེ་ཡོད་མི་ཚུ་ཡང་ གདམ་ཁ་་དོན་ལུ་བཙུགས་ཏེ་ཡོདཔ་ལས་ དེ་ཚུ་སྐབས་ ཐོབ་ཀྱི་ལག་ལེན་དང་བསྟུན་ཏེ་ འོས་འབབ་ཡོད་མི་་ཚིག་ཚུ་ གདམ་ཁ་་ཐོག་ལས་ ལག་ལེན་འཐབ་ཆོག་ཆོ་ཡོད། གཞན་ཡང་ ཚིག་མཛོད་འདི་ནང་ རོང་ཁ་གོང་འཕེལ་
+
+vi 
+
+ལྷན་ཚོགས་ཀྱིས་གཏན་འབེབས་གྲུབ་པ་་ དུས་མཐུན་གྱི་ཡིག་སྡེབ་ཚུ་ཡང་ཚུལ་ མཐུན་བཀོད་དེ་ཡོདཔ་ལས་ ཚིག་མཛོད་འདི་རོང་ཁ་ལག་ལེན་འཐབ་མི་ཚུ་གི་དོན་ལུ་  ཉེ་བར་མཁོ་བ་་དཔེ་དེབ་མེད་དུ་མ་རུང་བ་ཅིག་ལུ་གྱུར་ཏེ་ཡོད། 
+
+ལཱ་ཤུལ་གྱི་གྲུབ་འབྲས་འདི་བཟུམ་ཅིག་འཐོན་ཚུགས་མི་འདི་ གཙོ་བོ་ར་ང་བཅས་ འབྲུག་ལུ་ དགའ་དད་ལྡན་པ་་གུ་ ཞི་བདེ་དང་དར་རྒྱས་ཀྱི་གནས་སྟངས་བཟང་པོ་ འདི་ལུ་བརྟེན་ཏེ་ཨིན་པ་་ཁར་ ལྷག་པར་ དྲགོས་དྲུང་ཆེན་ཤེས་རབ་རྒྱལ་མཚན་ མཆོག་གི་ ལམ་སྟོན་བཀའ་སོབ་བཟང་པོ་དང་ སྡེ་ཚན་ནང་གི་ཞིབ་འཚོལ་འགོ་ དཔོན་ཚུ་གིས་ དཀའ་བ་དང་དུ་ལེན་པ་་བ་ོན་ཤུགས་དང་ མཐའ་མཇུག་ལུ་  
+
+ཞིབ་འཚོལ་སྡེ་ཚན་ནང་གི་ མཉམ་རོགས་ཁྱད་རིག་ལས་གཡོགཔ་ཚུ་དང་ ཡིག་ཚང་ གི་ ཞུན་དག་ཚོགས་ཆུང་འཐུས་མི་ཚུ་ མཉམ་རུབ་ཀྱི་ཐོག་ལས་ ཞུན་དག་དང་ཞུན་ ལྷག་འབད་བ་་ཤུལ་ལུ་ གློག་རིག་ཁྱད་རིག་པ་ཚུ་གིས་ དཔེ་དེབ་སྒྲིག་བཀོད་བཟོ་ སྟེ་ ལས་དོན་མཐར་འཁྱོལ་བྱུང་ཡོདཔ་ལས་ དེ་ཚུ་ག་ར་ལུ་ཞིབ་འཚོལ་སྡེ་ཚན་གྱི་ ཁོངས་ལས་ ཚད་མེད་ཀྱི་བཀའ་དྲིན་དགའ་ཚོར་སོམ་ཡོད། 
+
+ཕན་རྒྱ་ཆེ་བ་་ཚིག་མཛོད་མཁོ་ཅན་འདི་ རྒྱལ་ཁབ་ནང་གང་མང་བཀྲམ་སྤེལ་འབད་ནི་ དང་ རྒྱལ་ཡོངས་ཀྱི་སོབ་ཕྲུག་རེ་རེ་བཞིན་དུ་ལུ་ ཁྱབ་ཚུགསཔ་འབད་ནི་གི་དོན་ལུ་  མ་དངུལ་གྱི་གྲོགས་རམ་འཚོལ་བ་་མཐའ་མཇུག་ལུ་ རྒྱལ་ཡོངས་དགའ་དད་དཔལ་ འཛོམས་ལྷན་ཚོགས་ཀྱི་ཁ་ཐུག་ལས་ རྒྱལ་ཡོངས་སྐད་ཡིག་གོང་འཕེལ་དང་ དར་ ཁྱབ་ཀྱི་དོན་ལུ་ཁག་ཆེ་བ་་ཐུགས་བཞེད་ རྒྱ་ཆེན་པོ་བཞེས་ཏེ་མ་དངུལ་གྱི་གྲོགས་ རམ་ ལོགས་སུ་མཛད ་གནང་མི་འདི་ལུ་དམིགས་བསལ་གྱི་བཀའ་དྲིན་དགའ་ཚོར་ བསམ་གྱིས་མི་ཁྱབ་པ་ཡོད། 
+
+ཚིག་མཛོད་འདི་གི་དོན་ལུ་ ལཱ་འབད་མི་ཚུ་གི་ཁ་ཐུག་ལས་ ག་དེ་དྲག་དྲག་གཟབ་ གཟབ་འབད་ཡོད་རུང་ སོ་སོ་ཡང་དག་པ་རིག་པ་་གོ་འཕང་མ་ཐོབ་པ་་དབང་གིས་ཆ་
+
+vii 
+
+མ་ཚང་བ་དང་ མ་དག་པ་་སྐྱོན་དང་ནོར་འཁྲུལ་འོང་སྲིདཔ་ལས་ ག་ར་ལུ་བཟོད་པ་ བཞེས་གནང་ཟེར་ཞུ་ནི་དང་ མ་འོངས་པ་་བསྐྱར་ཞིབ་དཔེ་སྐྲུན་གྱི་ཕན་ཐབས་ལུ་  མཁས་དབང་ལྷན་རྒྱས་ཚུ་གི་ རིན་ཐང་དང་བྲལ་བ་་དགོངས་འཆར་གང་ཡོད་ ང་ བཅས་ལུ་བརྒྱུད་ལམ་སྣ་ཚོགས་ཡོད་མི་ཚུ་གི་ཐོག་ལས་གསུང་གནང་དགོ་པ་་  གསོལ་འདེབས་ཞུ་ནི་དང་གཅིག་ཁར་ ཚིག་མཛོད་འདི་གིས་འབྲུག་མི་ཡོངས་དང་  ལྷག་པར་སོབ་ཕྲུག་ཚུ་གིས་གཙོས་པ་་ རོང་ཁ་དོན་གཉེར་ཅན་ཀུན་ལུ་ཕན་ཐབས་ བྱུང་སྟེ་ རྒྱལ་ཡོངས་སྐད་ཡིག་རོང་ཁ་གོང་འཕེལ་དང་ དར་ཁྱབ་ཀྱི་ཐོག་ལས་ རྒྱལ་ ཁབ་ཀྱི་བསྟན་པ་ ཡུན་ལས་ཡུན་དུ་གནས་པ་་ཞབས་ཏོག་འགྲུབ་པ་དང། བརྒྱུད་ འཛིན་གྱི་རྒྱལ་པོ་ མི་དབང་མངའ་བདག་རིན་པོ་ཆེ་ཡབ་སྲས་ཀྱི་སྐུ་ཚེ་ ཞབས་པད་ ཡུན་དུ་བརྟན་ཅིང་ རྒྱལ་རྒྱུད་ཆུ་བོའི་རྒྱུན་བཞིན་བོན་ཏེ་ འགྲན་ཟླ་དང་བྲལ་བ་་ལམ་ སྟོན་དང་སྐྱབས་འཛིན་གྱི་འོག་ལུ་ རྒྱལ་ཁབ་ཀྱི་དམངས་གཙོའི་རིང་ལུགས་བཟང་པོའི་ ཕན་བདེ་་དཔལ་གྱིས་ འབྲུག་པ་་མི་མང་ཡོངས་ལུ་ བདེ་དད་གོང་འཕེལ་ཡུན་ གནས་ཀྱི་ རེ་སོན་དང་བཀྲ་ཤིས་བདེ་ལེགས་ཞུ། 
+
+ཞིབ་འཚོལ་སྡེ་ཚན། 
+
+རོང་ཁ་གོང་འཕེལ་ལྷན་ཚོགས། 
+
+སྤྱི་ལོ་༢༠༡༣ ཟླ་༦ པ་ལུ།
+
+viii 
+
+ཚིག་མཛོད་ནང་གི་བསྡུ་ཡིག | Abbreviations in the dictionary 
+
+adj. adjective | ཁྱད་ཚིག 
+
+adv. adverb | དབྱེ་ཚིག 
+
+conj. conjunction | འབྲེལ་ཚིག  excl. exclamation | ཚོར་སྒྲ། fut. future (tense) | མ་འོངས་པ།  honorific form | ཞེ་ས་ནང།  honorific | ཞེ་ས། 
+
+imp. imperative | སྐུལ་ཚིག num. number | ཨང་གྲངས། 
+
+ opposite | འགལ་མིང། prep. preposition | ཚིག་ཕྲད། pron. pronoun | མིང་ཚབ། 
+
+prs. present (tense) | ད ་་་བ། pst. past (tense) | འདས་པ།  synonym | མིང་གི་རྣམ་གྲངས།
+
+ix 
+
+ཚིག་མཛོད་ལག་ལེན་ལམ་སྟོན།|Guide to dictionary entries 
+
+ཀ། noun the 1st letter of the  Dzongkha 
+
+ཀ། noun the 1st letter of the  Dzongkha alphabet 
+
+ཀ། noun the 1st letter of the  Dzongkha 
+
+རྐང་པ། nounརྐངམ།  ཞབས། leg, foot 
+
+སྐར་མ། noun  སྐར། 1 star (རྒྱུ་ སྐར།) 2 minute (ཆུ་ཚོད་ཀྱི་ཆ་ཤས།) 
+
+ཀ་དཔེ། nounཡིག་དཔེ། 
+
+copybook 
+
+◄་་ཚིག | entry 
+
+◄ཚིག་སྡེ། | part of speech ◄ཚིག་འགྲེལ། | definition 
+
+◄་་ཚིག་གི་འབྲི་ལུགས་གཞན། |  other written form of the  entry 
+
+◄་་ཚིག་གི་མིང་སྡུད། | shorter  form of the entry 
+
+◄མིང་གི་རྣམ་གྲངས། | synonym 
+
+ཁ་མར། adv. ཁ་ཡར། descent ◄འགལ་མིང། | opposite  
+
+རྐང་སེན། nounཞབས་སེན། toe  nail 
+
+◄ཞེ་ས། | honorific
+
+x 
+
+སྐུ་ཆེནམོ། noun dignitary,  Very Important Person (VIP),  aristocrat 
+
+◄་་ཚིག་དེ་ར་ཞེ་ས་ནང་ཡོད་མི། |  entry in honorific form 
+
+ཀི་ལོ་མི་ཊར། noun kilometre (km) ◄བསྡུ་ཡིག | abbreviation 
+
+ཀ་ཀྲ་ཀོ་ཀྲ། adj. 1 curl, winding,  cock-eyed, crooked (གཡོ་གཡོཝ།)  2 devious (གཡོ་སྒྱུ་ཅན།) 
+
+ཀེར་ཐིག noun 1 horizontal line  (ཕར་ཚུར།) 2 vertical line (ཡར་ མར།) 
+
+སྐད་སོར་བ། verb (fut., prs., pst.,  imp.) scramble 
+
+བསྐྲུན། verb (fut., pst.) prs. སྐྲུན།  
+
+imp. སྐྲུན། make, publish,  
+
+construct, generate 
+
+སྐད་བསུབ་པ། verb (fut.) prs. སུབ།  pst. བསུབས། imp. སུབས། sink 
+
+◄་་ཚིག་གི་དོན་དག་མངམ་ཡོད་མི། |  entries with more than one  meaning 
+
+◄དོན་དག་མངམ་ཡོད་མི་ཚུ་ལུ་འགྲེལ་ བཤད། | entries with two or  more meanings have  
+
+explanations 
+
+◄དུས་གསུམ་ཡིག་སྡེབ་འགྱུར་མེད། |  verb with no spelling  
+
+changes in different tenses 
+
+◄དུས་གསུམ་ལ་ལུ་ཡིག་སྡེབ་འགྱུར་བ་ ཡོད་པ། | verb with some  
+
+spelling changes in different  tenses 
+
+◄དུས་གསུམ་ག་ར་ཡིག་སྡེབ་འགྱུར་བ་ ཡོད་པ། | verb with spelling  changes in all different  tenses
+
+xi 
+
+ཀ། 1 ཀ་་ོམ། 
+
+ཀ། noun the 1st letter of the  Dzongkha  
+
+༼ཀ༽ 
+
+ཀ 
+
+ཀ་་ོང་། noun notch 
+
+ཀ་གདན། noun pedestal, footing,  
+
+ཀ་ཀུ། noun ཀ་སད། ཀ་མད།  ཀ་ཁ། alphabet 
+
+ཀ་ཀུ་རུ། noun pumpkin, squash ཀ་ཀོ་ལ། noun cardamom 
+
+ཀ་ཀྲ་ཀོ་ཀྲ། adj. 1 curl, winding,  cock-eyed, crooked (གཡོ་གཡོཝ།)  2 devious (གཡོ་སྒྱུ་ཅན།) 
+
+ཀ་ཀྲ་ལ། noun knife, clasp knife,  penknife, pocket knife 
+
+ཀ་ཁ། noun ཀ་སད། ཀ་མད།  ཀ་ཀུ། alphabet  
+
+ཀ་ཁ་་གོ་རིམ། noun alphabetical ཀ་ཁྱིམ། noun tower 
+
+ཀ་ཁྱིམ་ཐུང་ཀུ། noun turret 
+
+ཀ་སྒྲོམ། noun pillar box 
+
+ཀ་ཅུང་། noun ཀ་ཆེན། post ཀ་ཆེན། noun ཀ་ཅུང་།  column, pile 
+
+ཀ་ཆེན་མགུ་ཏོ། noun capital ཀ་ཇུ། noun cashew 
+
+ཀ་ཏོ་རིལ་རི། adj. chubby 
+
+ཀ་རྟགས། noun mark 
+
+ཀ་རྟེན། noun pedestal, footing,  plinth 
+
+plinth 
+
+ཀ་རྡེའུ། noun rook 
+
+ཀ་པཱ་ལི། noun skull, cranium  ཀ་དཔེ། noun ཡིག་དཔེ།  copybook 
+
+ཀ་བ། noun pillar, column, post,  pole 
+
+ཀ་བལ། noun cotton, cotton  wool 
+
+ཀ་བལ་འོད་རས། noun poplin ཀ་བལ་རས། noun lint  
+
+ཀ་སྦུག noun lobby, foyer ཀ་སྦུབ། noun cotton bud 
+
+ཀ་མ་རུ་པ། noun marble  
+
+ཀ་མ་རུ་པ་དཀརཔོ། noun alabaster ཀ་མ་ལ། noun lotus  
+
+ཀ་མེད། noun compulsion ཀ་མད། noun ཀ་སད། ཀ་ཁ།  ཀ་ཀུ། alphabet 
+
+ཀ་སད། noun ཀ་མད། ཀ་ཁ།  ཀ་ཀུ། alphabet 
+
+ཀ་་ོམ། noun alphabetically  ordered poetry
+
+1 
+
+ཀ་ཟླུམ་རིངམོ། 2 ཀུན་ཁྱབ་གནས་སྐབས། 
+
+ཀ་ཟླུམ་རིངམོ། noun minaret ཀ་ར། noun སྐུ་དཀར། lime,  quicklime, chalk, whitewash ཀ་རིང་། noun tower 
+
+ཀ་རིམ་ཟུར་ཤོག noun index  ཀ་ལ། noun ཧ་ཡང་།  
+
+aluminium 
+
+ཀ་ལ་པིང་ཀ། noun nightingale ཀ་ལ་རམ། noun aluminium pot ཀ་ལི་མགུ་ཏོ། noun tap 
+
+ཀ་ཤ། noun barking deer ཀ་ཤ་མོ། noun hind  
+
+ཀག noun misfortune, obstacle ཀཔ་ལི། noun skull, cranium ཀམ་འཐགམ། noun plain cotton  cloth 
+
+ཀརྨ། noun fate, action  
+
+ཀཝ། noun pillar, column, post,  pier, pole 
+
+ཀར། noun wheat 
+
+ཀར་འདམ། noun plaster 
+
+ཀར་ཕྱེ། noun roasted wheat flour ཀར་ཞིང་། noun wheat field ཀར་ཟུག noun twinge 
+
+ཀར་ཤ་པ་ནི། noun a coin of  ancient India 
+
+ཀི་ཅུ་རམ། noun garlic chives ཀི་ཏབ། noun book, notebook 
+
+ཀི་ལི། noun elbow, crook ཀི་ལི་་་། noun funny bone ཀི་ལོ་གརཱམ། noun kilogram (kg) ཀི་ལོ་མི་ཊར། noun kilometre  (km) 
+
+ཀི་ལོ་མི་ཊར་སྟོན་འཕྲུལ། noun,  milometer, odometer 
+
+ཀི་ལོ་ཝཊ། noun kilowatt (kw,  kW) 
+
+ཀི་ལོ་ལི་ཊར། noun kilolitre (kl) ཀི་ཤིག noun flea 
+
+ཀུ། noun gourd, lagenaria  vulgaris 
+
+ཀུ་ཅུང་། noun small gourd ཀུ་ཏོ། noun 1 small bamboo  basket (གཟེབམ་ཆུང་ཀུ།)  
+
+2 muzzle (ཁ་གཟེབམ།) 
+
+ཀུ་མུད། noun lily  
+
+ཀུ་ཤ། noun Tiger grass,  Thysanolaena maxima (Roxb)  O. Ktze 
+
+ཀུག་སྦྱིག noun flail 
+
+ཀུན། noun all, entire 
+
+ཀུན་ཁྱབ། noun diffusion,  pervade, omnipresent,  
+
+ubiquity, universal 
+
+ཀུན་ཁྱབ་གནས་སྐབས། noun  spectrum
+
+2 
+
+ཀུན་ཁྱབ་ཚིག་མཛོད། 3 ཀུན་ཚང་ཤེས་ཡོན། 
+
+ཀུན་ཁྱབ་ཚིག་མཛོད། noun  
+
+encyclopaedia 
+
+ཀུན་ཁྱབ་ཚིག་མཛོད་་ོམ་མི། noun  encyclopaedist 
+
+ཀུན་ཁྱབ་ཤེས་ཡོན། noun education  for all 
+
+ཀུན་ཁྱབ་སོབ་དཔོན། noun  
+
+pantograph 
+
+ཀུན་མཁྱེན། noun all-knowing,  omniscient  
+
+ཀུན་དགའ། noun 1 liked by all,  darling (ག་ར་གིས་དགའ་མི།) 2 a  state of being always happy  (དུས་རྒྱུན་དགའ་བ།) 3 one of  twenty eight astrological terms  (འཕྲོད་ཆེན།) 
+
+ཀུན་དགའ་བོ། noun Ananda  ཀུན་དགའ་ར་བ། noun ཀུན་ར།  1 a pleasure grove, park (གླིང་ག)  2 monk's assembly hall (དགེ་ སོང་གི་ཚོགས་ཁང་།) 
+
+ཀུན་འགྲོ། noun gipsy, gypsy ཀུན་ཏུ་རྒྱུ། noun gipsy, gypsy ཀུན་བཏུས། noun anthology,  compendium 
+
+ཀུན་མཐུན། noun friendly,  amiable  
+
+ཀུན་མཐོང༌། noun glaring,  
+
+limelight 
+
+ཀུན་མཐོང་མིན་པ། adj. in camera ཀུན་མཐོང་མཛད་རིམ། noun open  proceeding 
+
+ཀུན་དོན། noun all-purpose ཀུན་འདུས། noun all 
+
+encompassing 
+
+ཀུན་ལྡན་གཞི་རྟེན། noun  
+
+macrocosm  
+
+ཀུན་སྤེལ། noun dissemination ཀུན་སོད། noun behaviour,  conduct, make-up, ethical ཀུན་སོད་རྣམ་དག noun integrity ཀུན་སོད་རྣམ་གཞག noun ethics,  code of conduct 
+
+ཀུན་སོད་རིག་པ། noun ethics ཀུན་སོད་སོབ་དཔོན། noun moralist ཀུན་ཕན། noun beneficial to all  ཀུན་འབྱུང་། noun source of  everything 
+
+ཀུན་འབྱུང་བདེན་པ། noun the truth  of the origin of suffering ཀུན་སྦྱོར། noun promiscuous ཀུན་ཚང༌། noun comprehensive,  all-round 
+
+ཀུན་ཚང་ཚིག་མཛོད། noun  
+
+encyclopaedia 
+
+ཀུན་ཚང་ཤེས་ཡོན། noun  
+
+wholesome education 
+
+ཀ 
+
+3 
+
+ཀུན་རོབ། 4 ཀོ་གྲུ། 
+
+ཀུན་རོབ། noun དོན་དམ། the  relative, the conventional  phenomena 
+
+ཀུན་རོབ་བདེན་པ། noun relative  truth 
+
+ཀུན་གཞི། noun basis, foundation ཀུན་གཟིགས། noun all-seeing ཀུན་བཟང་། noun all goodness  ཀུན་བཟང་འཁོར་ལོ། noun  
+
+crossword 
+
+ཀུན་ལེགས། noun all goodness  ཀུན ་སོང་། noun བསམ་པ་ སེམས་བསྐྱེད། མནོ་བསམ། motive,  inducement, intention 
+
+ཀུན་སོང་ངན་པ། noun impure ཀུན་སོང་བཟང་པོ། noun inspiration ཀུན་སོང་ཤེས་ཡོན། noun moral  education 
+
+ཀུན་གསལ། noun glaring 
+
+ཀེ་ཀེ། adj. གསེག་ཁམས།  1 horizontal, landscape (ཕར་ ཚུར།) 2 erect, upright,  
+
+perpendicular, vertical (ཡར་ མར།) 
+
+ཀེ་ཀེ་ཏང་ཏ། adj. horizontal  ཀེ་ཇི། noun kilogram (kg) ཀེ་ཇི་བརྒྱ་ཚད། noun quintal 
+
+ཀེ་ཏ་ཀ། noun a stone and tree  with water purifying properties 
+
+ཀེ་བ། noun potato 
+
+ཀེ་བ་བསྒྲལ་ཆས། noun potato  masher 
+
+ཀེ་བ་མངརམོ། noun sweet potato ཀེ་བ་པགས་ཀོ། noun jacket  ཀེ་བ་དམརཔོ། noun red potato ཀེ་ཧང་། noun cannabis,  
+
+marijuana, hemp 
+
+ཀེང་རུས། noun skeleton, scraggy ཀེན་་་ལ། noun tick 
+
+ཀེན་སར། noun cancer 
+
+ཀེབ་ཏ། noun chapatti, English  muffin 
+
+ཀེབ་ཏ་སྒྲིལ་ཤིང༌། noun rolling pin ཀེམ་འོད། noun blinker 
+
+ཀེར་་། noun stare 
+
+ཀེར་ཐིག noun 1 horizontal line  (ཕར་ཚུར།) 2 vertical line (ཡར་ མར།) 
+
+ཀེར་གཟུགས། noun perpendicular ཀེརམ། noun fern 
+
+ཀོ་ཀྲ། adj. 1 crooked, not  straight (ཕྲང་ཏང་ཏ་མེད་མི།)  2 bow-legged, bandy-legged  (སྒྱིད་ཐག་མ་ཕྲངམ།) noun rake  (ཤད་ཅུང།) 
+
+ཀོ་རྐྱལ། noun leather bag ཀོ་གྲུ། noun leather boat
+
+4 
+
+ཀོ་སྒྱེས། 5 ཀྲང་ཀྲི་སྦུལ། 
+
+ཀོ་སྒྱེས། noun animal skin curry ཀོ་སྒྲོམ། noun leather case ཀོ་ཆས་ཚོང་པ། noun saddler ཀོ་ཐག noun thong, leather strap ཀོ་གདན། noun skin rug 
+
+ཀོ་པི། noun cabbage 
+
+ཀོ་པི་ཆུང༌ཀུ། noun brussels sprout ཀོ་བ། noun leather  
+
+ཀོ་མ། noun 1 brooch (ཐིང་ཁབ།)  2 hook (ལྕགས་ཀྱུ།) 
+
+ཀོ་ཤབ། noun vellum 
+
+ཀོ་ཤེལ། noun plastic glass ཀོ་ཤོག noun parchment 
+
+ཀོ་ལྷམ། noun leather shoe ཀོག་ཏོ། noun ball, roll 
+
+ཀོང་ཐག noun traditional mouth  organ made of bamboo or  metal 
+
+ཀོང་པོ། noun millet 
+
+ཀོང་ཕུ། noun kung fu 
+
+ཀོང་བུ། noun དཀར་མེ་་ཀོངམ། butter lamp cup 
+
+ཀོང་དབྱིབས། noun conical ཀོང་ཙེ། noun pine cone 
+
+ཀོང་ཙེ་་མེ་ཏོག noun laburnum  ཀོང་གཟུགས། noun cone 
+
+ཀོང་ཤིང༌། noun conifer 
+
+ཀོངམ། noun དཀར་མེ་་ཀོངམ། butter lamp cup 
+
+ཀོབ་ཆུང་། noun brussels sprout ཀོམ་གདན། noun skin rug ཀོཝ། noun པགས་ཀོ།  leather, hide 
+
+ཀོཝ་སྤུ་ཅནམ། noun pelt  
+
+ཀོཝ་རྫུན་མ། noun leatherette  ཀོཝ་འོད་ཅནམ། noun patent  leather 
+
+ཀོརོ་ན། noun Krona 
+
+ཀྭ་ཡེ། excl. hey 
+
+ཀྱང༌། conj. either 
+
+ཀྱི། conj. possessive case  marker, genitive 
+
+ཀྱི་ཧུད། excl. alas 
+
+ཀྱིས། conj. by, agentive case  marker 
+
+ཀྱུར་ཀྱུར། adj. chirp, chirrup,  twitter 
+
+ཀྱོག་ཀྱོག adj. nod 
+
+ཀྱོང་ཀྱོང༌། adj. concave,  
+
+depression 
+
+ཀྱོང་ཤེལ། noun concave lens ཀྲག་ཀྲག noun clatter 
+
+ཀྲང་ཀྲི། noun rattle 
+
+ཀྲང་ཀྲི་སྦུལ། noun rattlesnake
+
+ཀ 
+
+5 
+
+ཀྲང་ཀྲིང་། 6 ཀྲོབ་མདའ། 
+
+ཀྲང་ཀྲིང་། adj. bewildered,  perplexed 
+
+ཀྲམ་ཀ་་རྒྱབ། noun tail 
+
+ཀྲམ་ཀྲེམ། adj. cheat, trick ཀྲི་ཕིན། noun tiffin 
+
+ཀྲི་མི། noun lime container ཀྲིག་ཀྲི། adj. གཏན་གཏན། ངེས་ ཏིག ངེས་བརྟན། 1 accurate,  correct, exact, clean, just,  unerring, plumb, smart (མ་ འཛོལ་བ།) 2 proper (འོས་ལྡན།)  3 regular (རྒྱུན་མ་ཆད་པ།) 
+
+ཀྲིག་ཀྲི་ཅིག adv. ཧ་ལམ་ཅིག  indifferent, mediocrity,  
+
+middling 
+
+ཀྲིག་ཀྲི་གཏང་བ། verb (fut., prs.,  imp.) pst. བཏང་།  
+
+1 appreciation, satisfaction  (ངལ་རངས་པ།) 2 displeasure  (ངལ་མ་རངས་པ།) 
+
+ཀྲིང་ཀ། noun མདུང་། lance,  pike, spear, bayonet, mace ཀྲིང་ཀྲི། noun gong 
+
+ཀྲིང་སྒྲ། noun tinkle 
+
+ཀྲུ་ཀུ་ལི། noun cotton 
+
+ཀྲུམ་ཀྲུ། noun cartilage (པགས་ཀོ་ ཧྲབ་ཧྲོབ།) adj. crisp, crunchy,  gristle (ཕྲུམ་ཕྲུམ།) 
+
+ཀྲེག verb (fut., prs., pst., imp.)  scratch, cross out 
+
+ཀྲེག་ཀྲེགཔ། adj. shaven 
+
+ཀྲེག་ཆས། noun abrasive,  scraper, shaver 
+
+ཀྲེག་ཐལ། noun scraping 
+
+ཀྲེག་པོ་ལ། noun mean, miser,  niggardly 
+
+ཀྲེག་མི། noun scraper 
+
+ཀྲེག་རྨ། noun scratch 
+
+ཀྲེག་ལཱ། noun scratch 
+
+ཀྲེག་ཤུལ། noun scratch 
+
+ཀྲེབ་ཀྲེམ། noun flip-flop, slipper,  sandal 
+
+ཀྲེམ། noun འབྱིད་སྐོར། མགུ་ འབྱིད། མགུ་སྐོར། deceit, trick,  contrivance, ruse 
+
+ཀྲེམ་རྐྱབ་མི། noun ཀྲེམ་ཟེ།  འབྱིད་སྐོར་རྐྱབ་མི། མགུ་འབྱིད་རྐྱབ་མི།  cheater, crook, cunning, sly  person, slacker 
+
+ཀྲེམ་ཟེ། noun ཀྲེམ་རྐྱབ་མི།  འབྱིད་སྐོར་རྐྱབ་མི། མགུ་འབྱིད་རྐྱབ་མི།  cheater, crook, cunning, sly  person, slacker 
+
+ཀྲོང་ཀྲོང་། adj. upright, straight ཀྲོབ་མདའ། noun firearm, gun,  shooter
+
+6 
+
+ཀྲོབ་མདའ་ཁ་རིང༌། 7 ཀླུ་སན། 
+
+ཀྲོབ་མདའ་ཁ་རིང༌། noun machine  gun 
+
+ཀྲོབ་མདའ་བཅོ་མི། noun gunsmith ཀྲོབ་མདའ་འབག་མི། noun gunman ཀྲོབ་མདའ་སྦྱང་ས། noun shooting  gallery 
+
+ཀྲོབ་མདའ་བཟོ་མི། noun gunsmith ཀྲོབ་མདའ་ཤིང༌། noun eucalyptus ཀྲོབ་མདའ་ལྷབ་ས། noun shooting  gallery 
+
+ཀྲོབ་མད་་ཁ། noun barrel ཀྲོབ་མད་་ཁ་དུང༌། noun muzzle ཀྲོབ་མད་་མགུ་ཆ། noun bolt ཀྲོབ་མད་་མགོ་ཡུ། noun butt ཀྲོབ་མད་་སྒྲ། noun bark 
+
+ཀྲོབ་མད་་རྟ། noun trigger ཀྲོབ་མད་་ཐོ་ཆུང༌། noun cock ཀྲོབ་མད་་འཐབ་འཛིང༌། noun  firefight 
+
+ཀྲོབ་མད་་མདེའུ། noun bullet,  shot, slug 
+
+ཀྲོབ་མད་་གཡུ་པ། noun stock ཀླ་ཀློ། noun barbarian, savage,  unexposed, uncivilized, pagan,  heathen 
+
+ཀླད་ཀོར། noun zero, null,  naught, nil, love 
+
+ཀླད་སྐྱོན་་་ནད། noun cerebral  palsy 
+
+ཀླད་འཁྲུག noun brainstorm ཀླད་རྒྱས་ནད། noun encephalitis ཀླད་སྟོང༌། noun empty-headed ཀླད་དར། noun cerebral  membrane, cortex 
+
+ཀླད་ནད། noun Alzheimer’s  disease 
+
+ཀླད་པ། noun ཀླདཔ།  དབུ་ཀླད། brain, nut 
+
+ཀླད་པ་་གཤག་བཅོས། noun  lobotomy  
+
+ཀླད་འབྲེལ་་་རྒྱུས། noun neuron  ཀླད་་། noun brain nerves ཀླད་ཚད། noun encephalitis ཀླད་གཞུང༌། noun cerebrum ཀླད་རླབས། noun brainwave ཀླད་ཤས་ལྟེ་བ། noun cerebrum ཀླུ། noun serpent, naga 
+
+ཀླུ་གྲོང། noun place of serpent  spirits, valley of nagas  ཀླུ་སྒྲུབ། noun Nagarjuna ཀླུ་ཉ། noun dolphin 
+
+ཀླུ་ནད། noun མཛེ་ནད། ས་ བདག་ནད། ས་ནད། leprosy  ཀླུ་སན། noun ingredients for  naga rituals
+
+ཀ 
+
+7 
+
+ཀླུ་ཤིང་། 8 དཀའ་རྙོག 
+
+ཀླུ་ཤིང་། noun red silk cotton  tree, bombax ceiba L. 
+
+ཀླུང་རྟ། noun ལམ་འགྲོ། བ་བ་ ལམ་འགྲོ། fortune, luck 
+
+ཀླུམོ། noun serpent, female naga ཀླུ་་ཕོ་བྲང་། noun palace of  serpent spirits, palace of nagas  ཀློ་པ། noun unexposed person,  uncivilized person 
+
+ཀློག་སྦྱང༌། noun recital 
+
+ཀློང་གྱུར། noun enlightenment དཀའ་འགྲུལ། noun scramble དཀའ་ངལ། noun ལཱ་ཁག  
+
+དཀའ་སྡུག ངལ་བ། དཀའ་ཚེགས།  དཀའ་ལས། དཀའ་ཐུབ། དཀའ་རྙོག difficulty, hardship, problem,  adversity, affliction, bother,  catch, cruelty, crunch, disaster,  distress, dodgy, grinding,  hitch, hurdle, matter, odds, set  back, stink, strain, strait,  struggle, trap, trouble,  
+
+predicament, proposition,  peril, woe 
+
+དཀའ་ངལ་ཀུན་འཇོམས། noun  panacea 
+
+དཀའ་ངལ་འཁོར་ལོ། noun vicious  circle 
+
+དཀའ་ངལ་རྒྱུན་བྱིན། noun haunt  
+
+དཀའ་ངལ་ཅན། adj. burdensome,  problematic, severe, slippery,  vexed, minefield  
+
+དཀའ་ངལ་ཆུང་ཀུ། noun snag དཀའ་ངལ་ཉམས་མོང༌། noun ordeal དཀའ་ངལ་བརྟེན་བྱུང༌། noun vicious  circle 
+
+དཀའ་ངལ་དང་བླངས། noun  contrive 
+
+དཀའ་ངལ་གནས་སྐབས། noun  crisis 
+
+དཀའ་ངལ་གནས་སྟངས། noun  trouble, fix 
+
+དཀའ་ངལ་བྱིན་མི། noun scourge,  troublesome 
+
+དཀའ་ངལ་སོམ། noun  
+
+burdensome, grievous 
+
+དཀའ་ངལ་གཙོ་བོ། noun crux དཀའ་ངལ་ཚབས་ཆེན། noun  malady 
+
+དཀའ་ངལ་ལམ་ཁྱེར། noun  
+
+fortitude, persevere 
+
+དཀའ་ངལ་སེལ་ཐབས། noun  navigate, problem-solving དཀའ་ངལ་སེལ་མི། noun trouble shooter 
+
+དཀའ་ཆེ་དོན་ཆུང་ལཱ། noun legwork  དཀའ་རྙོག noun ལཱ་ཁག  དཀའ་སྡུག ངལ་བ། དཀའ་ཚེགས། 
+
+8 
+
+དཀའ་རྙོག་ཅན། 9 དཀར་ཁྲ། 
+
+དཀའ་ལས། དཀའ་ཐུབ། དཀའ་ངལ།  complication 
+
+དཀའ་རྙོག་ཅན། adj. undesirable དཀའ་ཐུབ། noun ལཱ་ཁག  དཀའ་སྡུག ངལ་བ། དཀའ་ཚེགས།  དཀའ་ལས། དཀའ་རྙོག དཀའ་ངལ།  asceticism, austerity,  
+
+difficulty, hardship, problem,  travail, tolerance of suffering དཀའ་ཐུབ་ཅན། adj. ascetic,  painful, slippery, gruelling,  stiff, martyr, inhospitable,  troubled, uphill 
+
+དཀའ་འཐུས། noun difficulty  allowance, incentive 
+
+དཀའ་དོན། noun conundrum དཀའ་སྡུག noun ལཱ་ཁག ངལ་ བ། དཀའ་ཚེགས། དཀའ་ལས། དཀའ་ ཐུབ། དཀའ་རྙོག དཀའ་ངལ།  hardship, misery, suffering,  trial, trouble 
+
+དཀའ་སྡུག་ཅན། adj. ascetic,  painful, troubled, slippery,  gruelling, stiff, martyr,  
+
+inhospitable, uphill 
+
+དཀའ་སྡུག་ཆེན་པོ། noun  
+
+tribulation 
+
+དཀའ་སྡུག་ཐེག་མི། noun stoic དཀའ་སྡུག་དྲག་པོ། noun  
+
+tribulation 
+
+དཀའ་སྡུག་མོང་མི། noun martyr,  sufferer 
+
+དཀའ་གནས། noun plight,  sweatshop, quandary 
+
+དཀའ་སད། noun hardship,  perseverance, martyrdom,  penance  
+
+དཀའ་བ་་རྒྱལ་ཁ། noun pip དཀའ་ཚེགས། noun ལཱ་ཁག  དཀའ་སྡུག ངལ་བ། དཀའ་ལས།  དཀའ་ཐུབ། དཀའ་རྙོག དཀའ་ངལ།  difficulty, sweat, woe 
+
+དཀའ་འཛེག noun scramble དཀའ་ལས། noun ལཱ་ཁག  དཀའ་སྡུག ངལ་བ། དཀའ་ཚེགས།  དཀའ་ཐུབ། དཀའ་རྙོག དཀའ་ངལ།  hardship, hard work, drudgery,  toil, slog, sweat 
+
+དཀའ་ལས་ཁག་དྲགས། adj.  difficult 
+
+དཀའ་ལས་ཅན། adj. laborious  དཀའ་ལས་ཆེ་དྲགས། adj. teaser དཀའཝ་སད་ནུམ་མི། noun slogger དཀར་རྐྱང་། noun pure white,  
+
+snow-white, plain, snowy དཀར་ཁུང༌། noun ventilator དཀར་ཁྲ། noun white strip,  patch, pinstripe
+
+ཀ 
+
+9 
+
+དཀར་རྒྱན། 10 དཀོན་མཆོག་གསུམ། 
+
+དཀར་རྒྱན། noun ritual cakes’  decoration made with butter or  vegetable shortening 
+
+དཀར་རྒྱུ། noun colon 
+
+དཀར་ཆག noun contents, index,  catalogue  
+
+དཀར་ཆས། noun porcelain དཀར་མཆོད། noun offering  without meat, wine, and garlic དཀར་ཏོམ། noun maggot 
+
+དཀར་ཐག noun pith 
+
+དཀར་མདངས་ཅན། adj. bright,  brilliant 
+
+དཀར་མདོག་ཅན། adj. white དཀར་ནག noun 1 black and  white (ཚོས་གཞི།) 2 mood (ཚོར་ ཉམས།) 
+
+དཀར་པོ། adj. white, grey དཀར་པོ་གཅིག་ཐུབ། noun panacea དཀར་བ། adj. broad 
+
+དཀར་མེ། noun མཆོད་མེ།  butter-lamp 
+
+དཀར་མེ་་ཀོངམ། noun ཀོངམ།  ཀོང་བུ། butter-lamp cup 
+
+དཀར་གཙང༌། noun snow-white དཀར་རྩི། noun 1 white wash (ཀ་ ར།) 2 butter or vegetable  shortening applied on ritual  
+
+cakes (གཏོརམ་གུ་དབུར་ནི།)  3 bleach (དཀར་རས།) 
+
+དཀར་རྩིས། noun སྐར་རྩིས།  astrology 
+
+དཀར་རས། noun calcium, bleach  དཀར་ཡོལ། noun ཞལ་དཀར།  white clay ware, cup, china དཀར་གཡའ། noun pewter དཀར་ཤ་དམར་ཤ། noun pork and  beef 
+
+དཀར་ཤིང་། noun poplar  
+
+དཀར་ཤོག noun vellum 
+
+དཀར་སངས། noun vitreous དཀར་སེར། adj. cream, ivory དཀར་གསལ་ཅན། adj. brilliant དཀརཔོ་དཀར་རྐྱང༌། adj. lily-white  དཀོན། verb (fut., prs., pst.) rare,  scarce 
+
+དཀོན་མཆོག noun almighty, lord,  precious  
+
+དཀོན་མཆོག་རྗེས་དྲན། noun grace,  libation 
+
+དཀོན་མཆོག་གསུམ། noun the  three unequalled among the  rarest, popularly known as the  Three Precious Gem or Triple  Gem; the Buddha, Dharma and  Sangha
+
+10 
+
+དཀོན་གཉེར། 11 དཀྲུག 
+
+དཀོན་གཉེར། noun caretaker,  concierge, person in charge དཀོན་ཐག་ཐ། adj. scarce, hardly དཀོན་དུས། noun low season  དཀོན་དྲགས། adj. ཉུང་དྲགས།   འབོལ་དྲགས། rare, scarce,  lack, scant, short, remote དཀོན ་ཚུལ། adj. rareness 
+
+དཀོར། noun དཀོར་ཟས།  1 wealth (རྒྱུ་ནོར།) 2 faith offerings (དད་རས།) 
+
+དཀོར་ཟས། noun དཀོར།  faith-offerings, handout 
+
+དཀྱི། verb (fut., prs.) pst. དཀྱིས།  imp. དཀྱིས། 1 wear, wrap (སྤུར་ བ་་དོན།) 2 entwine, swirl,  twine (ཕྱི་ཁ་ལས་བསྐོར ་ཏེ་འབར་བ་་ དོན།) 
+
+དཀྱི་ར། noun dress worn by  Bhutanese women 
+
+དཀྱིལ། noun centre, heart,  mean, midst 
+
+དཀྱིལ་ཀྲུང་། noun cross-legged  sitting posture 
+
+དཀྱིལ་འཁོར། noun mandala དཀྱིལ་ཐིག noun diameter དཀྱིལ་རྩེདཔ། noun midfielder དཀྱིལ་མཚམས། noun mid-point དཀྱིལ་གཞོང༌། noun dish 
+
+དཀྱིས་ཐག noun twine 
+
+དཀྱུ། verb (fut., prs., pst., imp.)  flex 
+
+དཀྱུས། noun length 
+
+དཀྱུས་ཐུང་། noun དཀྱུས་རིང་།  short in length 
+
+དཀྱུས་མ། noun ཕལ་པ།  ordinary, common, simple,  constable, the gutter, lay, the  proletariat, prosaic,  
+
+unsophisticated 
+
+དཀྱུས་ཚད། noun length,  
+
+dimension  
+
+དཀྱུས་རིང་། noun དཀྱུས་ཐུང་།  lengthy, swathe 
+
+དཀྱོག verb (fut., prs.) pst.  དཀྱོགས། imp. དཀྱོགས། churn དཀྲི། verb (fut., prs.) pst. དཀྲིས།  imp. དཀྲིས། wrap, twine  
+
+དཀྲིག verb (fut., prs.) pst.  དཀྲིགས། imp. དཀྲིགས། curl  དཀྲིས་ཐག noun twine 
+
+དཀྲིས་ཤིང་། noun climber,  creeper, ivy 
+
+དཀྲུག verb (fut., prs.) pst.  དཀྲུགས། imp. དཀྲུགས། 1 shake,  stir, agitate, beat, churn,  scramble, toss, disorder (འཁྲུག་
+
+ཀ 
+
+11 
+
+དཀྲུག་རྐྱེན། 12 བཀག་ཆ། 
+
+བཅུག་པ།) 2 discompose,  dislocate, disturb (ཕུང་བཟོ་བ།) དཀྲུག་རྐྱེན། noun dynamite,  storm 
+
+དཀྲུག་དམ། noun shaker 
+
+དཀྲུག་བྱེད། noun provocative དཀྲུག་མི། noun 1 one who  shakes or stir (བཞེས་སྒོ་དཀྲོག་མི།)  2 instigator, agitator (བར་ན་ དཀྲོག་མི།) 
+
+དཀྲུག་གཞི། noun provocation དཀྲུག་ཤིང་། noun 1 object for  stirring, stir (དཀྲོག་ཤིང་།)  
+
+2 schismatic, quarrelsome  (དཀྲོག་མི།) 
+
+དཀྲུག་ཧོད། noun shaker 
+
+དཀྲུམ། verb (fut., prs.) pst.  དཀྲུམས། imp. དཀྲུམས།  བཅག break, crack, crush,  fracture, knock, shatter, smash,  
+
+crumble, splinter, snap 
+
+དཀྲུམ་སྒྲ། noun smash 
+
+དཀྲུམ་འཕྲུལ། noun crusher དཀྲུམཔ་འཇམ་ཏོང་ཏོ། adj. crumbly དཀྲུམས་དཀྲུམསཔ། adj. broken དཀྲུམས་རོ། noun wreckage དཀྲོག verb (fut., prs.) pst.  དཀྲོགས། imp. དཀྲོགས། 
+
+1 disrupt, interrupt, meddle,  
+
+disturbance, tamper, tease,  violate, hassle, mar (བར་ཆད་རྐྱབ་ པ།) 2 agitate, incite, sneak  (ཕུང་བཟོ་བ།) 3 fiddle, churn  (དཀྱོག་པ།) 
+
+དཀྲོག་ཁ། noun དཀྲོག་གཏམ།  rumour, calumny, propaganda དཀྲོག་སྒྱུར། noun manipulation དཀྲོག་སྒྲ། noun knock 
+
+དཀྲོག་གཏམ། noun དཀྲོག་ཁ།  rumour, calumny, propaganda དཀྲོག་འདོད་ཅན། adj. flirtatious དཀྲོག་མི། noun sneak 
+
+དཀྲོག་རྩེད། noun booby trap བཀག་རྐྱབ་མི། noun objector  བཀག་འགོག noun arrest,  
+
+restraint, save, withhold, deny བཀག་འགྲོལ། noun opening up  བཀག་ཆ། noun བཀག་དམ།  ཚད་འཛིན། མཚམས་འཛིན།  
+
+stoppage, objection,  
+
+obstruction, prohibition,  rejection, repudiation,  
+
+restraint, restriction, boycott,  censure, containment, curb,  embargo, frustration,  
+
+hindrance, inhibition,  
+
+interception, interference, 
+
+12 
+
+བཀག་ཆ་མེདཔ། 13 བཀག་མེད་ཚོང་འབྲེལ། 
+
+negation, immunity, arrest,  debarment 
+
+བཀག་ཆ་མེདཔ། adj. free, liberal,  uninterrupted 
+
+བཀག་ཆ་་ཐོབ་དབང་། noun right  of immunity 
+
+བཀག་ཆས། noun brake, resistor,  bar 
+
+བཀག་གཉེར་པ། noun custodian བཀག་ཏོག noun stopcock བཀག་ཐབས། noun deterrent,  prevention, preventive  
+
+measure 
+
+བཀག་ཐབས་མེད་པ། adj.  
+
+inevitable 
+
+བཀག་ཐོགས། noun standstill བཀག་དུས། noun veto 
+
+བཀག་དམ། noun བཀག་ཆ།  ཚད་འཛིན། མཚམས་འཛིན། ban,  contraband, embargo,  
+
+prevention, prohibition,  
+
+restriction, sanction 
+
+བཀག་དམ་ཅན། adj. restricted བཀག་དམ་དབང་ཚད། noun veto བཀག་གདངས། noun bar 
+
+བཀག་གནས། noun standstill བཀག་གནོན། noun restrain བཀག verb (fut., prs., pst., imp.)  1 avert, avoid, ban, bar,  
+
+barricade, beat, block,  
+
+blockade, brake, buck, check,  closure, combat, confute,  constrain, contain, contradict,  constipate, counteract, cramp,  debunk, demolish, denial,  deter, disprove, disrupt, enjoin,  fend, fight, foil, forbid,  
+
+frustrate, hail, halt, hamstring,  hinder, hobble, hush, immune,  impede, inhibit, intercept,  intervene, negate, negative,  neuter, object, obstruct, parry,  pause, preclude, prevent,  prohibit, refusal, repudiate,  resist, restrain, restrict,  
+
+sabotage, save, scupper, shield,  squash, squelch, stem, stifle,  stop, stranger, suppress,  
+
+thwart, veto (དགག་པ་རྐྱབ་པ།)  2 cleave (ཤིང་གཤག་པ།)  
+
+3 anorexia, loss of appetite (ཟ་ ཁམས་མེད་པ།) 
+
+བཀག་མ་ཚུགསཔ། adj. inexorable བཀག་མི། noun objector,  
+
+preventer 
+
+བཀག་མེ། noun brake light བཀག་མེད་ཉིནམ། noun open day  བཀག་མེད ་ཚོང་འབྲེལ། noun open  market, free trade
+
+ཀ 
+
+13 
+
+བཀག་འཛིན། 14 བཀའ་གྲོསཔ། 
+
+བཀག་འཛིན། noun attachment,  constraint, constriction,  
+
+control, curb, limitation,  regulation, restriction 
+
+བཀག་འཛིན་མེདཔ། adj.  
+
+uncontrolled 
+
+བཀག་བཞག noun detain,  withhold, stop 
+
+བཀག་ར། noun barricade,  floodgate, entanglement 
+
+བཀག་རིལ། noun ballcock བཀག་ལུས། noun tailback བཀག་ཤུགས། noun resistance བཀག་ས། noun stand, stop བཀག་སྲུང༌། noun immunity, save བཀང་། verb (fut., prs., pst.,  
+
+imp.) complete, fill, stack,  stock, crowd 
+
+བཀང་ཤོག noun form 
+
+བཀབ། verb (fut., prs., pst.,  imp.)སྤུར། cover, cloak,  clothe, drape, entomb, shroud,  
+
+བཀབ་ནེ། noun སྐུ་གཟན། ན་ བཟའ། scarf worn by Bhutanese  men on formal occasions བཀབ་གཟན། noun shawl 
+
+བཀབ་རས། noun shawl 
+
+བཀབ་ཤོག noun binding, cover,  tracing paper 
+
+བཀའ། noun order,  command, dictate 
+
+བཀའ་བཀྱོན། 
+
+ noun  
+
+reprimand, reproach, censure བཀའ་སྐུལ། noun call 
+
+བཀའ་སྐྱོར་བ། verb (fut., prs., pst.,  imp.) to convey order བཀའ་ཁྱབ། 
+
+ noun 
+
+notification, proclamation,  circular, fiat 
+
+བཀའ་ཁྲིད། 
+
+ noun  
+
+discourse 
+
+བཀའ་ཁྲིམས། 
+
+ noun  
+
+charter, prescript 
+
+བཀའ་ཁྲེལ་དགོངས་ཁྲེལ། 
+
+ noun  
+
+smother, wrap, blanket, carpet བཀབ་གོ་མིང་ཅན། noun  
+
+བཀའ་གྲོལ། 
+
+reprimand 
+
+ noun  
+
+fashionable dress 
+
+བཀབ་གོ་ལ། noun clothes, dress 
+
+permission, green approve, assent 
+
+light, permit,  
+
+བཀབ་ལྕགས། noun hinge 
+
+བཀའ་གྲོསཔ། noun court  jester
+
+14 
+
+བཀའ་འགལ། 15 བཀའ་དྲིན་བསམ་ཤེས། 
+
+བཀའ་འགལ། 
+
+ noun  
+
+contempt, violation 
+
+བཀའ་འགྱུར། noun Buddhist  canon 
+
+བཀའ་རྒྱ། noun བཀོད་རྒྱ།  བཀའ་སོབ། བཀོད་ཁྱབ། ཞལ་བཀོད།  བསབ་བ། command, edict,  
+
+བཀའ་ཐམ། noun བཀའ་ཤོག  ཆབ་ཤོག  seal of  authority, warrant 
+
+བཀའ་དོན། 
+
+ noun  
+
+content of command, content  of order 
+
+བཀའ་དྲིན། 
+
+ noun དྲིན།  
+
+ཀ 
+
+decree, instruction, order,  
+
+
+
+debt, gratitude,  
+
+ordinance, standing order,  behest, fiat 
+
+བཀའ་བརྒྱུད། noun one of the  four sects of Mahayana  
+
+Buddhism 
+
+བཀའ་བསྒོ། noun empowerment,  blessing, instruction 
+
+བཀའ་བསྒྲག་པ། verb (fut., prs.,  imp.)  
+
+pst. བསྒྲགས།  
+
+ordain 
+
+བཀའ་བཅག 
+
+ noun  
+
+insubordination 
+
+grace, tribute 
+
+བཀའ་དྲིན་བསྐྱང་བ། verb (fut., prs.,  imp.)  
+
+pst. བསྐྱངས།  
+
+forgive, pardon, consider བཀའ་དྲིན་དགའ་ཚོར། noun thanks བཀའ་དྲིན་ཅན། 
+
+ adj.  
+
+thankful, gracious, benevolent བཀའ་དྲིན་ཆེ། adv. thank  you, thanks  
+
+བཀའ་དྲིན་ཆེན་པོ། 
+
+ adj.  
+
+highly grateful 
+
+བཀའ་དྲིན་དྲན་པ། verb (fut., prs.,  
+
+བཀའ་ཆད། 
+
+ noun  
+
+pst., imp.) gratitude,  
+
+penalty, judgment, visitation 
+
+indebted 
+
+བཀའ་ཆོས། 
+
+ noun  
+
+བཀའ་དྲིན་ལེགས་སོ། noun vote of  
+
+religious teaching, preaching 
+
+thanks 
+
+བཀའ་ཉན། 
+
+ noun  
+
+བཀའ་དྲིན་བསམ་པ། verb (fut.,  
+
+obedience  
+
+བཀའ་རྟགས། noun order བཀའ་བསྟན། noun Buddhist  canons and commentaries 
+
+prs., imp.) pst. བསམས།  
+
+gratitude, indebted 
+
+བཀའ་དྲིན་བསམ་ཤེས། noun  appreciation, sense of gratitude
+
+15 
+
+བཀའ་དྲིན་བསམ་ཤེས་ཅན། 16 བཀུར་སྟི། 
+
+བཀའ་དྲིན་བསམ་ཤེས་ཅན། adj.  obliged  
+
+བཀའ་སོམ། noun commandment བཀའ་གནང་བ། verb (fut., prs.,  pst., imp.) command,  dictate, order, enjoin 
+
+བཀའ་ཕེབས་པ། verb (fut., prs.,  pst.) arrival of  command 
+
+བཀའ་འཕྲིན། noun warrant,  message 
+
+བཀའ་དབང་། 
+
+ noun  
+
+blessing, empowerment 
+
+བཀའ་མོལ། 
+
+ noun  
+
+discussion, talk 
+
+བཀའ་བཙན་དཔོན་པོ། noun  dictator 
+
+བཀའ་ཡིག noun writ 
+
+བཀའ་ལན། 
+
+ noun གསུང་ལན།  
+
+guardian deity, command  guard 
+
+བཀའ་སོབ། noun བཀོད་རྒྱ།  བཀའ་རྒྱ། བཀོད་ཁྱབ། ཞལ་བཀོད།  བསབ་བ།  advice,  counsel, commandment 
+
+བཀའ་སོབ་གནང་མི། 
+
+ noun  
+
+adviser 
+
+བཀལ། verb (fut., prs., pst.,  imp.) ཕབ། 1 impose, levy,  do, put (ཁྱལ་དང་ཉེས་བ་ ངོ་ཚ་དང་ སྡུག་བསྔལ་ཕོག་བཅུག་པ།) 2 drape,  put on, put, stack, pin (བཞག་ནི་ དང་བཀབ་པ།) 3 appoint, install  (གོ་གནས་ཐོབ་པ།) 
+
+བཀལ་བཞག noun deposit, dump བཀུག verb (fut., prs., pst., imp.)  1 curve, arch, crook, flex,  bend, buckle, twist, duck (མར་ གུག་པ།) 2 call, convene,  
+
+
+
+answer, response 
+
+summon (འབོ་ནི་དང་ཚུར་བསྡུ་བ།)  
+
+བཀའ་ལུང་། noun oral  transmission, request 
+
+བཀའ་ཤོག noun བཀའ་ཐམ།  ཆབ་ཤོག  decree,  edict, warrant, written order 
+
+བཀའ་སྲུང་། noun ཆོས་སྲུང་།  Dharma protector, deity,  guardian of the doctrine,  
+
+3 attract, draw, nobble (འཁོར་ བཅུག་པ།) 
+
+བཀུག་བཀུགཔ། adj. bent,  curvature, curved 
+
+བཀུག་བརྡ། noun summons བཀུར། verb (fut., prs., pst.,  imp.) gesture of respect 
+
+བཀུར་སྟི། noun respect, honour,  courtesy, homage
+
+16 
+
+བཀུར་བ་མེད་པ། 17 བཀོད་ཐངས། 
+
+བཀུར་བ་མེད་པ། adj. disrespect བཀུར་འོས། adj. honourable,  laudable, respectable 
+
+བཀོ། verb (fut., prs., pst., imp.)  1 dispose of, disposal, drop,  dump, fling, jettison, pelt,  pitch, throw away, sling, bin,  bung, cast (གཡུག་གཏང་བ།)  བསྐྱུར། སྤང་། འདོར། གཡུག 
+
+2 eliminate, extirpate, get rid  of (བཏོན་གཏང་བ།) 3 ditch,  discard, forsake, reject,  
+
+repudiate, scrap, shed (མ་དགོ་ པར་བཞག་པ།) 
+
+བཀོ་ཐངས། adj. delivery 
+
+བཀོ་མི། noun thrower 
+
+བཀོ་བཞག་པ། verb (fut., prs.,  pst., imp.) abandon, desert,  discard, disown, expurgate,  lap, leave, sling, throw, skip,  
+
+renounce, drop, elision,  neglect, elide 
+
+བཀོ་བཞག་མི། noun leaver,  quitter 
+
+བཀོ་བཞག་བཞགཔ། adj.  
+
+abandoned 
+
+བཀོད། བཀོད་པ། verb (fut.,  prs., pst., imp.) 1 enshrine,  formulate, frame, lay, lodge,  record, state, provide, file (བྲིས་ 
+
+བཞག་པ།) 2 bring up (དྲིས་ལན་ འབད་བ།) noun design (བཟོ་ དབྱིབས།) 
+
+བཀོད་ཁྱབ། noun བཀོད་རྒྱ།  བཀའ་སོབ། བཀའ་རྒྱ། ཞལ་བཀོད།  བསབ་བ། directive, command,  direction, executive 
+
+བཀོད་ཁྱབ་འགོ་དཔོན། noun  executive 
+
+བཀོད་ཁྱབ་མདོ་ཆེན། noun  
+
+executive director 
+
+བཀོད་ཁྱབ་ཚོགས་པ། noun  
+
+executive board 
+
+བཀོད་ཁྲམ། noun framework བཀོད་ཁྲིམས། noun statute བཀོད་རྒྱ། noun ཞལ་བཀོད།  
+
+བཀའ་སོབ། བཀའ་རྒྱ། བཀོད་ཁྱབ།  བསབ་བ། command, direction,  instruction, order, prescription,  behest 
+
+བཀོད་རྒྱ་གཏང་མི། noun marshal བཀོད་རྒྱ་བྱིན་མི། noun oversee བཀོད་རྒྱ་་ལག་དེབ། noun  
+
+instruction manual 
+
+བཀོད་སྒྲིག noun direction,  formation, constitute 
+
+བཀོད་སྒྲིག་པ། noun director བཀོད་ཐངས། adj. way of  
+
+designing, method of 
+
+ཀ 
+
+17 
+
+བཀོད་ཐོ། 18 བཀྲ་ཉེས། 
+
+designing, way of recording,  way of writing  
+
+བཀོད་ཐོ། noun registered list བཀོད་དཔོན། noun architect བཀོད་ཚོགས། noun board བཀོད་འཛིན་འགོ་དཔོན། noun  executive 
+
+བཀོད་བཟོཔ། noun designer བཀོད་རིས། noun སྒྲིག་བཀོད།  བཟོ་བཀོད། diagram, sketch,  framework, design, outline བཀོད་ཤོག noun form, pro  forma, format 
+
+བཀོད་སོབ། noun cadet officer,  instructor 
+
+བཀོལ། verb (fut., prs., pst.,  imp.) make use of, employ,  send, set 
+
+བཀོལ་ཉེས། noun exploitation བཀོལ་སོད། noun take into  service, use, operation,  
+
+treatment 
+
+བཀོལ་འཕྲོ། noun second-hand བཀོལ་མི། noun 1 user (སོད་མི།)  2 one who employs (གཡོག་ལཱ་ སོད་མི།) 
+
+བཀོལ་ས། noun point of use 
+
+བཀྱག noun མདངས། མདོག  ཚོས་གཞི། brightness, shine,  polish, radiance 
+
+བཀྱག་ཉམས། noun བཀྱག་ ཡལ། faded, discoloured 
+
+བཀྱག་བཏོན་མི། noun polisher བཀྱག་འཐོན་པ། verb (fut., prs.)  pst. ཐོན། glow, shine, brighten བཀྱག་མདངས། noun radiance བཀྱག་གནགཔོ། noun black བཀྱག་མེད་ཐང་ཆུ། noun turpentine བཀྱག་མེད་མདངས་མེད། adj.  colourless 
+
+བཀྱག་མེད་མདོག་མེད། adj. pale བཀྱག་མེདཔ། adj. dull, dull  colour, dusty 
+
+བཀྱག་སྨུག་པོ། noun mauve བཀྱག་ཚ་དྲགས། adj. colourful,  radiant, bright, brilliant, gaudy,  glare, loud, lurid, showy,  incandescence, violent 
+
+བཀྱག་འོད། noun blaze 
+
+བཀྱག་ཡལ་བ། verb (fut., prs.,  pst.) བཀྱག་ཉམས། faded,  mellow, often 
+
+བཀྱག་སོར། noun stain 
+
+བཀྲ་ཉེས། noun mischievous,  delinquency, mischief,  
+
+naughtiness, scamp, villain
+
+18 
+
+བཀྲ་ཉེས་ཅན། 19 བཀྲམ་སྟེགས། 
+
+བཀྲ་ཉེས་ཅན། adj. mischievous,  naughty 
+
+བཀྲ་མ་ཤིས་པ། noun  
+
+1 inauspicious, jinx (་ས་ངན་པ།)  2 notorious person,  
+
+delinquent, devil, mischief,  mischievous, miscreant, rogue  (བཀྲ་ཉེས།)  སོད་ངན། ་ས་ ངན། 
+
+བཀྲ་ཤིས། noun བཀྲིས།  . དགེ་ལེགས། ཕུན་སུམ་ཚོགས་ པ། auspicious, good,  
+
+prosperity 
+
+བཀྲ་ཤིས་མངའ་གསོལ། noun  auspicious ceremony 
+
+བཀྲ་ཤིས་རྟགས་བརྒྱད། noun the  eight auspicious signs 
+
+བཀྲ་ཤིས་བདེ་ལེགས། noun  
+
+congratulation, wishing of  good luck, greeting  
+
+བཀྲ་ཤིས་པ་་རྟགས། noun  
+
+auspicious sign, good omen,  mascot 
+
+བཀྲ་ཤིས་སོན་ལམ། noun  
+
+concluding prayer 
+
+བཀྲ་ཤིས་ཟླཝ། noun auspicious  month, a month which is  exactly 3 0 days long with no  duplications or omission of  days 
+
+བཀྲ་ཤིས་གཡང་ཆགས། noun  flourishing, prosperous 
+
+བཀྲ་ཤིས་རབ་གནས། noun  auspicious consecration 
+
+བཀྲ་ཤིས་ལེགས་དཔལ། noun well wish dance performed at the  end of special occasion 
+
+བཀྲ་ཤིས་ལེགས་སོན། noun  benediction 
+
+བཀྲག noun brightness, shine,  polish, radiance 
+
+བཀྲག་ཆུ། noun lacquer, stain,  varnish 
+
+བཀྲག་མདངས། noun lustre,  brightness, luminosity 
+
+བཀྲག་མདངས་ཅན། adj. glossy,  gorgeous 
+
+བཀྲག་མེད་རང་བཞིན། noun  paleness 
+
+བཀྲག་རྩི། noun paint, varnish,  oil paint, polish, enamel,  French, glaze, gloss, lacquer  
+
+བཀྲམ། verb (fut., prs., pst.,  imp.) སྤེལ། spread,  display, distribute, exhibit,  dispense, dot, intersperse, lay,  provide, pervade, deal 
+
+བཀྲམ་སྟེགས། noun stand
+
+ཀ 
+
+19 
+
+བཀྲམ་སྟོན། 20 རྐང་འགྲུལཔ། 
+
+བཀྲམ་སྟོན། noun འགྲེམས་སྟོན།  exhibition, display 
+
+བཀྲམ་སྟོན་ཁང་། noun exhibition  hall 
+
+བཀྲམ་བརྡལ། noun pervasion བཀྲམ་སྤེལ། noun ཁྱབ་སྤེལ།  བགོ་བཀྲམ། distribution,  
+
+circulation, supply,  
+
+interspersion, provision,  
+
+pervasion 
+
+བཀྲམ་མི། noun distributor,  provider 
+
+བཀྲམ་བཙུགས། noun deployment བཀྲེས་སྐོམ། noun starvation,  hunger and thirst  
+
+བཀྲོངས། verb (fut., prs., pst.,  imp.) བསྒྲལ། བསད། དམར་ བསད།  kill,  
+
+assassinate 
+
+བཀྲོངས་མི། noun assassin 
+
+རྐ། noun water source 
+
+རྐ་མགོ། noun head, water source རྐ་འགག noun sluice 
+
+རྐང་། noun 1 leg (གཟུགས་ཀྱི་ཡན་ ལག) 2 bone marrow (རུ་ཏོའི་ཚི་ ལུ།) 
+
+རྐང་དཀྲིས། noun gaiter 
+
+རྐང་དཀྲོག noun footsie 
+
+རྐང་བརྐྱང་ལག་བརྐྱང་། noun  spread-eagled 
+
+རྐང་ཁེབས། noun gaiter 
+
+རྐང་ཁྲམ། noun stock 
+
+རྐང་ཁྲི། noun སོད་ཁྲི།  བཞུགས་ཁྲི། chair 
+
+རྐང་ཁྲི་འཁོར་ལོ་ཅནམ། noun  wheelchair 
+
+རྐང་ཁྲི་རིངམོ། noun pew 
+
+རྐང་ཁྲི་ལག་ཅནམ། noun armchair རྐང་འཁོར། noun cycle, bicycle,  pushbike  
+
+རྐང་འཁོར་འཁོར་ལོ་གཅིགམ། noun  unicycle 
+
+རྐང་འཁོར་འགྲན་ས། noun  
+
+velodrome 
+
+རྐང་འཁོར་གཏང་མི། noun bicyclist,  cyclist 
+
+རྐང་འཁོར་རྩེདམོ། noun cycling རྐང་འཁོར་ལག་གཟུང་། noun  handlebar 
+
+རྐང་འཁྲབ། noun pedal, treadle  རྐང་གླིང། noun རྐང་དུང།  trumpet  
+
+རྐང་གླེབ། noun pedal, treadle རྐང་འགྲུལ། noun tramp, trek རྐང་འགྲུལཔ། noun pedestrian,  wayfarer
+
+20 
+
+རྐང་འགྲུལཔ་འགྱོ་ས། 21 རྐང་གདུབ། 
+
+རྐང་འགྲུལཔ་འགྱོ་ས། noun  
+
+pedestrian crossing, pelican  crossing 
+
+རྐང་འགྲོས་འཇལ་ཆས། noun  pedometer 
+
+རྐང་འགྲོས་མི་ཊར། noun  
+
+pedometer 
+
+རྐང་རྒྱུག་ལཱ། noun errand 
+
+རྐང་རྒྱུགཔ། noun express  
+
+messenger 
+
+རྐང་སྒྲ། noun tramp 
+
+རྐང་ཅུང༌། noun knuckle 
+
+རྐང་གཅིག་གླིང་སྒྱུར། noun  
+
+pirouette 
+
+རྐང་ལྕགས། noun shackle, fetter,  manacle 
+
+རྐང་རྗེན། noun ཞབས་རྗེན།  barefoot 
+
+རྐང་རྗེས། noun ཞབས་རྗེས།  footprint 
+
+རྐང་ཉ། noun lobster  
+
+རྐང་གཉིསམ། noun biped 
+
+རྐང་ཊ། noun fork, rake 
+
+རྐང་ཊ་་རྩེ། noun prong 
+
+རྐང་གཏད། noun astride 
+
+རྐང་རྟེན། noun foothold, support,  pedal 
+
+རྐང་རྟེན་འཁརཝ། noun crutch 
+
+རྐང་སྟེགས། noun ཞབས་སྟེགས།  foothold, footing, footrest,  hold, stepping stone, tread,  pedal, duckboards 
+
+རྐང་སྟེགས་པང་ལེབ། noun  
+
+gangplank 
+
+རྐང་སྟོང༌། noun རྐང་ཐང་།  ཞབས་སྟོང། barefoot 
+
+རྐང་ཐང་། noun རྐང་སྟོང༌།  ཞབས་ཐང་། walk, by foot 
+
+རྐང་ཐང་འགྱོ་མི། noun pedestrian,  walker, hiker 
+
+རྐང་ཐང་འགྱོ་ས། noun pedestrian  crossing 
+
+རྐང་ཐང་དྲང་། verb (fut., prs.,  imp.) pst. དྲངས།  ཨ་ལུ་གསོ།  bring up child, raise children 
+
+རྐང་ཐང་འདྲོང་། verb (fut., prs.)  pst. འདྲོངས། imp. འདྲོངས།  grown up, self-supporting 
+
+རྐང་མཐིལ། noun ཞབས་མཐིལ།  sole 
+
+རྐང་དུང་། noun 1 trumpet (མཆོད་ ཆས།)  རྐང་གླིང་། 2 femur  (བརླད་དོའི་རུ་ཏོ།) 
+
+རྐང་གདན། noun ཞབས་གདན།  foot mat, doormat 
+
+རྐང་གདུབ། noun ཞབས་གདུབ།  foot-ring, anklet
+
+ཀ 
+
+21 
+
+རྐང་འདེགས། 22 རྐང་རིལ་རྩེད་མི། 
+
+རྐང་འདེགས། noun leg-up  རྐང་འདྲུད། noun shamble, shuffle རྐང་རྡུམ། noun stump 
+
+རྐང་རྡེག noun kick 
+
+རྐང་རྡོ། noun stepping stone རྐང་ནད། noun foot disease རྐང་ནད་མཁས་པ། noun  
+
+chiropodist 
+
+རྐང་ནད་སན་བཅོས། noun  
+
+chiropody, pedicure 
+
+རྐང་པ། noun རྐངམ།  ཞབས། leg, foot 
+
+རྐང་པ་་རྟིང་རས། noun spat རྐང་པ་་ས་ཁོངས། noun legroom  རྐང་བ། noun ostrich 
+
+རྐང་བྱེལ་ལག་བྱེལ་འཐབ་པ། verb  (fut., prs., pst., imp.) flounder རྐང་མ་་ངར་གདོང༌། noun shank རྐང་མ་་རྨིག་ཅུང༌། noun ankle རྐང་མ་་ཚིགས་ཏོ། noun ankle རྐང་མ་་མཛུབ་མོ། noun ཞབས་ མཛུབ། toe 
+
+རྐང་མ་་ཝ། noun instep 
+
+རྐང་མ་་ཤ། noun rump steak རྐང་མེད། adj. legless  
+
+རྐང་དམག noun ས་དམག  infantry 
+
+རྐང་རྨིག noun hoof 
+
+རྐང་རྩེད། noun football, soccer རྐང་རྩེདཔ། noun soccer player རྐང་ཚབ། noun quid pro quo རྐང་ཚབ་འཁརཝ། noun crutch རྐང་ཚིགས། noun ankle, joint རྐང་ཚིལ། noun marrow 
+
+རྐང་མཛུབ། noun ཞབས་མཛུབ།  toe 
+
+རྐང་མཛུབ་ཐོགས་པ། verb (fut.,  prs., pst.) stub 
+
+རྐང་མཛུབ་བརྡུང་བ། verb (fut.) prs.  རྡུང་། pst. བརྡུངས། imp. རྡུངས།  stub 
+
+རྐང་མཛུབ་སོ་ནད། noun bunion རྐང་མཛུབ་ཤ་འབུར། noun corn རྐང་ཞ། noun cripple 
+
+རྐང་བཞི་མ། noun quadruped རྐང་ཟམ། noun foot-bridge རྐང་འོག noun underfoot 
+
+རྐང་གཡུག་ལག་གཡུག noun  flounder 
+
+རྐང་གཡོག་ལག་གཡོག noun errand རྐང་རིང་། noun leggings  
+
+རྐང་རིལ། noun football, soccer རྐང་རིལ་ཀ་གདུང༌། noun crossbar རྐང་རིལ་འགོ་བཙུགས། noun kick off 
+
+རྐང་རིལ་རྩེད་མི། noun footballer
+
+22 
+
+རྐང་རིལ་ལག་རིལ། 23 རྐུ་གསོད། 
+
+རྐང་རིལ་ལག་རིལ། noun rugby,  rugger 
+
+རྐང་རིལ་ལག་རིལཔ། noun rugby  player 
+
+རྐང་ལག noun ཕྱག་ཞབས།  limb 
+
+རྐང་ལག་གཅད་གཏུབ། noun  mutilation 
+
+རྐང་ལག་གཅད་བཏོག noun  amputation 
+
+རྐང་ལག་བཅག་དཀྲུམ་བསམ་ཤིང༌།  noun splint 
+
+རྐང་ལག་བཏོག་པ། verb (fut., prs.,  imp.) pst. བཏོགས། mutilate རྐང་ལག་བཏོག་མི། noun mutilator རྐང་ལག་འདར་ནད། noun  
+
+Parkinson’s disease 
+
+རྐང་ལག་བསམ་པ། verb (fut., prs.,  imp.) pst. བསམས། truss, pinion རྐང་ལག་་ལ་ཅན། adj. agile རྐང་ལག་མཛོག་ཁྱད། noun kick boxing  
+
+རྐང་ལག་བཞི་བཙུགས། noun  scramble 
+
+རྐང་ལམ། noun footpath, track,  trail 
+
+རྐང་ལོང་། noun rear 
+
+རྐང་ཤུབས། noun leggings  རྐང་བཤུད། noun skate 
+
+རྐང་བཤུད་འཁོར་ལོ། noun  
+
+skateboard 
+
+རྐང་སེན། noun ཞབས་སེན།  toe nail 
+
+རྐང་གསུམ། noun tripod 
+
+རྐང་གསུམ་རྒྱུག་འགྲན། noun three legged race 
+
+རྐང་གསོར། noun sprocket རྐངམ་བཀལ་ས། noun legroom,  footrest 
+
+རྐངམ་སྒྱེན་མོ། noun barefoot རྐངམ་གཏད་ས། noun footrest རྐངམ་འདྲུད་ཤུལ། noun scuff 
+
+རྐངམ་བཙུགས་ས། noun footing རྐངམ་གཞས་སྒོར། noun bandy legged, bow-legged 
+
+རྐངམ་བཞག་ས། noun legroom  རྐངམ་ཟུར་སྤྲིང༌། noun split རྐངམ་རིངམོ། adj. leggy  
+
+རྐན། noun palate 
+
+རྐན ་སྒྲ། noun palatal sound རྐན་ནད། noun disease of the  palate 
+
+རྐུ་བཅམ། noun outflank 
+
+རྐུ་ནོར། noun haul, swag 
+
+རྐུ་བཤུས། noun plagiarism རྐུ་བཤུས་འབད་མི། noun plagiarist རྐུ་གསོད། noun ambush, snipe
+
+ཀ 
+
+23 
+
+རྐུ་གསོད་རྐྱབ་མི། 24 རྐྱབ། 
+
+རྐུ་གསོད་རྐྱབ་མི། noun sniper རྐུན་བརྡ། noun burglar alarm རྐུན་ཚོང་། noun black marketing རྐུན་ཚོང་པ། noun receiver རྐུན་འཛུལ། noun break-in རྐུབ། noun 1 buttocks, bottom,  
+
+arse, ass, bum, rear (ཨ་བུག)  2 anus, rectum (ཨ་བུག་དོང་།) རྐོ་ཏི། noun hoe  
+
+རྐོ་འཕྲུལ། noun shovel 
+
+རྐོང་། noun scabies, mange རྐོང་ཟེ། noun mangy 
+
+རྐྱང་སྐྱེད། noun simple interest རྐྱང་ཁྱིམ། noun stall 
+
+རྐྱང་འཁྲབ། noun monodrama རྐྱང་གྲངས། noun single figures རྐྱང་གླུ། noun monody 
+
+རྐྱང་གླུ་་ོམ་མི། noun monodist རྐྱང་བགོད་ཨང། noun prime  number 
+
+རྐྱང་གཅིགམ། adj. loner  
+
+རྐྱང་གཉེན། noun monogamy རྐྱང་གཉེན་དགའ་མི། noun  monogamist 
+
+རྐྱང་གཉེན་གནས་མི། noun  monogamist 
+
+རྐྱང་གཏམ། noun soliloquy རྐྱང་རྟ། noun wild ass 
+
+རྐྱང་གནས། noun privacy 
+
+རྐྱང་གནས་རིང་ལུགས། noun  isolationism 
+
+རྐྱང་པ། noun 1 single, unit,  unitary, bare, by itself, mono-,  loner (རང་གཅིག) 2 root letter  (བརྩེགས་འདོགས་མེད་པ་་ཡི་གུ།) རྐྱང་པོ། adj. lone  
+
+རྐྱང་བཙོན། noun solitary  confinement 
+
+རྐྱང་ཚིག noun singular 
+
+རྐྱང་ཚོན། noun monochrome རྐྱང་འཛིན། noun monopoly རྐྱང་གཞས། noun monody, solo རྐྱང་ལུས། adj. castaway 
+
+རྐྱང་ལོར། noun one-note  currency  
+
+རྐྱང་བཤད། noun monologue,  soliloquy 
+
+རྐྱངམ་གཅིག adj. གཅིག་ར།  alone, one, only, save, sole རྐྱན། noun jar, water jug, kettle རྐྱབ། verb (fut., prs., pst., imp.)  1 do, carry out, lock (འབད་བ།)  2 go off, throw, discharge,  omit (གཏང་བ།) 3 make, build,  construct, make up (བཟོ་བ།)  4 jar, strike (དྲང་བ།) 5 put up  (བཀོད་པ།)
+
+24 
+
+རྐྱབ་ཐེངས། 25 ལྐོག་གྲོས། 
+
+རྐྱབ་ཐེངས། noun stroke, round རྐྱབ་མི། noun builder,  
+
+constructor, erector, kicker  རྐྱལ། noun ་ལ། swim རྐྱལ་ཅུང༌། noun caddy 
+
+རྐྱལ་རྫིང༌། noun lido, pool རྐྱེན། noun 1 condition,  
+
+circumstance, factor, cause (ཆ་ རོགས་འབད་བ།) 2 adversity,  misfortune, calamity, hazard,  incidence (བར་ཆད།) 
+
+རྐྱེན་རྐྱབ་པ། verb (fut., prs., pst.,  imp.) affect, cause, inflict,  invite, spell, render 
+
+རྐྱེན་ངན། noun བར་ཆད།  འགལ་རྐྱེན། calamity,  
+
+misfortune, mishap, affliction,  catastrophe, holocaust,  
+
+misadventure, smash 
+
+རྐྱེན་ངན་འཁྲབ་སྟོན། noun tragedy རྐྱེན་ངན་ཅན། adj. tragic 
+
+རྐྱེན་ངན་གནས་སྟངས། noun  tragedy 
+
+རྐྱེན་ངན་གནོད་བསོམས། noun toll རྐྱེན་ངན་ཕོག་བཅུག་པ། verb  victimize 
+
+རྐྱེན་ངན་ཕོག་མི། noun victim རྐྱེན་ངན་འབྱུང་བཅུག་པ། verb  victimize 
+
+རྐྱེན་ངན་འབྱུང་བ། verb (fut., prs.)  pst. བྱུང་། befall 
+
+རྐྱེན་ངན་འབྱུང་མི། noun victim རྐྱེན་ངན་ཚབས་ཆེན། noun tragedy,  disaster, catastrophe 
+
+རྐྱེན་ངན་ཤི་ཆད། noun  
+
+misadventure  
+
+རྐྱེན་བྱུང༌། noun victimization རྐྱེན་འབད་བ། verb (fut., prs., pst.,  imp.) implicate, induce,  
+
+occasion, provoke 
+
+རྐྱེན་མང༌། noun non-specific  རྐྱེན་སོང་བ། verb (fut., prs., pst.,  imp.) trigger 
+
+ལྐུག་རྟགས། noun dumbness,  stupidity 
+
+ལྐུག་དད། noun cult 
+
+ལྐུག་པ། noun silly, mute 
+
+ལྐུག་་། noun idiocy 
+
+ལྐོག་ཁ། noun ལྐོག་གཏམ།  backbiting, gossip 
+
+ལྐོག་ཁ་གཏང་བ། verb (fut., prs.,  imp.) pst. བཏང་། gossip,  
+
+backbite 
+
+ལྐོག་ཁ་སབ་མི། noun backbiter,  gossipy 
+
+ལྐོག་གྱུར། noun མངོན་གྱུར།  non-obvious, not evident  ལྐོག་གྲོས། noun conspiracy
+
+ཀ 
+
+25 
+
+ལྐོག་འཆར་བསྒྲིག་པ། 26 སྐད་རྐྱབ་པ། 
+
+ལྐོག་འཆར་བསྒྲིག་པ། verb (fut.)  prs. སྒྲིག pst. བསྒྲིགས། imp.  སྒྲིགས། cook 
+
+ལྐོག་ཉན། noun eavesdropping,  eavesdrop 
+
+ལྐོག་ཉན་པ། noun eavesdropper ལྐོག་ཏི། noun illegitimate ལྐོག་གཏམ། noun ལྐོག་ཁ།  gossip 
+
+ལྐོག་གཏམ་སབ་མི། noun gossipy ལྐོག་སོད། noun hanky-panky ལྐོག་བྱུས། noun hanky-panky ལྐོག་ཟ། noun embezzlement ལྐོག་ཤལ། noun ཨོད་ཤལ།  dewlap 
+
+ལྐོག་སབ་ཅན། noun gossip ལྐོག་གསད། noun assassination ལྐོད་ནད། noun diphtheria  ལྐོད་མ། noun vocal cords,  oesophagus, gullet 
+
+ལྐོད་མ་་སྐད། noun guttural ལྐོད་མ་་སྐད་གསངས། noun  guttural 
+
+ལྐོད་མ་་མཁས་མཆོག noun  otolaryngologist, ENT  
+
+Specialist (or Ear, Nose and  Throat Specialist)  
+
+ལྐོད་བཤལ། noun gargle 
+
+ལྐོད་བཤལ་སན་ཆུ། noun gargle ལྐོདམ། noun pharynx 
+
+ལྐོདམ་ཐོགས་པ། verb (fut., prs.,  pst.) choke, swallow,  
+
+dumbfounded 
+
+ལྐོདམ་འཐིབ་སྐད། noun thick ལྐོདམ་ལྡིབ་པ། verb (fut., prs.,  pst.) choke, swallow 
+
+ལྐོདམ་བཤལ་ཆུ། noun gargle སྐ་པག་པ། adj. ལྷ་སི་སི། stiff,  thick, viscous 
+
+སྐ་པག་པ་བཟོ་བ། verb (fut., prs.,  pst., imp.) thicken 
+
+སྐད། noun 1 language, dialect  (ཁ་སྐད།) 2 noise, voice, din,  sound, tone, voice, cry (སྒྲ།)  གསུང་སྐད། 
+
+སྐད་ཀྱི་སྐྱེ་གནས། noun voice box སྐད་ཀྱི་རིག་པ། noun philology སྐད་ཀྱིས་གང་བ། verb (fut., prs.,  pst.) ring 
+
+སྐད་རྐྱབ་སྟེ་འབོ་བ། verb (fut., prs.,  pst., imp.) call, hail 
+
+སྐད་རྐྱབ་སྟེ་སབ་པ། verb (fut., prs.,  pst., imp.) exclaim 
+
+སྐད་རྐྱབ་པ། verb (fut., prs., pst.,  imp.) cry, groan, scream,  shout, sound, yell
+
+26 
+
+སྐད་གྲགས། 27 སྐད་འཐེན་མི། 
+
+སྐད་གྲགས། noun སྐད་ཅན་མིང་ ཅན། སྙན་གྲགས། ཡོངས་གྲགས། མིང་ གཏམ།  མཚན་སྙན། fame,  reputation, popularity,  
+
+celebrity, hot, household name,  name 
+
+སྐད་གྲགས་ཅན། adj. famed,  famous, renowned, popular,  heart-throb, legend, legendary,  noted, notable, illustrious,  leading light  
+
+སྐད་གྲགས་སོམ། adj. great fame,  very famous 
+
+སྐད་གྲགས་ཡལ་བ། verb (fut., prs.,  pst.) oblivion  
+
+སྐད་འགག noun hoarseness  སྐད་སྒྱུར། noun translation,  interpretation, rendering 
+
+སྐད་སྒྱུར་རྐྱབ་པ། verb (fut., prs.,  pst., imp.) interpret, translate སྐད་སྒྱུར་རྐྱབ་མི། noun interpreter,  translator 
+
+སྐད་སྒྱུར་པ། noun ལོ་ཙཱ་བ།  translator, interpreter 
+
+སྐད་སྒྱུར་འཛོལ་བ། verb (fut., prs.,  pst.) mistranslate 
+
+སྐད་སྒྱུར་འཛོལ་འཛོལཝ། noun  mistranslation 
+
+སྐད་སྒྲ་ཚ་བ། adj. whine 
+
+སྐད་སྒྲ་ཤུགས་རིང༌། adj. whine སྐད་ངན། noun feedback, howl སྐད་ངན་རྐྱབ་པ། verb (fut., prs.,  pst., imp.) howl  
+
+སྐད་ཅན་འཁྲབ་སྟོན་པ། noun  megastar 
+
+སྐད་ཅན་མིང་ཅན། noun སྐད་ གྲགས། སྙན་གྲགས། ཡོངས་གྲགས།  མིང་གཏམ། famed, famous,  renowned, popular, heart throb, illustrious, leading light,  legend, legendary, noted 
+
+སྐད་ཅིག noun moment 
+
+སྐད་ཅིག་མ། noun tick, twinkling སྐད་ཅིག་ཡུད་ཙམ། adv. quick སྐད་ཅོར། noun noise, racket,  hubbub  
+
+སྐད་ཆུང༌། noun low-pitched  སྐད་གཉིས་ཟུང་འབྲེལ། noun  diglossia, bilingual 
+
+སྐད་གཉིས་ཤན་སྦྱར། noun  
+
+bilingual 
+
+སྐད་གཉིས་ཤེས་མི། noun bilingual སྐད་སྙན་བྱི་ཅུང༌། noun canary སྐད་ཐུབ། noun soundproof སྐད་འཐེན་པ། verb (fut., prs., pst.,  imp.) sing, vocalize 
+
+སྐད་འཐེན་མི། noun singer,  vocalist
+
+ཀ 
+
+27 
+
+སྐད་འཐོན་ས། 28 སྐད་རིགས། 
+
+སྐད་འཐོན་ས། noun voice box སྐད་དིག་པ། verb (fut., prs., pst.)  stammer 
+
+སྐད་དྲག་པོ། noun thunderous སྐད་གདངས། noun གསུང་ དབངས། tone 
+
+སྐད་གདངས་སེང་ཕབ། noun  cadence 
+
+སྐད་འདར་བ། verb (fut., prs., pst.)  gibber, crack, shake, quaver སྐད་ཕབ་དུང་ཅུང༌། noun silencer སྐད་འཕྲུལ། noun speaker 
+
+སྐད་འབོད། noun call, clamour,  cry 
+
+སྐད་འབོད་ཚིག noun slogan སྐད་སོམ། noun loud noise,  voice, peal, row 
+
+སྐད་སོམ་རྐྱབ་པ། verb (fut., prs.,  pst., imp.) trumpet 
+
+སྐད་མེད། adj. silence, noiseless,  hushed, silent 
+
+སྐད་མེད་རང་བཞིན། noun  
+
+muteness 
+
+སྐད་མེད་ལད་ཚུལ། noun  
+
+pantomime 
+
+སྐད་བཙིར་བ། verb (fut., prs., pst.,  imp.) warble 
+
+སྐད་རྩུབ་དྲགས། adj. gravelly 
+
+སྐད་ཚ་དྲགས། adj. loud, noisy,  obstreperous, shattering, shrill,  raucous, rowdy, pip 
+
+སྐད་ཟར་ཟིར། adj. hoarse, husky སྐད་ཟུང་གནས་སྟངས། noun  diglossia 
+
+སྐད་བཟུང་ཡོ་ཆས། noun receiver སྐད་ཡིག noun language, tongue,  linguistic 
+
+སྐད་ཡིག་མཁས་མཆོག noun  linguist  
+
+སྐད་ཡིག་མཁས་པ། noun  
+
+philologist 
+
+སྐད་ཡིག་གཅིག་ཤེས། noun  monolingual 
+
+སྐད་ཡིག་གཉིས་པ། noun second  language 
+
+སྐད་ཡིག་འབྱུང་ཁུངས་རིག་པ། noun  etymology 
+
+སྐད་ཡིག་འབྲེལ་བརྗོད། noun  discourse 
+
+སྐད་ཡིག་རིག་པ། noun philology,  linguistics 
+
+སྐད་ཡིག་སོབ་སྦྱོང༌། noun  
+
+linguistics, language study སྐད་ཡིག་ལྷབ་མི། noun linguist  སྐད་རིག་པ། noun linguist  སྐད་རིགས། noun language  variety
+
+28 
+
+སྐད་རིགས་བཞི་ལྡན། 29 སྐབས་མཐུན་བཟོ་བ། 
+
+སྐད་རིགས་བཞི་ལྡན། noun  
+
+quadrilingual 
+
+སྐད་རིགས་བཞི་སབ་མི། noun  quadrilingual 
+
+སྐད་རིང༌། noun squeal, ululation སྐད་ལོག noun feedback 
+
+སྐད་ཤུགས། noun loud noise,  scream, loud, shriek, pitch སྐད་ཤུགས་རྐྱབ་པ། verb (fut., prs.,  pst., imp.) explode, holler,  shriek, bawl, blare, blast, cry,  shrill, thunder, rant, yell 
+
+སྐད་ཤུགས་ཅན། noun blare, call,  din, ear-splitting, shattering,  thunderous 
+
+སྐད་ཤུགས་ཕབ་པ། verb (fut., prs.,  pst., imp.) muffle 
+
+སྐད་ཤོར་བ། verb (fut., prs., pst.)  scream, groan, moan, shriek,  yelp 
+
+སྐད་སེང་བ། verb (fut., prs., pst.,  imp.) raise voice, amplify  voice 
+
+སྐད་སོར་བ། verb (fut., prs., pst.,  imp.) scramble 
+
+སྐད་བསུབ་པ། verb (fut.) prs. སུབ།  pst. བསུབས། imp. སུབས། sink 
+
+སྐབས། adv. day, hour, occasion,  point, while, time, during, at  the time of, as 
+
+སྐབས་སྐབས། adv. རེ་ཅིག་ སྐབས། རེ་ཚེ་སྐབས།  ཨ་རྟག་ར།  occasionally, sometimes,  seldom, frequently, often 
+
+སྐབས་སྐབས་ར། adv. frequently,  often, occasionally,  
+
+sometimes, seldom 
+
+སྐབས་དགའ། noun love-hate  relationship  
+
+སྐབས་ཅིག adv. གནས་སྐབས་ ཅིག འཕྲལ་སྐབས། འཕྲལ་ཁམས།  meantime, for the time being,  these days 
+
+སྐབས་ཐོག adv. 1 at the time,  during (རིང་ལུ།) 2 ad hoc (གློ་ བུར།) 
+
+སྐབས་ཐོག་གཏང་བ། verb (fut.,  prs., imp.) pst. བཏང་། station སྐབས་ཐོག་བདག་འཛིན་པ། noun  caretaker 
+
+སྐབས་ཐོག་དམག་ཤག noun billet སྐབས་ཐོག་ཚོགས་ཆུང་། noun ad  hoc committee 
+
+སྐབས་ཐོབ། adv. context 
+
+སྐབས་མཐུན་བཟོ་བ། verb (fut.,  prs., pst., imp.) contextualize 
+
+ཀ 
+
+29 
+
+སྐབས་དོན། 30 སྐར་མདངས། 
+
+སྐབས་དོན། noun current matter,  purpose, context, circumstance སྐབས་དོན་མིང་ཚིག noun locution  སྐབས་སོ། noun fad 
+
+སྐབས་བབ། adv. juncture, at  present 
+
+སྐབས་བབ་བཀག་སོམ། noun  injunction 
+
+སྐབས༌གཡོག noun secondment སྐབས་ལམ། noun byway 
+
+སྐབས་སུ། adv. provisionally སྐམ། རློནམ། verb (fut., prs.,  pst.) wither, decline, drain,  evaporate, scorch, wilt,  
+
+decline, deteriorate, shrivel  (ཉམས་པ།) noun dry (རློནམ་མེན་ པ།) 
+
+སྐམ་ཀྲ་ལ། adj. རྒྱགས་ཏོ་རིལ་ རི། lanky, scrawny, spindly,  wasted 
+
+སྐམ་ཀྲོག་ཀྲོ། adj. སྐམ་ཧུ་ཧུ།   རློན་ཆག་ཆ། crisp, dry སྐམ་ཁྲལ། noun tax paid in cash སྐམ་ཁྲུས། noun dry-cleaning སྐམ་ཁྲུས་རྐྱབ་པ། verb (fut., prs.,  pst., imp.) dry-clean 
+
+སྐམ་གློ། noun hacking cough སྐམ་ཆགས་རློན་ཆགས། noun newt  
+
+སྐམ་ཐག་ཆོད་ཆོདཔ། adj.  
+
+dehydrated 
+
+སྐམ་ཐབ། noun kiln 
+
+སྐམ་དྲགས། adj. 1 lean, thin (ཕྱ་ ཀྲིང་ཀྲི།) 2 completely dry,  parched (རློནམ་མེན་པ།) 
+
+སྐམ་གནས་རློན་གནས། noun  amphibian 
+
+སྐམ་ཕོགས། noun payment in  kind or cash 
+
+སྐམ་འཕྲུལ། noun drier, dryer སྐམ་ཚོགས། noun offerings other  than cooked foods such as  biscuits, noodles, fried or  roasted grain items, etc. 
+
+སྐམ་ཞིང་། noun ཆུ་ཞིང་། dry  land 
+
+སྐམ་ས། noun dry place, dry land སྐམ་ཧུ་ཧུ། adj. སྐམ་ཀྲོག་ཀྲོ།  scarcity in food and water སྐར་ཁུང་། noun ventilation  སྐར་ཆ། noun second 
+
+སྐར་ཆ་་བརྡ་ཤིང༌། noun second  hand 
+
+སྐར་ཉ། noun starfish 
+
+སྐར་རྟགས། noun asterisk, star སྐར་མདངས། noun aurora
+
+30 
+
+སྐར་མདའ། 31 སྐས་ཁང༌། 
+
+སྐར་མདའ། noun falling star,  meteor, meteorite, shooting  star 
+
+སྐར་རྡོ། noun asteroid 
+
+སྐར་བརྡ། noun minute hand སྐར་གནས་བདུན་པ། noun Uranus སྐར་སྤྲིན། noun nebula  
+
+སྐར་དབྱིབས། noun star 
+
+སྐར་མ། noun  སྐར། 1 star  (རྒྱུ་སྐར།) 2 minute (ཆུ་ཚོད་ཀྱི་ཆ་ ཤས།) 
+
+སྐར་མ་དུ་བ་མཇུག་རིང༌། noun  comet 
+
+སྐར་མ་མཚོ་རྒྱལ། noun Neptune  སྐར་མ་གཤིན་རྒྱལ། noun Pluto སྐར་མ་་བརྡ་ཤིང༌། noun minute  hand 
+
+སྐར་རྩིས། noun དཀར་རྩིས།  astrology 
+
+སྐར་རྩིས་མཁན། noun astrologer སྐར་རྩིས་རིག་པ། noun astrology སྐར་ཚོགས། noun constellation,  
+
+galaxy, stars, the Milky Way སྐར་ཚོམ། noun galaxy,  
+
+constellation 
+
+སྐར་ཚོམ་མིང་ཅན། noun  
+
+constellation 
+
+སྐར་གཟེར། noun rivet 
+
+སྐར་འོད། noun aurora 
+
+སྐརམ། noun star 
+
+སྐལ་ངན། noun misfortune, ill fated 
+
+སྐལ་མཉམ། noun fellow 
+
+སྐལ་ལྡན། noun fortunate,  blessed 
+
+སྐལ་བ། noun སྐུ་སྐལ། share,  portion, honour, shareholding,  fill, take 
+
+སྐལ་བ་བགོ་བ། verb (fut., prs.,  pst., imp.) apportion 
+
+སྐལ་བ་བགོ་བཤའ། noun dividend,  share 
+
+སྐལ་མེད། adj. misfortune, ill fated 
+
+སྐལ་རྩིས། noun appropriation སྐལ་ཚན། noun portfolio 
+
+སྐལ་བཞག noun allocation སྐལ་བཟང་། noun good fortune,  fortunate, honour 
+
+སྐལ་བཟང་མེ་ཏོག noun dahlia སྐལཝ་བགོ་བ། verb (fut., prs.,  pst., imp.) allocate 
+
+སྐལཝ་སོད་པ། verb (fut., prs.,  pst., imp.) allocate 
+
+སྐལཝ་བྱིན་པ། verb (fut., prs.,  pst., imp.) allocate 
+
+སྐས་ཁང༌། noun landing 
+
+ཀ 
+
+31 
+
+སྐས་གདང༌། 32 སྐུ་སྒེར་ལས་རོགས། 
+
+སྐས་གདང༌། noun rung 
+
+སྐུ་འཁྲུངས་པ། verb (pst.) fut.  འཁྲུང་།  
+
+སྐུ། 
+
+ noun 1 body (གཟུགས།)  
+
+prs. འཁྲུང་།  
+
+པ་་རྟེན།) 
+
+2 statue, icon (མཆོད་ 
+
+birth, born 
+
+སྐུ་འཁྲུངས་པ་་ཉིནམ། 
+
+ noun  
+
+སྐུ་དཀར་གསོལ་བ། verb (fut., prs.,  
+
+
+
+birth anniversary 
+
+pst., imp.) whitewash སྐུ་རྐྱང་། noun single,  alone 
+
+སྐུ་སྐལ། noun share,  portion, honour, fill,  
+
+shareholding, take 
+
+སྐུ་སྐེད། noun waist སྐུ་སྐྱེ། noun re-birth, re incarnation 
+
+སྐུ་སྐྱེ་ལེན་པ། verb (fut., prs., pst.,  imp.) incarnate 
+
+སྐུ་ཁམས། noun state of  health 
+
+སྐུ་གྱོང་། noun loss སྐུ་གྲིབ། 
+
+ noun  
+
+defilement, contamination  སྐུ་གླུད། noun effigy,  ransom offered in the form of  image and wealth 
+
+སྐུ་བགྲེས། noun elder,  senior, former, old, aged སྐུ་མགྲོན། noun guest སྐུ་མགྲོན་གཙོ་བོ། 
+
+ noun  
+
+chief guest 
+
+སྐུ་རྒྱན། noun ornament སྐུ་རྒྱབ། 
+
+ noun སྐུ་མདུན།  
+
+སྐུ་ཁྲག noun blood 
+
+
+
+1 back (སྒལ་ཏོ།)  
+
+སྐུ་ཁྲུས། noun bath སྐུ་འཁོར། noun royal,  royalty, monarchy, family  member  
+
+སྐུ་འཁོར་སྡེ་ཚན། 
+
+ noun  
+
+2 behind (མདུན་ཕྱོགས་འགལ་མིང་།) སྐུ་སྒེར། noun personal,  private 
+
+སྐུ་སྒེར་དྲུང་ཆེན། 
+
+ noun  
+
+private secretary 
+
+entourage 
+
+སྐུ་སྒེར་ཚོགས་སྡེ། 
+
+ noun  
+
+སྐུ་འཁོར་གསོལ་ཕོགས། 
+
+ noun  
+
+the Privy Council 
+
+
+
+privy purse 
+
+སྐུ་སྒེར་ལས་རོགས། 
+
+ noun 
+
+personal assistant 
+
+32 
+
+སྐུ་སྒེར་གསོལ་ཕོགས། 33 སྐུ་དྲག་ཕོ། 
+
+སྐུ་སྒེར་གསོལ་ཕོགས། 
+
+ noun  
+
+སྐུ་ཉམས། noun fatness,  
+
+
+
+the privy purse 
+
+obesity 
+
+ཀ 
+
+སྐུ་ངལ། noun rest  སྐུ་ངོ་མ། 
+
+ noun  
+
+personally, in person 
+
+སྐུ་ཉིད། noun his སྐུ་ཉེ། noun relative,  kinsman 
+
+སྐུ་དངོས། 
+
+ noun  
+
+སྐུ་གཉེར། 
+
+ noun  
+
+personally, in person  
+
+སྐུ་བཅིང་། noun waist belt 
+
+སྐུ་ཆས། noun personal  belongings 
+
+སྐུ་ཆེ། noun 1 huge body (གཟུགས་ སོམ།)  2 forgive,  pardon (བཟོད་གསོལ།) 
+
+སྐུ་ཆེནམོ། 
+
+ noun  
+
+dignitary, Very Important  Person (VIP), aristocrat 
+
+སྐུ་མཆེད། 
+
+ noun སྐུ་སྤུན།  
+
+caretaker 
+
+སྐུ་གཉེར་ཁྱིམ། noun vicarage སྐུ་བརྙན། noun shadow,  reflected image, icon, idol སྐུ་རྟེན། noun idol,  statue, icon 
+
+སྐུ་སྟོད། noun 1 upper  part of the body (སྐེདཔ་ཡན་ཆད་ གཟུགས།) 2 blouse (འོན་ཇུ།) 
+
+སྐུ་བསྟེན། noun idolatry སྐུ་བསྟོད། noun praise སྐུ་ཐང་། noun religious painted  
+
+སྐུ་མཆོག 
+
+sibling 
+
+scroll 
+
+ noun  
+
+venerable, honourable 
+
+སྐུ་མཆོད། 
+
+ noun  
+
+commemoration service, death  anniversary  
+
+སྐུ་འཆམ། noun mask  dance 
+
+སྐུ་ཐོག noun during,  lifetime 
+
+སྐུ་དོརམ། 
+
+ noun  
+
+trousers, pants 
+
+སྐུ་དྲག noun lord, peer,  noble 
+
+སྐུ་རྗེས། noun body  imprint, body mark  
+
+སྐུ་དྲག་གོ་གནས། lordship  
+
+ noun  
+
+སྐུ་དྲག་ཕོ། noun peer,  nobleman
+
+33 
+
+སྐུ་དྲག་མོ། 34 སྐུ་བཞེངས་པ། 
+
+སྐུ་དྲག་མོ། 
+
+ noun  
+
+སྐུ་ཕུང་། 
+
+ noun སྐུ་གདུང ་།  
+
+peeress, noblewomen 
+
+
+
+dead body 
+
+སྐུ་དྲིན། noun kindness,  benevolence, gratitude, grace སྐུ་དྲུང་། adv. in the presence of,  
+
+སྐུ་ཕུང་མེ་མཆོད། 
+
+ noun  
+
+cremation 
+
+སྐུ་ཕོ། noun belly,  
+
+in front of ( 
+
+གདོང་ཁར།)  
+
+stomach 
+
+ ཞབས་སར། སྐུ་མདུན།  
+
+noun 
+
+སྐུ་ཕྱག 
+
+ noun  
+
+discipline master of monk  body (དགེ་བསྐོས།) 
+
+སྐུ་གདུང་། noun སྐུ་ཕུང་། སྐུ་ པུར།  dead body,  corpse 
+
+སྐུ་མདུན། adv. ཞབས་སར། སྐུ་ དྲུང་།  སྐུ་རྒྱབ།  in  the presence of, in front of 
+
+སྐུ་མདུན་བཅར་མི། noun visitor སྐུ་འདྲ། noun image,  statue, effigy, icon, idol 
+
+prostration 
+
+སྐུ་ཕྲེང་། noun line of  reincarnation 
+
+སྐུ་དབང་། noun power,  authority 
+
+སྐུ་རྩེད། noun play, joke སྐུ་ཚ་བོ། noun nephew སྐུ་ཚད། noun statue  size, body size  
+
+སྐུ་ཚབ། 
+
+ noun ཞལ་ཚབ།  
+
+སྐུ་འདྲ་ཆུང་ཀུ། 
+
+ noun  
+
+
+
+representative,  
+
+statuette སྐུ་འདྲ་སོམ། colossus 
+
+ noun  
+
+delegate, envoy 
+
+སྐུ་ཚབ་ཚོགས་པ། 
+
+ noun  
+
+mission 
+
+སྐུ་ཚབ་ཡིག་ཚང་། 
+
+སྐུ་ན། noun age སྐུ་པར། 
+
+ noun  
+
+photograph, portrait, image སྐུ་པུར། 
+
+ noun སྐུ་གདུང་།  
+
+ noun  
+
+office of the representative སྐུ་ཚམོ། noun niece སྐུ་ཚེ། noun life 
+
+སྐུ་མཚམས། noun retreat 
+
+སྐུ་སྤུན། 
+
+dead body 
+
+སྐུ་བཞེངས་པ། verb (fut., prs.,  
+
+ noun སྐུ་མཆེད།  
+
+pst., imp.) 1 model 
+
+
+
+sibling 
+
+34 
+
+སྐུ་ཟླ། 35 སྐུདཔ་ཕྱ་སི་སི། 
+
+(རྟེན་བཟོ་བ།) 2 grown up,  mature (ན་ཚོད་ལོན་པ།) 
+
+སྐུ་ཟླ། noun spouse,  consort 
+
+སྐུ་གཟུགས། noun body སྐུ་གཟུགས་བཟང་པོ། 
+
+ excl.  
+
+kuzu zangpo, a form of  
+
+greeting 
+
+སྐུ་ཡོན། 
+
+ noun  
+
+1 education, knowledge  (ཤེས༌ཡོན།) 2 payment (གླ༌ཡོན།) 
+
+སྐུགས་འཐེབ། noun handicap སྐུགས་འདྲ། noun deuce 
+
+སྐུགས་བང༌། noun scorecard,  scoreboard 
+
+སྐུགས་བྱིན་པ། verb (fut., prs.,  pst., imp.) grade, mark, score སྐུགས་བྱིན་མི། noun marker སྐུགས་འབྲས། noun result སྐུགས་རྩིས་བཀོད་ཤོག noun score  sheet 
+
+སྐུགས་ཤོག noun scorecard 
+
+ཀ 
+
+སྐུ་རིམ 
+
+། noun ཞབས་བརྟན།  
+
+སྐུགས་ཧྲིལ་བུམ། noun full marks 
+
+ 
+
+ritual, liturgy 
+
+སྐུད་པ་་དྲུ་གོ། noun bobbin 
+
+སྐུ་རུས། noun 1 bone,  relic (རུ༌ཏོ།) 2 clan (རིགས༌རྒྱུད།) སྐུ་ཤ། noun flesh  སྐུ་སྲུང་། noun body  guard, the Guards 
+
+སྐུ་སྲོག noun life སྐུ་བསོད། noun good  fortune, luck 
+
+སྐུ་ཧང་། noun pillow སྐུགས། noun score, point, mark,  run 
+
+སྐུགས་ཁྲམ། noun transcript སྐུགས་གྲངས། noun mark, point སྐུགས་ཐོ། noun transcript སྐུགས་ཐོབ། noun score 
+
+སྐུགས་ཐོབ་མི། noun scorer 
+
+སྐུད་རོ། noun nap  
+
+སྐུད་ཤུད་ཐགས་ར། noun a kind of  hand-woven dress for women སྐུད་ཤེལ། noun fibreglass སྐུདཔ། noun entangle, filament,  line, string, thread, yarn 
+
+སྐུདཔ་དཀྱི་ས། noun bobbin སྐུདཔ་འཁལ་ཆས། noun spindle སྐུདཔ་འཁལ་བ། verb (fut., prs.,  pst., imp.) spin 
+
+སྐུདཔ་སྒྲིལ་བ། verb (prs., imp.)  fut. བསྒྲིལ། pst. བསྒྲིལ། roll yarn སྐུདཔ་སྤྲིང་བ། verb (fut., prs.) pst.  སྤྲིངས། imp. སྤྲིངས། string 
+
+སྐུདཔ་ཕྱ་སི་སི། noun fibre
+
+35 
+
+སྐུདཔ་འཛིང་བ། 36 སྐེ་བསམ་པ། 
+
+སྐུདཔ་འཛིང་བ། verb (fut., prs.)  pst. འཛིངས། imp. འཛིངས།  entangled thread 
+
+སྐུདཔ་བཤུབ་པ། verb (fut., prs.,  pst., imp.) unpick 
+
+སྐུདཔོ། noun ཁོད་ཀིན།  brother-in-law 
+
+སྐུར་བརྗོད། 
+
+ noun  
+
+slander, backbite, profanity སྐུར་གཏམ། 
+
+ noun  
+
+profanity 
+
+སྐུར་འདེབས། 
+
+ noun  
+
+blasphemy, sacrilege,  
+
+defamation 
+
+སྐུར་པ། noun backbite,  slander, profanity 
+
+སྐུར་པ་བཏབ་པ། verb (fut., prs.,  pst., imp.) slander 
+
+སྐུར་པ་བཏབ་མི། noun slanderer,  profaner 
+
+སྐུལ། verb (prs., imp.) fut. བསྐུལ། pst. བསྐུལ། instigation 
+
+སྐུལ་ཁྱབ་བརྡ་སོད། noun advocacy སྐུལ་སྒྱུར། noun motivation སྐུལ་བསྒྲགས། noun propaganda,  campaign 
+
+སྐུལ་བསྒྲགས་བཏང་སྟེ་འགྱོ་བ། verb  (fut., prs., pst., imp.) stump 
+
+སྐུལ་འདེད། noun impetus,  impulse 
+
+སྐུལ་ནུས་ཅན། adj. influential སྐུལ་བྱེད། noun persuader སྐུལ་མ། noun motivation,  
+
+encouragement, provoke,  pressure, prompting, inspire,  call 
+
+སྐུལ་ཚིག noun imperative སྐུལ་ཤུགས། noun impetus སྐུལ་སོང༌། noun persuasion 
+
+སྐུལ་སོང་འབད་མི། noun persuader སྐུལ་སོབ། noun cadet officer སྐེ། noun མགུལ། neck སྐེ་དཀྲིས། noun kerchief, muffler སྐེ་ཁྲ། noun ruff  
+
+སྐེ་འཁོར། noun chain, necklace སྐེ་རྒྱན། noun མགུལ་རྒྱན།  necklace, necktie, tie, locket སྐེ་སྒོ། noun pillory 
+
+སྐེ་ཆ། noun necklace, ornament སྐེ་བཏོག་པ། verb (fut., prs., imp.)  pst. བཏོགས། behead, decapitate སྐེ་ཐག noun halter 
+
+སྐེ་དར། noun མགུལ་དར།  scarf 
+
+སྐེ་བསམ་པ། verb (fut., prs., imp.)  pst. བསམས། throttle, choke
+
+36 
+
+སྐེ་རས། 37 སྐོར་ཐེངས་གཅིག 
+
+སྐེ་རས། noun muffler, scarf སྐེ་རིང་རྟ། noun giraffe 
+
+སྐེད་ཐག noun waist strap used  by weaver 
+
+སྐེད་ཐིག་ལྷོ་བང་ས་ཐག latitude སྐེད་པ། noun 1 waist, hip  (གཟུགས་ཀྱི་ཆ་ཤས།) 2 middle  (བར་ན།) 
+
+སྐེད་ཚད། noun waistline 
+
+སྐེད་མཚམས། noun waistline སྐེད་ཟུག noun lumbago  
+
+སྐེད་རགས། noun སྐུ་བཅིང་། belt, girdle, waistband 
+
+སྐེད་ལམ། noun crossing 
+
+སྐེད་བཤེད། noun wrestling, judo,  bout 
+
+སྐེད་བཤེད་འཛིང་བ། verb (fut., prs.)  pst. འཛིངས། imp. འཛིངས།  wrestle 
+
+སྐེད་བཤེད་འཛིང་མི། noun wrestler སྐེདཔ་བསྒུར་བསྒུརཝ། adj. stoop སྐེམ་པ། noun འཛིནམ།  
+
+forceps, tongs, pliers, nippers སྐོང་། verb (prs.) fut. བསྐོང་། pst.  བསྐོངས། imp. སྐོངས། 1 fulfil, fill  (རེ་བ་གྲུབ་པ།) 2 gather (བཞམས།) སྐོབས་ཚུད། noun landlocked  སྐོམ། verb (fut., prs., pst.) thirst 
+
+སྐོམ་ཚིག noun ཁ་སྐོམ། thirst སྐོམ་སེལ། noun quencher སྐོར། prep. concerning, case,  
+
+about, referring, pertaining,  regarding 
+
+སྐོར་སྐྱོད། noun round, round trip སྐོར་འཁོར། noun rotation 
+
+སྐོར་གླུ། noun round 
+
+སྐོར་འགྲུལ། noun trip 
+
+སྐོར་རྒྱབ། noun rotation, turn,  roster, shift, go 
+
+སྐོར་རྒྱབ་སྡེ་ཚན། noun relay སྐོར་རྒྱབ་རེའུ་མིག noun rota,  roster 
+
+སྐོར་རྒྱབ་ལས་མི། noun relief སྐོར་རྒྱབ་ལོ་ཐོག noun crop  rotation 
+
+སྐོར་ཆ། prep. ནེ་ཅིག དེ་ཅིག  about, around 
+
+སྐོར་བརྗོད། noun passive 
+
+སྐོར་གཏམ། noun irony, drawl,  advice, insinuation, undertone,  overtone, innuendo, indirect  statement, circumlocution, indirect speech  
+
+སྐོར་ཐིག noun circumference སྐོར་ཐེངས། noun ལན་ཐེངས།  ཤོ་ཐེངས། innings, round 
+
+སྐོར་ཐེངས་གཅིག noun lap 
+
+ཀ 
+
+37 
+
+སྐོར་བ། 38 སྐྱ་སྣུམ། 
+
+སྐོར་བ། verb (prs., imp.) fut.  བསྐོར། pst. བསྐོར།  
+
+circumambulate, rotate, go  around, revolve 
+
+སྐོར་རྩེད། noun merry-go-round སྐོར་ར། noun ཞབས་སྐོར།  circumambulation, rotation སྐོར་ལམ། noun ཕྲང་ལམ།  detour, long way, diversion སྐོར་སྲུང་པ། noun patrol, vigilante སྐོལ་སྣོད། noun boiler 
+
+སྐྱ། noun དབུ་སྐྲ། 1 hair (སྐྲ།)  2 inferior quality (སྤུས་ཚད་ཞན་ པ།) 
+
+སྐྱ་དཀར། noun white hair, grey  hair 
+
+སྐྱ་སྐམ་འཕྲུལ་ཆས། noun hairdryer སྐྱ་ཁབ། noun hairpin 
+
+སྐྱ་ཁོག adj. evil-minded 
+
+སྐྱ་ག noun magpie 
+
+སྐྱ་གོང༌། noun knot 
+
+སྐྱ་གྱི། noun razor, shaver,  shaving blade 
+
+སྐྱ་གྲི། noun shaver, razor,  shaving blade 
+
+སྐྱ་རྒྱས། adj. abundant, plentiful སྐྱ་རྒྱས་རྒྱས། adj. abundant,  plentiful 
+
+སྐྱ་སྒོགཔ། noun garlic 
+
+སྐྱ་སྒོར་སྒོ། adj. round and bright,  plump, fair 
+
+སྐྱ་ཆག noun lock, pigtail, braid,  ponytail 
+
+སྐྱ་ཆེམ་ཆེ། adj. སྐྱ་ཏེག་ཏེ། འོད་ ཆེམ་ཆེ། flashy 
+
+སྐྱ་ཏང་ཏ། adj. སྐྱ་ཏེག་ཏེ། སྐྱ་ སང་ས། སྐྱ་སེང་སེ། སྐྱ་ལྷབ་ལྷབ།  bright, prominent line 
+
+སྐྱ་ཏེག་ཏེ། adj. སྐྱ་ཆེམ་ཆེ། འོད་ ཆེམ་ཆེ། སྐྱ་ཏང་ཏ། སྐྱ་སང་ས། སྐྱ་སེང་ སེ། སྐྱ་ལྷབ་ལྷབ། glittering 
+
+སྐྱ་བཏོག་ཁང་། noun barber's  shop, hair-cutting saloon སྐྱ་བཏོག་མི། noun barber,  hairdresser 
+
+སྐྱ་བཏོག་ས། noun barber shop,  saloon, hairdresser 
+
+སྐྱ་སྟུག་པག་པ། noun shock སྐྱ་ཐང༌། noun dust bowl 
+
+སྐྱ་ཐར་ཐོར། noun shaggy 
+
+སྐྱ་ཐལ། adj. albino, grey 
+
+སྐྱ་ཐལ་ཐལ། adj. སོ་ཏོ་ཁོག་ཁོ།  ཐལ་ཁོག་རིལ་རི། grey, faded སྐྱ་ཐུང་ཀུ། noun crop 
+
+སྐྱ་དོག་དོ། adj. fair  
+
+སྐྱ་མདོག noun hair colour སྐྱ་སྣུམ། noun hair oil,  
+
+brilliantine
+
+38 
+
+སྐྱ་ཕུད་རྡོག་གཅིག 39 སྐྱབས་བཅོལ་པ། 
+
+སྐྱ་ཕུད་རྡོག་གཅིག noun wisp སྐྱ་བོ། adj. beige, grey, light,  palish, whitish 
+
+སྐྱ་སན། noun hair tonic,  
+
+peroxide, hydrogen peroxide སྐྱ་རྩི། noun lacquer  
+
+སྐྱ་ཚབ། noun wig, peruke སྐྱ་ཚོན། noun tint, rinse 
+
+སྐྱ་འཛིང༌། noun labyrinth  སྐྱ་འཛིན། noun tongs 
+
+སྐྱ་རྫུན་མ། noun wig, peruke སྐྱ་ཝང་ཝང༌། adj. blaze 
+
+སྐྱ་བཞུར་བ། verb (fut., pst., imp.)  prs. གཞུར། shave 
+
+སྐྱ་ཟིང་ཟི། adj. fuzzy, fuzz སྐྱ་ཟོང་། noun cloth of inferior  quality 
+
+སྐྱ་བཟོ། noun perm 
+
+སྐྱ་བཟོ་བཟོ་མི། noun hairdresser སྐྱ་རེངས། noun dawn 
+
+སྐྱ་ལམ། noun parting 
+
+སྐྱ་ཤད། noun brush, comb,  hairbrush 
+
+སྐྱ་ཤུབས། noun wig, peruke སྐྱ་སང་ས། adj. སྐྱ་ཏང་ཏ། སྐྱ་ སེང་སེ། སྐྱ་ལྷབ་ལྷབ། སྐྱ་ཏེག་ཏེ།  clear, brightly shining  
+
+སྐྱ་སི་སི། adj. bright, whitish 
+
+སྐྱ་སེང་སེ། adj. སྐྱ་ཏང་ཏ། སྐྱ་ སང་ས། སྐྱ་ལྷབ་ལྷབ། སྐྱ་ཏེག་ཏེ།  illuminating, shining 
+
+སྐྱ་སེར། noun 1 laity and clergy  (ཆོསཔ་དང་འཇིག་རྟེན་པ།) 2 brown  hair, pale, blond, lemon (སྐྱ་་ མདོག) 
+
+སྐྱ་ལྷབ་ལྷབ། adj. སྐྱ་ཏང་ཏ། སྐྱ་ སེང་སེ། སྐྱ་སང་ས། སྐྱ་ཏེག་ཏེ། shiny,  gleaming  
+
+སྐྱ་ཨོ་རོ། noun curly hair, frizzy སྐྱ་ཨོ་རོ་བཟོ་ཆས། noun tongs སྐྱག་པ། noun excrement, faeces སྐྱག་ལང་། noun habit,  
+
+indulgence 
+
+སྐྱག་ལང་ཤོར་བ། verb (fut., prs.,  pst., imp.) pamper 
+
+སྐྱབས། noun protector, refuge,  asylum, deliverance 
+
+སྐྱབས་མགོན། noun མགོན་ སྐྱབས། protector, saviour,  refuge, providence,  
+
+protectress, redeemer, relief སྐྱབས་འགྲོ། noun refuge 
+
+སྐྱབས་དངུལ། noun relief fund སྐྱབས་བཅོལ། verb (fut., prs., pst.,  imp.) seek refuge, shelter སྐྱབས་བཅོལ་པ། noun refugee
+
+ཀ 
+
+39 
+
+སྐྱབས་རྗེ། 40 དད་ཉམས་སྐྱོང་མི། 
+
+སྐྱབས་རྗེ། noun eminence, the  supreme lama, Holiness 
+
+སྐྱབས་གནས། noun shelter,  refuge, haven, messiah, object  of refuge  
+
+སྐྱབས་གནས་ཀུན་འདུས། noun  omnipotence  
+
+སྐྱབས་འབུལ། noun tribute སྐྱབས་སྦྱིན། noun asylum  
+
+སྐྱབས་མེད། adj. defenceless སྐྱབས་མེད་མགོན་མེད། adj.  
+
+destitute 
+
+སྐྱབས་འཚོལ། verb (fut., prs., pst.,  imp.) seek refuge, shelter སྐྱབས་མཛད། verb (fut., prs., pst.,  imp.) patronage, redemption སྐྱབས་མཛད་པ། noun patron སྐྱབས་མཛད་མ། noun patroness སྐྱབས་མཛད་མི། noun protector,  saviour, refuge, providence,  protectress, redeemer, relief སྐྱབས་འཛིན། noun patron,  patronage 
+
+སྐྱབས་འཛིན་པ། noun patron སྐྱབས་འཛིན་མ། noun patroness སྐྱབས་ཞུ་བ། verb (fut., prs., pst.,  imp.) worship 
+
+སྐྱབས་ཞུ་མི། noun worshiper སྐྱབས་གཟིགས། noun mercy 
+
+སྐྱབས་འོག noun aegis, umbrella སྐྱབས་ཡུལ། noun refuge 
+
+སྐྱ་་རལཔ། noun fringe 
+
+སྐྱ་་རལཔ་ལྷ་ལྷཝ། noun  
+
+dreadlocks 
+
+སྐྱ་་ལན་བུ། noun lock, pigtail,  braid 
+
+སྐྱ་་ལྷས་གོང༌། noun bun 
+
+སྐྱ་་ལྷས་རྡོག noun chignon ད་ཀྲེག་པ། verb (fut., prs., pst.,  imp.) exfoliate 
+
+ད་ལྤགས། noun membrane ད་མི། noun borrower 
+
+ད་གཡའ་སི་སི། adj. creepy ད་བཤུབ་པ། verb (fut., prs., pst.,  imp.) to remove dead skin,  exfoliate 
+
+དད་སྐབས། adv. peacetime དད་སྐྱོང༌། noun relaxed 
+
+དད་སྐྱོང་ས་གནས། noun resort,  retreat 
+
+དད་གླིང་། noun island 
+
+དད་གླུ། noun merry song དད་ཉམས། noun ease,  
+
+enjoyment, peace,  
+
+pleasantness, restful 
+
+དད་ཉམས་སྐྱོང་མི། noun playboy
+
+40 
+
+དད་ཉམས་ཅན། 41 སྐྱུར་དྲི། 
+
+དད་ཉམས་ཅན། adj. serene,  pleasant, life-enhancing, light hearted  
+
+དད་ཏོང་ཏོ། adj. བག་ཕེབས་ཏོག་ ཏོ། དད་ཏོང་ཏོ། peaceful, happy,  mellow, sedate, sound, tranquil 
+
+དད་ཐབས། noun means of living  comfortably 
+
+དད་ཐེག་སྡུག་ཐེག noun endurance དད་དུས། adv. peacetime 
+
+དད་སྡུག noun welfare, woe དད་སྡུག་རྒྱན་ཤོག noun raffle དད་སྡུག་མ་དངུལ། noun relief  fund 
+
+དད་སྡུག་ལམ་ཁྱེར། noun  
+
+endurance 
+
+དད་གནས། noun resort, retreat དད་པ། noun well-being, peace  དད་མེད། adj. comfortless དད་ཚོར། noun experience peace དད་ལན་སྡུག་ལན། noun  
+
+reciprocity, return of favour  དད་ས། noun haven  
+
+དད་ཧེང༌། noun tranquillity དན་འགྲུལ། noun credit, loan དན་འགྲུལ་ཁང༌། noun pawn shop དན་འགྲུལ་བྱིན་མི། noun creditor,  financier, mortgagee 
+
+དན་འགྲུལ་མ་དངུལ། noun venture  capital 
+
+དན་འགྲུལ་ལས་སྡེ། noun financial  company 
+
+དན་འགྲུལ་ལེན་མི། noun  
+
+mortgagor 
+
+དན་མ། noun repayment,  recovery, refund 
+
+དན་ཚབ། noun repayment,  recovery, refund 
+
+དན་ཡིག noun debenture 
+
+དལ་ཀྲུང༌། noun cross legged  sitting posture 
+
+སྐྱུ་རུ། noun 1 algae, edible water  moss (ཚོདམ།) 2 goose berry  (སན།) 
+
+སྐྱུ་རུམ། noun algae, edible water  moss 
+
+སྐྱུག verb (prs.) fut. བསྐྱུག pst.  བསྐྱུགས། imp. སྐྱུགས། vomit,  sick, barf 
+
+སྐྱུག་སན། noun emetic 
+
+སྐྱུག་ལོང༌། noun sickness 
+
+སྐྱུག་བཤལ་ནད། noun cholera སྐྱུག་སི་སི། adj. revolting,  revulsion 
+
+སྐྱུར་སྐྱོམ། noun marmalade སྐྱུར་ཆུ། noun acid 
+
+སྐྱུར་དྲི། noun sour smell
+
+ཀ 
+
+41 
+
+སྐྱུར་ནུས་འཇོམས་རས། 42 སྐྱེ་ལྡན་རིག་པ། 
+
+སྐྱུར་ནུས་འཇོམས་རས། noun alkali སྐྱུར་རས། noun acid 
+
+སྐྱུར་ཟས། noun chutney, zest སྐྱུར་ཧེང༌། adj. sourness 
+
+སྐྱུརཔོ། adj. sour, acid 
+
+སྐྱེ། verb (fut., prs.) pst. སྐྱེས།   ཤི། birth, delivery, grow,  germinate, harbour, sprout,  propagate, have 
+
+སྐྱེ་སྐབས། adv. perinatal 
+
+སྐྱེ་འགོག noun family planning,  contraception 
+
+སྐྱེ་འགོག་ཡོ་ཆས། noun  
+
+contraceptive 
+
+སྐྱེ་འགྲོ། noun sentient beings,  extraterrestrial 
+
+སྐྱེ་རྒ་ན་འཆི། noun living beings  life of birth, aging, sickness  and dying  
+
+སྐྱེ་རྒྱུན། noun reproduction སྐྱེ་རྒྱུན་བཀག་འཛིན། noun birth  control 
+
+སྐྱེ་རྒྱུན་འཁོར་ལོ། noun life cycle  སྐྱེ་རྒྱུན་ཅན། adj. reproductive སྐྱེ་སྒོ། noun མངལ་སྒོ། བུ་སྒོ།  vagina 
+
+སྐྱེ་དངོས། noun biological སྐྱེ་དངོས་ཕྲ་རབ་རིག་པ། noun  microbiology 
+
+སྐྱེ་དངོས་རིག་པ། noun ecology སྐྱེ་དངོས་རིག་པ་་མཁས་མཆོག noun  naturalist  
+
+སྐྱེ་བཅུག་པ། verb induction སྐྱེ་ཆས་སྒྲོམ། noun delivery kit,  birth kit 
+
+སྐྱེ་རྟགས། noun birth mark སྐྱེ་དུས། noun birthday 
+
+སྐྱེ་ལྡན། noun life form,  
+
+organism  
+
+སྐྱེ་ལྡན་མཁས་མཆོག noun  
+
+ecologist 
+
+སྐྱེ་ལྡན་གནས་སྟངས། noun ecology སྐྱེ་ལྡན་གནས་སྟངས་་་བཤལ། noun  ecotourism 
+
+སྐྱེ་ལྡན་གནས་སྟངས་རིམ་ལུགས།  noun ecosystem 
+
+སྐྱེ་ལྡན་གནས་སྟངས་སྲུང་འདོད་ཅན།  noun ecologist 
+
+སྐྱེ་ལྡན་ཚན་རིག noun life sciences  སྐྱེ་ལྡན་རས་སྦྱོར་གནས་སྟངས། noun  biochemical 
+
+སྐྱེ་ལྡན་རས་སྦྱོར་པ། noun  
+
+biochemist 
+
+སྐྱེ་ལྡན་རས་སྦྱོར་རིག་པ། noun  biochemistry 
+
+སྐྱེ་ལྡན་རིག་པ། noun biological,  biology
+
+42 
+
+སྐྱེ་ལྡན་རིག་པ་་མཁས་མཆོག 43 སྐྱེ་ཤིང་། 
+
+སྐྱེ་ལྡན་རིག་པ་ ་མཁས་མཆོག noun  ecologist 
+
+སྐྱེ་ལྡན་རིགས་སྣ། noun  
+
+biodiversity 
+
+སྐྱེ་ལྡན་ས་ཁོངས་སྲུང་སྐྱོབ། noun  biosphere reserve 
+
+སྐྱེ་ནུས། noun fertility 
+
+སྐྱེ་ནུས་ཅན། adj. fertile 
+
+སྐྱེ་ནུས་མེད་པ། adj. infertile,  infertility 
+
+སྐྱེ་གནས། noun 1 birth-place,  home town (ཡུལ།)  སྐྱེ་ས།  སྐྱེ་ཡུལ། 2 place of articulation  (ཡི་གུ་འབྱུང་ས།) 
+
+སྐྱེ་གནས་བཞི། noun the four  types of birth 
+
+སྐྱེ་འཕེལ། noun propagation,  reproduction 
+
+སྐྱེ་འཕེལ་ཅན། adj. reproductive སྐྱེ་བ། noun སྐུ་སྐྱེ། ཡང་སྲིད།  incarnation, rebirth  
+
+སྐྱེ་བ་་ཉིནམ། noun འཁྲུངས་ སྐར། birthday 
+
+སྐྱེ་བ་་ནམ་དུས། noun  
+
+growing season 
+
+སྐྱེ་བ་་ནུས་པ། noun fertility སྐྱེ་བོ། noun human being,  humanitarian 
+
+སྐྱེ་བོ་ངན་པ། noun evil person 
+
+སྐྱེ་བོ་དམ་པ། noun eminent,  righteous person 
+
+སྐྱེ་བོ་ཕལ་པ། noun common  people 
+
+སྐྱེ་བོ་རིག་པ། noun humanity  སྐྱེ་འབྲེལ་མཁས་མཆོག noun  obstetrician  
+
+སྐྱེ་འབྲེལ་རིག་པ། noun obstetrics  སྐྱེ་མ་་ངལ་གསོ། noun maternity  leave 
+
+སྐྱེ་མི། noun grower 
+
+སྐྱེ་མེད། adj. inorganic 
+
+སྐྱེ་ཚད། noun birth rate 
+
+སྐྱེ་ཟུག noun འཁྲུངས་ཟུག  labour, labour pain 
+
+སྐྱེ་ཡུལ། noun སྐྱེ་གནས། སྐྱེ་ས།   འཁྲུངས་ཡུལ། birth-place,  home town, mother country,  motherland 
+
+སྐྱེ་ཡུལ་གཉིས་པ། noun second  home 
+
+སྐྱེ་གཡོག noun midwife 
+
+སྐྱེ་གཡོགམོ། noun midwife སྐྱེ་གཡོགམོ་གི་ལཱ། noun midwifery སྐྱེ་རིམ་འཁོར་ལོ། noun life cycle  སྐྱེ་རོགས་མ། noun midwife སྐྱེ་ཤི་མེདཔ། adj. immortal སྐྱེ་ཤིང་། noun plant
+
+ཀ 
+
+43 
+
+སྐྱེ་ཤི་་གནས་ཐོ། 44 སྐྱེལ་འདྲེན་འབད་མི། 
+
+སྐྱེ་ཤི་་གནས་ཐོ། noun vital  statistics 
+
+སྐྱེ་ས། noun སྐྱེ་གནས། སྐྱེ་ཡུལ།   འཁྲུངས་ས། homeland  སྐྱེ་སོན་སྦྱོར་བ། noun fertilization  སྐྱེངས། verb (fut., prs., pst.)  ངོ་ཚ།  ཞལ་སྐྱེངས། abashed,  cringe, ashamed,  
+
+embarrassment, guilty,  
+
+humiliation 
+
+སྐྱེངས་སི་སི། adj. awkward,  ignominious 
+
+སྐྱེད། noun interest on loan  སྐྱེད་སྐྲུན། noun generation སྐྱེད་ཅུང་། noun compound  interest 
+
+སྐྱེད་འཇམ་སམ། noun simple  interest 
+
+སྐྱེད་བཏབ་པ། verb (fut., prs., pst.,  imp.) servicing 
+
+སྐྱེད་མཐོ་དྲགས། adj. exuberant,  exuberance 
+
+སྐྱེད་སོད་པ། verb (fut., prs., pst.,  imp.) servicing 
+
+སྐྱེད་མེད། adj. interest free སྐྱེད་མེད་དན་འགྲུལ། noun interest free loan 
+
+སྐྱེད་མེད་བུ་ལོན། noun passive  debt 
+
+སྐྱེད་ཚད། noun lending rate སྐྱེད་ཚལ། noun ལྡུམ་ར། གླིང་ག  park, grove, shrubbery,  
+
+plantation 
+
+སྐྱེད་གཟན། noun usurer 
+
+སྐྱེད་སྲིང༌། noun upbringing སྐྱེམས། noun quencher 
+
+སྐྱེཝ། noun སྐུ་སྐྱེ།  
+
+incarnation 
+
+སྐྱེར་པ། noun barberry plant སྐྱེལ། verb (prs., imp.) fut. བསྐྱལ།  pst. བསྐྱལ། 1 deliver, reach  (གནས་གཅིག་ལས་གཞན་ལུ་སྤོ་བ།)  2 to live one's life, to finish  (མཐར་ཕྱིན་བཅུག་པ།) 3 to see off  (ཆ་རོགས་སྦེ་འགྱོ་བ།) 
+
+སྐྱེལ་འགྲེམས། noun courier སྐྱེལ་འདྲེན། noun transport,  conveyance, service, shipment,  shipping, traffic, transit 
+
+སྐྱེལ་འདྲེན་གླ། noun haulage  སྐྱེལ་འདྲེན་གླ་ལེན་པ། noun  
+
+conductor 
+
+སྐྱེལ་འདྲེན་འགོ་འཛིན། noun  conductor 
+
+སྐྱེལ་འདྲེན་པ། noun transporter,  carrier 
+
+སྐྱེལ་འདྲེན་འབད་མི། noun  
+
+transporter
+
+44 
+
+སྐྱེལ་འདྲེན་ཚོང་སྡེ། 45 སྐྱོ་སྐྱོཝ། 
+
+སྐྱེལ་འདྲེན་ཚོང་སྡེ། noun carrier སྐྱེལ་འདྲེན་རིམ་ལུགས། noun  transportation system 
+
+སྐྱེལ་སོད། noun delivery, service སྐྱེལ་མ། noun escort 
+
+སྐྱེལ་མི། noun consignor,  conveyor, sender 
+
+སྐྱེས་སྐར། noun འཁྲུངས་སྐར།  birth star 
+
+སྐྱེས་ཁུངས། noun paternity སྐྱེས་ཁུངས་ལག་ཁྱེར། noun birth  certificate 
+
+སྐྱེས་དངོས་རིག་པ། noun natural  history  
+
+སྐྱེས་ཆེན་དམ་པ། noun སྐྱེས་བུ་ དམ་པ། holy man  
+
+སྐྱེས་མཆོག noun eminent person,  sir 
+
+སྐྱེས་ཉལ། noun lying-in  
+
+སྐྱེས་ཉིནམ། noun birthday སྐྱེས་སྟོན། noun birthday  
+
+celebration  
+
+སྐྱེས་སྟོབས། noun intuition,  natural 
+
+སྐྱེས་སྟོབས་ཁྱད་ཆོས། noun  
+
+endowment 
+
+སྐྱེས་སྟོབས་ཁྱད་ཆོས་ཅན། adj.  gifted 
+
+སྐྱེས་སྟོབས་ལྕོགས་གྲུབ། noun  natural ability  
+
+སྐྱེས་སྟོབས་སང་རིག noun talent སྐྱེས་སྟོབས་རིག་པ། noun inherent  wisdom, inborn talent, natural born 
+
+སྐྱེས་ཐོབ་དབང་ཆ། noun birthright སྐྱེས་པ། noun ཕོ་སྐྱེས། ཕོ་རྒྱ།   བུད་མེད། Mister (Mr.),  male, man 
+
+སྐྱེས་བུ། noun noble person སྐྱེས་བུ་དམ་པ། noun སྐྱེས་ཆེན་ དམ་པ། reverend 
+
+སྐྱེས་རྩིས། noun birth horoscope  སྐྱེས་ཚད། noun birth-rate སྐྱེས་ཚེས། noun འཁྲུངས་ཚེས།  date of birth, birthday 
+
+སྐྱེས་ཚེས་ལག་ཁྱེར། noun birth  certificate 
+
+སྐྱེས་རབས། noun series of life,  hagiography, parable 
+
+སྐྱེས་ལོ། noun འཁྲུངས་ལོ།  དགུང་ལོ། age 
+
+སྐྱེས་ལྷ། noun འཁྲུངས་ལྷ།  deity of birth-place, natal deity སྐྱོ། verb (fut., prs., pst.)  དགའ། lament, droop 
+
+སྐྱོ་སྐྱོཝ། adj. བ ཉེས།  1 abysmal, bad, bleak, 
+
+ཀ 
+
+45 
+
+སྐྱོ་གླུ། 46 སྐྱོང་གཞག 
+
+execrable, meagre, mean,  worthless (སྤུས་ཚད་ངན་པ།)  2 motherfucker, low class (མི་ བ་ཉེས།) 
+
+སྐྱོ་གླུ། noun དགའ་གླུ། སོ་གླུ།  blues, sad song, sentimental  song, dirge, lament, monody སྐྱོ་ཉམས། noun moody  
+
+སྐྱོ་དྲགས། adj. 1 extremely sad  (འཁྲུལ་བ།) 2 very inferior,  poor, bleak, grotty, hellish,  worst (བང་ཉེས།) 
+
+སྐྱོ་མདོག་ཤིག་ཤི། adj. glum,  woebegone 
+
+སྐྱོ་སྣང་། noun dejection, dismay,  down, glumness, melancholy,  moody, sadness, sickness,  wrench, unease 
+
+སྐྱོ་སྣང་ཅན། adj. dismayed, glum,  sombre, psychedelic 
+
+སྐྱོ་སྣང ་སྟོན་པ། verb (fut., prs.,  pst., imp.) lamentation  
+
+སྐྱོ་བ། noun དགའ་བ།  1 sadness, blues, broken-heart,  glumness, poignancy (འཁྲུལ་བ།)  2 bad (ལེགས་ཤོམ་མེད་པ།) 
+
+སྐྱོ་བ་་གནས་སྟངས། noun  
+
+1 sorrow (འཁྲུལ་བ་་གནས་སྟངས།)  2 squalor (ཞན་པ་་གནས་སྟངས།) སྐྱོ་བ་་རང་བཞིན། noun poorness 
+
+སྐྱོ་མ། noun mush, sauce, shake,  pulp, paste 
+
+སྐྱོ་མ་ཁོག་ཁོ། adj. pulpy, mushy སྐྱོ་མོ། noun mourning 
+
+སྐྱོ་་ོམ། noun sad composition,  sad poem, lament 
+
+སྐྱོ་རོགས། noun comforter སྐྱོ་རོགས་འབད་མི། noun comfort སྐྱོ་ཤས། noun an understanding  
+
+of the futility of worldly life སྐྱོ་ཤོས། adj. worst, inferior, low  point, underdog, worse 
+
+སྐྱོ་སི་སི། adj. དགའ་ཏོག་ཏོ།  1 saddening, dismal, dreary,  gloomy, glum, grey, heart rending, hellish, woeful,  worse, dour, grim, appalling,  pathetic, lamentable (མ་དགའ་ བ།) 2 dismal, worse, pathetic  (གོ་མ་ཆོད་པ།) 
+
+སྐྱོ་སུ་འགྱོ་བ། verb (fut., prs., pst.,  imp.) deteriorate 
+
+སྐྱོ་ལྷང་ལྷང་། adj. weepy, blue,  mushy 
+
+སྐྱོགས། noun ladle, scoop སྐྱོང་། verb (fut., prs., pst., imp.)  administer, govern 
+
+སྐྱོང་གཞག noun treat, treatment,  household management
+
+46 
+
+སྐྱོང་གཞག་མཁས་པ། 47 སྐྱོན་བརྗོད་པ། 
+
+སྐྱོང་གཞག་མཁས་པ། noun  diplomat 
+
+སྐྱོད་ཐམ། noun visa 
+
+སྐྱོད་ནུས་ཀླད་ཕྲན། noun  
+
+cerebellum 
+
+སྐྱོད་གཟབ། noun road sense སྐྱོན། noun ཡོན་ཏན།  1 blemish, blot, blotch, defect,  deficiency, demerit, downside,  drawback, ill, taint, tarnish  (ལེགས་ཤོམ་མེད་པ།) 2 affect,  disadvantage, harm, hazard,  impede (གནོད།) 3 error,  failing, fault, flaw, foul, hole,  imperfection, kink, loophole,  mistake, shortcoming, wrong,  bug, disease (འཛོལ་བ།) 
+
+སྐྱོན་རྐྱབ་པ། verb (fut., prs., pst.,  imp.) obstruct, harm, hurt,  taint, tamper, mutilate 
+
+སྐྱོན་ཅན། adj. defective,  
+
+imperfect, blotchy, deformed,  faulty, flawed, incorrect,  reject, wrong 
+
+སྐྱོན་བཅོས། noun correction,  rectification 
+
+སྐྱོན་ཆ། noun downside, defect སྐྱོན་ཆགས། noun damage,  corrupt 
+
+སྐྱོན་རྗོད་མི། noun critic, accuser,  denouncer, satirist 
+
+སྐྱོན་བརྗོད། noun accusation,  affront, blasphemy,  
+
+castigation, charge, comment,  commentary, complaint,  confutation, criticism,  
+
+denouncement, denunciation,  depreciation, rebuke,  
+
+remonstrance, reproof, satire,  slight, swipe, uproar,  
+
+vilification 
+
+སྐྱོན་བརྗོད་དགོད་བྲ། noun satire སྐྱོན་བརྗོད་དགོད་བྲ་བ་མ་མི། noun  satirist 
+
+སྐྱོན་བརྗོད་དགོད་བྲ་སབ་མི། noun  satirist 
+
+སྐྱོན་བརྗོད་ཆུང་ཀུ། noun niggle  སྐྱོན་བརྗོད་སྙན་་ོམ། noun satire སྐྱོན་བརྗོད་དྲག་པོ། noun attack,  
+
+bashing, blast, savage, scathing སྐྱོན་བརྗོད་པ། verb (fut., pst.) prs.  རྗོད། imp. རྗོད། attack, blast,  castigate, charge, criticize,  decry, denounce, deprecate,  excoriate, knock, lacerate,  lambaste, maul, satirize, slam,  slate, rap, remonstrate,  
+
+upbraid, vilify
+
+ཀ 
+
+47 
+
+སྐྱོན་བརྗོད་འབད་མི། 48 སྐྱོན་ཞུགས་པ། 
+
+སྐྱོན་བརྗོད་འབད་མི། noun accuser,  denouncer, satirist, critic སྐྱོན་བརྗོད་སོམ། noun obloquy  སྐྱོན་བརྗོད་རྩུབ་དྲགས། adj. vitriol,  vituperation 
+
+སྐྱོན་བརྗོད་གསལ་བཤད། noun  tirade, harangue 
+
+སྐྱོན་གཏམ། noun slur 
+
+སྐྱོན་བཏགས་པ། verb (fut., prs.,  pst., imp.) rebuke,  
+
+reprehension, criticize,  
+
+deplore, impute, knock, slight,  reprove, run down 
+
+སྐྱོན་བཏགས་མི། noun accuser,  critic, denouncer, satirist སྐྱོན་བཏགས་རུང་བ། adj.  
+
+reprehensible 
+
+སྐྱོན་རྟགས། noun blemish སྐྱོན་སྟོན་པ། verb (fut., prs., pst.,  imp.) incriminate, lampoon སྐྱོན་འཐུས། noun damages སྐྱོན་དྲག་པོ། noun censure སྐྱོན་ལྡན། adj. faulty 
+
+སྐྱོན་བརྡ། noun diagnostic སྐྱོན་པ། verb (fut., prs., pst.)  harm, affect, inflict 
+
+སྐྱོན་ཕོག verb (fut., prs., pst.)  impairment 
+
+སྐྱོན་བྲལ། noun faultless,  flawless 
+
+སྐྱོན་འབྱུང ་བ། verb (fut., prs.) pst.  བྱུང་། taint 
+
+སྐྱོན་ས་བ། verb (fut., prs., pst.,  imp.) hide mistake 
+
+སྐྱོན་མིང་། noun nickname སྐྱོན་མེད། adj. clean, safe,  correct, faultless, flawless,  harmless, hurtles, infallibility,  intact, irreproachable, purity,  perfect 
+
+སྐྱོན་མེད་གསལ་བསྒྲགས། noun  exculpation, exoneration སྐྱོན་བཙུགས། noun accusation,  plaint, reprehension, reproach སྐྱོན་ཚིག noun scum 
+
+སྐྱོན་མཚང༌། noun fault 
+
+སྐྱོན་འཚོལ་ཅན། noun captious སྐྱོན་འཚོལ་འདོད་ཅན། noun  captious 
+
+སྐྱོན་འཚོལ་བ། verb (fut., prs.,  pst., imp.) cavil, fault 
+
+སྐྱོན་འཛུགས། noun accusation,  plaint, reprehension, reproach སྐྱོན་ཞུགས་པ། verb (fut., prs.,  pst.) breakdown, damage,  deformity, corrupt, perpetrate,  impede
+
+48 
+
+སྐྱོན་བཟུང་ལས་རིམ། 49 བརྐུས་ནོར། 
+
+སྐྱོན་བཟུང་ལས་རིམ། noun  
+
+diagnostic 
+
+སྐྱོན་ཡོན། noun pros and cons,  merits and demerits 
+
+སྐྱོན་ཤོར་བ། verb (fut., prs., pst.,  imp.) perpetrate 
+
+སྐྱོན་བཤད། noun harangue  སྐྱོན་སུབ། noun cover up one's  fault, hide fault, whitewash སྐྱོན་སེལ། noun rectification,  correction, emend, debug སྐྱོན་སོང༌། noun nit-picking, dig  out, disclose fault, scoff  
+
+སྐྱོན་སོང་ཅན། noun captious སྐྱོབ། noun 1 protect (མགོན།)  2 paste (སྤྱིན།) 
+
+སྐྱོབ་ཆས། noun the Guards  སྐྱོབ་ཐབས། noun salvation སྐྱོབ་པ། noun redemption 
+
+སྐྱོབ་པ་་ལྷ། noun guardian deity སྐྱོབ་བྱེད། noun relief 
+
+སྐྱོབ་བྲལ། noun unprotected,  exposed 
+
+སྐྱོབ་དབུར་བ། verb (fut., prs., pst.,  imp.) paste 
+
+སྐྱོབ་ཤ། noun poorness 
+
+སྐྱོམ་འཕྲུལ། noun mincer 
+
+སྐྱོམ་སྦྱར། noun cast 
+
+སྐྱོར། verb (fut., prs., pst., imp.)  1 recite by heart (ཁོང་ལས་སབ་པ།)  2 prop (གཡོ་མ་བཅུག་པར་བཞག་པ།) སྐྱོར་རྟེན། noun prop 
+
+སྐྱོར་སྦྱང ་། noun revision 
+
+སྐྱོར་སྦྱང་ཁང་། noun study hall སྐྱོར་ཡོལ། noun smokescreen སྐྲ། noun དབུ་སྐྲ། hair སྐྲ་ཚོན། noun tint 
+
+སྐྲ་བཞུར། noun haircut 
+
+སྐྲག་སྣང༌། noun panic, phobia སྐྲག་སྣང་ཅན། adj. phobic 
+
+སྐྲང་འབུར། noun swelling,  tumour, protuberance 
+
+སྐྲན་རྡོག noun malignancy,  protuberance, tumour 
+
+སྐྲན་ནད། noun a disease that  affects glands 
+
+སྐྲན་ནད་ཅན། adj. malignant སྐྲན་ནད་གནས་སྟངས། noun  malignancy 
+
+སྐྲན་ནད་་་རྡོག noun malignancy བརྐམ་ཆགས། noun prurience བརྐམ་ཆགས་ཅན། adj. prurient བརྐུ། verb (fut., pst., imp.) prs.  རྐུ། steal, nick, sneak 
+
+བརྐུ་ནད། noun kleptomania བརྐུས་ནོར། noun spoil
+
+ཀ 
+
+49 
+
+བརྐོ། 50 བསྐུལ། 
+
+བརྐོ། verb (fut., pst., imp.) prs.  རྐོ། 1 dig, unearth, hoe,  
+
+excavate (དོང་སྤེད་པ།)  
+
+2 engrave, carve, sculpt (འབུར་ རིས་བཏོན་པ།) 
+
+བརྐོས་པར། noun tableau 
+
+བརྐོས་རིས། noun intaglio 
+
+བརྐྱང་། verb (fut., prs., imp.) pst.  བརྐྱངས།  བསྐུམ། spread,  straighten, stretch 
+
+བསྐང་། verb (fut., prs., imp.) pst.  བསྐངས། satisfy, fulfil 
+
+བསྐང་བཤགས། noun confessional  prayer 
+
+བསྐམ། verb (fut., prs., imp.) pst.  བསྐམས། dry 
+
+བསྐམ་བཅུག་པ། verb season བསྐམས་བསྐམསཔ། adj. caked,  shrunken, desiccated  
+
+བསྐམས་ཤིང༌། noun seasoned བསྐལ་ངན། noun Dark Ages བསྐལ་ཆེན། noun great aeon 
+
+བསྐལ་ཆེན་གྲངས་མེད། noun  immeasurable aeon, countless  aeon 
+
+བསྐལ་པ། noun aeon, era, epoch བསྐལ་པ་བཟང་པོ། noun golden  era, glorious period,  
+
+golden age 
+
+བསྐལ་པ་་འཁྱེག noun ice cap  བསྐལ་པ་་འཁྱེག་ཕུང༌། noun  permafrost 
+
+བསྐལ་པ་་མེ། noun volcano,  volcanic fire  
+
+བསྐལ་མེ། noun volcano 
+
+བསྐལ་མེ་་དོང་། noun crater བསྐལ་བཟང་། noun good aeon,  fortunate era, golden age བསྐལ་བཟང་ཁུར་ཤིང་། noun  rucksack, backpack 
+
+བསྐལ་བཟང་བསིལ་ཡབ། noun a  cap worn by religious persons བསྐུངས་ལཱ། noun espionage བསྐུམ། verb (fut.) prs. སྐུམ། pst.  བསྐུམས། imp. སྐུམས།  
+
+བརྐྱང་། shorten, retract, pull  inwards, abridge, buckle, curl,  huddle, shrink, contract 
+
+བསྐུམ་ཚུགས་པ། adj. retractable བསྐུམས་བསྐུམསཔ། adj. shrunken བསྐུམས་གྱུར། noun shrinkage བསྐུར། verb (fut., pst.) prs. སྐུར།  
+
+imp. སྐུར། 1 send (ཡི་གུ་སྐྱེལ་བ།)  2 bless (དབང་གནང་བ།) 
+
+བསྐུལ། verb (fut., pst.) prs. སྐུལ།  imp. སྐུལ། motivate, encourage,  lead, induce, send, titillate, push
+
+50 
+
+བསྐུལ་ཤུགས། 51 བསྐྱར་སྡེབ། 
+
+བསྐུལ་ཤུགས། noun leverage  བསྐོ་བཞག noun appointment,  installation, nomination 
+
+བསྐོ་བཞག་སྒྲུབ་མི། noun  
+
+appointee 
+
+བསྐོ་བཞག་འབད་མི། noun  
+
+nominator  
+
+བསྐོར། verb (fut., pst.) prs. སྐོར།  imp. སྐོར། circle, engulf, hedge,  rotate, girdle 
+
+བསྐོལ། verb (fut., pst.) prs. སྐོལ།  imp. སྐོལ། boil 
+
+བསྐྱབ། verb (fut., prs., imp.) pst.  བསྐྱབས། screen, shelter, shield,  protect, redeem, retrieve 
+
+བསྐྱར། adv. repeat, re 
+
+བསྐྱར་བཀོད། noun emphasis,  redesign 
+
+བསྐྱར་སྐྲུན། noun reprint,  
+
+reproduction, reconstruction,  reissue 
+
+བསྐྱར་བསྐོས། noun reinstatement བསྐྱར་གྲོས། noun re-deliberation བསྐྱར་བགོ། noun redistribution བསྐྱར་བགྲང། noun recount བསྐྱར་འགྲན། noun replay, return  match 
+
+བསྐྱར་རྒྱུགས། noun make-up,  resit, retake 
+
+བསྐྱར་སྒྲིག noun rearrangement,  refit, reorganize, rearrange བསྐྱར་བཅོས། noun reclamation,  reconstruction, recycling,  reformation, renewal, revamp བསྐྱར་བཅོས་འཁོར་ལོ། noun  retread 
+
+བསྐྱར་བཅོས་གོང་འཕེལ། noun  redevelopment 
+
+བསྐྱར་བརྗོད། noun iteration,  tautology, reaffirmation,  repeat, repetition, postscript 
+
+བསྐྱར་བརྗོད་ཅན། adj. repetitious བསྐྱར་ཉན། noun playback,  replay 
+
+བསྐྱར་བཏབ། noun overprint བསྐྱར་བཏོན། noun reissue བསྐྱར་་། noun replay 
+
+བསྐྱར་སྟོན། noun playback,  replay 
+
+བསྐྱར་ཐོན། noun loop  
+
+བསྐྱར་མཐུན། noun  
+
+rapprochement 
+
+བསྐྱར་འཐུ། noun re-election བསྐྱར་འཐེན། noun chorus བསྐྱར་དྲན། noun recollection,  retention 
+
+བསྐྱར་གདངས། noun refrain བསྐྱར་སྡེབ། noun reunion
+
+ཀ 
+
+51 
+
+བསྐྱར་སོད། 52 བསྐྱར་གསོའི་སོབ་སྦྱོང༌། 
+
+བསྐྱར་སོད། noun reuse 
+
+བསྐྱར་སོད། noun reissue 
+
+བསྐྱར་འབྱུང༌། noun frequency བསྐྱར་འབྲི། noun rewrite 
+
+བསྐྱར་སྦྱོང༌། noun drill 
+
+བསྐྱར་བཙུགས། noun  
+
+reconstitution, refill,  
+
+reinstatement 
+
+བསྐྱར་བཙོན་པ། noun jailbird  བསྐྱར་རྩེད། noun replay, return  match 
+
+བསྐྱར་ཚིག noun refrain,  
+
+repetition of words 
+
+བསྐྱར་འཛུགས། noun re-establish,  recommencement, reconstitute བསྐྱར་ཞིབ། noun review,  
+
+reappraisal 
+
+བསྐྱར་ཞིབ་འབད་མི། noun reviewer བསྐྱར་ཞིབ་ཚོགས་ཁང་། noun House  of review 
+
+བསྐྱར་ཞུ། noun nota bene (NB),  postscript (PS) 
+
+བསྐྱར་ཞུགས། noun re-entry,  rejoinder 
+
+བསྐྱར་ཟློས། noun oral repetition,  iterate, reiterate, repeat, echo,  reiteration, repetition, iteration,  belabour 
+
+བསྐྱར་ཟློས་ཟད་གྲོན། noun  
+
+recurrent expenditure 
+
+བསྐྱར་བཟོ། noun reform, remake,  reconstruction, revision 
+
+བསྐྱར་བཟོ། noun revision 
+
+བསྐྱར་ལཱ། noun treadmill 
+
+བསྐྱར་ལེན། noun retake 
+
+བསྐྱར་ལོག noun echo,  
+
+recurrence, reinstatement,  repeat 
+
+བསྐྱར་ལོག་ཆ་འཇོག noun  
+
+reconsideration 
+
+བསྐྱར་ལོག་་་སྐོར། noun revisit བསྐྱར་ལོག་ཞིབ་དཔྱད། noun  double-check 
+
+བསྐྱར་ལོག་ཡོངས་གྲགས། noun  revival 
+
+བསྐྱར་བཤད། noun iterate,  reiterate, repeat, belabour བསྐྱར་སོན། noun retrieval བསྐྱར་གསོ། noun restoration,  revival, renewal, rally,  
+
+renaissance, renovation,  resurrection, recharge 
+
+བསྐྱར་གསོའི་རིང་ལུགས། noun  revivalism 
+
+བསྐྱར་གསོའི་སོབ་སྦྱོང༌། noun  refresher course
+
+52 
+
+བསྐྱལ། 53 བསྐྲོག 
+
+བསྐྱལ། verb (fut., pst.) prs. སྐྱེལ།  imp. སྐྱེལ། send, dispatch,  carry, cart, consign, convey,  despatch, forward, ship,  spread, take, drop 
+
+བསྐྱལ་ཆས། noun consignment བསྐྱལ་ས། noun consignee བསྐྱལ་སར་བསྐྱལ། verb (ft, pst.)  
+
+prs. སྐྱེལ། imp. སྐྱེལ། blunder,  response to unexpected  
+
+happenings  
+
+བསྐྱལ་སར་བསྐྱལ་སི་སི། adj.  disastrous 
+
+བད། verb (fut.) prs. ད། pst.  བདས། imp. དས། borrow, lend བད་བར་བྱིན་མི། noun lender  བསྐྱུར། verb (fut., pst.) prs. སྐྱུར།  imp. སྐྱུར། 1 throw away, fling  (བཀོ།)  བཀོ། སྤང་། འདོར།  གཡུག 2 renounce (སྤང་།)  
+
+བཀོ། སྤང་། འདོར། གཡུག 3 vote,  cast vote (ཚོགས་རྒྱན་བཙུགས་པ།) བསྐྱེད། verb (fut., pst.) prs. སྐྱེད།  imp. སྐྱེད། expand, extend  བསྐྱེད་རིམ། noun generative state  of mind 
+
+བསྐྱོད། verb (fut., pst.) prs. སྐྱོད། imp. སྐྱོད། travel, move 
+
+བསྐྱོད་རིམ། noun lap  
+
+བསྐྲད། verb (fut., prs., pst.,  imp.) 1 erase, rub out (སུབ་པ།)  2 expel, exile (བཏོན་གཏང་བ།) 
+
+བསྐྲུན། verb (fut., pst.) prs. སྐྲུན།  imp. སྐྲུན། make, publish,  construct, generate 
+
+བསྐྲུན་བང༌། noun imprint 
+
+བསྐྲོག verb (fut.) prs. སྐྲོག pst.  བསྐྲོགས། imp. སྐྲོགས། knock,  rattle
+
+ཀ 
+
+53 
+
+ཁ། 55 ཁ་སྐོར། 
+
+༼ཁ༽ 
+
+ཁ། noun 1 the 2nd letter of the  Dzongkha alphabet (གསལ་བྱེད།)  2 mouth (དབང་པོ།)  ཞལ།   ངག 3 surface (ངོས་ལོགས།)  4 language (སྐད་རིགས།)  
+
+5 brim, lip (ཧོད་ཀྱི་ཁ།) 6 blade  (རྣོས།) 7 edge, tooth (ཅ་ཆས་ཀྱི་ སོ།) 
+
+ཁ་ཀྲམ། noun bifurcation  
+
+ཁ་བཀག noun ཁ་གཅད།  hinder, object, gag 
+
+ཁ་བཀང་བ། verb (fut., prs., pst.,  imp.) refill 
+
+ཁ་བཀལ་བ། verb (fut., prs., pst.,  imp.) allege, blame, finger ཁ་བཀུག་པ། verb (fut., prs., pst.,  imp.) 1 reinforce the original  colour (ཚོས་ཁ་ཨ་ཙི་ཕབ་པ།)  2 redirect (སྲབ་ཐག་ཚུར་འཐེན་པ།) ཁ་བཀོད། noun བཀའ་སོབ།  instruction, advice 
+
+ཁ་བཀྲམ་པ། verb (fut., prs., pst.,  imp.) disperse, spread  
+
+ཁ་བཀྲམ་བཀྲམཔ། adj. scattered ཁ་ལྐུག་པ། noun ཞལ་ལྐུག་པ།  dumb 
+
+ཁ་སྐད། noun dialect, oral,  tongue, vernacular, spoken  language 
+
+ཁ་སྐད་ངོ་མ་སབ་མི། noun རང་ ཁ་སབ་མི། native speaker  
+
+ཁ་སྐད་མིང་ཚིག noun  
+
+metalanguage 
+
+ཁ་སྐད་རིག་པ། noun philology,  linguistics 
+
+ཁ་སྐད་བསྲེས་མ། noun creole ཁ་སྐམ། noun 1 dry mouth (ཁ་ནང་ ཆུ་མེད་པ།)  ཞལ་སྐམ། 2 lip  service (ཁ་ཙམ་ཅིག) 
+
+ཁ་སྐམ་བཤད་མི། noun windbag ཁ་སྐོང་། noun supplement,  additional, adjunct, appendage,  appendix, complement, extra,  plus, replenishment, infusion,  add, flesh, lace 
+
+ཁ་སྐོང་བླུགས་བླུགསཔ། noun  sprinkle 
+
+ཁ་སྐོམ། verb (fut., prs., pst.)  ཞལ་སྐོམ། thirsty, parched ཁ་སྐོར། noun སྐོམ་ཚིག  ཞལ་སྐོར། cross-check, verify
+
+ཁ 
+
+55 
+
+ཁ་བསྐང་བ། 56 ཁ་གཅད། 
+
+ཁ་བསྐང་བ། verb (fut., prs., imp.)  pst. བསྐངས། replenish 
+
+ཁ་ཁེབས། noun mantle, overlay ཁ་མཁས་དྲགས། adj. eloquent,  vocal, articulate 
+
+ཁ་མཁས་པ། adj. ཞལ་མཁས་པ།  eloquent, vocal, articulate ཁ་གང་། noun 1 mouthful,  morsel (ཁ་ལྟེམ་ལྟེ།)  ལྟེམ་ལྟེ།  2 brimful (ཧོད་ལྟེམ་ལྟེ།)  ལྟེམ་ལྟེ། 3 one square measure  of cloth (རས་གྲུ་བཞིམ།)  
+
+ཁ་གོས། noun overcoat 
+
+ཁ་གྱེས། noun parting 
+
+ཁ་གྱོན། noun overall 
+
+ཁ་གྲངས། noun number, quantity ཁ་གྲངས་འཕར་བ། verb (fut., prs.,  pst.) mushroom 
+
+ཁ་མགྱོགས་དྲགས། adj. babble,  fast-talker 
+
+ཁ་འགྱུར། noun deflection 
+
+ཁ་འགྲིག noun unite 
+
+ཁ་འགྲུལ། noun sledge 
+
+ཁ་རྒྱས་པ། verb (fut., prs., pst.)  opening 
+
+ཁ་རྒྱས་རྒྱསཔ། adj. open  
+
+ཁ་རྒྱས་དོན་ཆུང་། noun glib 
+
+ཁ་རྒྱུན། noun ཞལ་རྒྱུན། oral  tradition 
+
+ཁ་སྒོར། noun circumference,  deflection 
+
+ཁ་བརྒྱང་བ། verb (fut., prs., imp.)  pst. བརྒྱངས།  ཁ་བཙུམ།  1 open mouth, gape (ཁ་སོམ་སྦེ་ཕྱེ་ བ།)  ཞལ་བརྒྱང། 2 lost,  confused, inattention,  
+
+hypnotize (དྲནམ་མ་བཏོན་པར་གཡེང་ བ།) 3 splay (རྐངམ་དང་ལགཔ་ཕྱེ་ བ།) 
+
+ཁ་བརྒྱངས་བརྒྱངསམ། adj. open mouthed  
+
+ཁ་བསྒོར་བ། verb (fut., pst.) prs.  སྒོར། imp. སྒོར། angle 
+
+ཁ་བསྒྱུར་བ། verb (fut., pst.) prs.  སྒྱུར། 
+
+imp. སྒྱུར། turn, direct,  
+
+manipulate, deflect, avert,  divert, sidetrack 
+
+ཁ་ངན། noun ཚིག་ངན།  ཞལ་ངན། rude, abusive, vulgar,  abuse, curse, row 
+
+ཁ་ངན་ཕོག་མི། noun beleaguered ཁ་ངན་ཚིག་ངན། noun rude,  abusive, vulgar, abuse, curse,  row 
+
+ཁ་ངལ། verb (fut., prs., pst.)  ཞལ་ངལ། tired of talking 
+
+ཁ་གཅད། noun ཁ་བཀག  muzzle, seal
+
+56 
+
+ཁ་གཅིག 57 ཁ་ཉུང་། 
+
+ཁ་གཅིག noun unite 
+
+ཁ་བཅད། noun filled to the brim ཁ་ལྕགས། noun snow chains ཁ་ཆག verb (fut., prs., pst.) 
+
+break, fragment (ཁ་བོག་པ།)  noun payment in food as part  of wage (ལཱ་འཐུས།) 
+
+ཁ་ཆར། noun blizzard, snow and  rain, sleet, snowflake 
+
+ཁ་ཆར་བུ་ཡུག noun avalanche,  storm with snow and rain ཁ་ཆུ། noun ཞལ་ཆུ། saliva,  spit, spittle, dribble 
+
+ཁ་ཆེ། noun 1 Kashmir (རྒྱ་གར་གྱི་ ས་གནས་ཅིག) 2 Muslim (ཆོས་ ལུགས་ཅིག) 
+
+ཁ་ཆེ་པ། noun Muslim 
+
+ཁ་ཆེམས། noun ཞལ་ཆེམས། last will, will, testament 
+
+ཁ་ཆེམས་ནོར་སྐལ། noun bequest ཁ་ཆེ་་ཆོས་དམག noun jihad ཁ་ཆེ་་ཆོས་ལུགས། noun Islam ཁ་ཆེ་་ཆོས་ལུགས་པ། noun  Moslem 
+
+ཁ་ཆེ་་མཆོད་ཁང༌། noun mosque ཁ་ཆེ་་སྟོན་པ། noun Mohammed,  prophet 
+
+ཁ་ཆེ་་དུས་སྟོན། noun Eid 
+
+ཁ་ཆེ་་རིང་ལུགས། noun 
+
+Moslemism 
+
+ཁ་ཆེ་་གསུང་རབ། noun Koran ཁ་ཆེ་་ལྷ། noun Allah 
+
+ཁ་ཆེ་་ལྷ་ཁང༌། noun mosque ཁ་མཆུ། noun case 
+
+ཁ་འཆམ། noun ཞལ་འཆམ།  agree, reach a consensus,  accord, assent, concurrence,  understanding 
+
+ཁ་འཆམ་འོས་པ། adj. agreeable ཁ་འཆམས་འཆམསཔ། adj. united ཁ་ཇ། noun unchurned butter tea ཁ་འཇམ། noun ཞལ་འཇམ།  mild, soft-spoken 
+
+ཁ་རྗེ། noun luck, fortune, fluke,  good-fortune, happy, honour ཁ་རྗེ་ཅན། adj. fortunate, lucky ཁ་རྗེ་ཆུང་བ། noun ill-fated,  unfortunate, unlucky 
+
+ཁ་རྗེ་གདམ་འཐུ། noun lucky dip  ཁ་རྗེ་མེད་པ། adj. misfortune,  mischance, luckless, unlucky ཁ་ཉན། noun obedience  
+
+ཁ་ཉིནམ། adv. the day before  yesterday 
+
+ཁ་ཉུང་། adj. ཞལ་ཉུང་། quiet,  speaking less
+
+ཁ 
+
+57 
+
+ཁ་ཉུང་ལྕེ་ཉུང༌། 58 ཁ་ཐོག 
+
+ཁ་ཉུང་ལྕེ་ཉུང༌། adj. introvert,  reticence 
+
+ཁ་ཉུང་དྲགས། adj. taciturn, quiet,  reticent 
+
+ཁ་ཉེས། noun false accusation,  defamation 
+
+ཁ་ཉེས་བཀལ་མི། noun accuser ཁ་ཉེས་བསྡུ་མི། noun accused,  defendant, scapegoat, fall guy ཁ་ཉེས་ཕོག་མི། noun accused,  defendant, scapegoat, fall guy ཁ་གཉིས། noun two-faced,  inconsistent 
+
+ཁ་སྙོམ། verb (fut., prs.) pst.  སྙོམས། imp. སྙོམས། trim, level,  settle, adjust 
+
+ཁ་བརྙོག verb (fut.) prs. རྙོག pst.  བརྙོགས། imp. རྙོགས། addict ཁ་ཏ། noun ཞལ་ཏ། advice,  counsel 
+
+ཁ་གཏང་། verb (fut., prs., imp.)  pst. བཏང་། backbite, criticize,  attack, denounce, deplore,  deprecate, impute, knock,  lacerate, maul, mutter, scoff,  slander, vilify 
+
+ཁ་གཏང་མི། noun denouncer 
+
+ཁ་གཏམ། noun folk tale, verbal  sayings, spoken words, talk,  gossip 
+
+ཁ་གཏིང་། noun 1 top and bottom  (སྟེང་འོག) 2 inside and outside  (ཕྱི་ནང་།) 
+
+ཁ་གཏོར། verb (fut., prs., pst.,  imp.) disperse, scatter,  
+
+disintegration, fracture,  
+
+intersperse, disband 
+
+ཁ་སྟོང་། noun ཞལ་སྟོང་།  empty mouth, without eating  ཁ་ཐུག adv. 1 behalf, side (ཧོངས་ ལས།) 2 clash, collision,  confrontation, head-on, meet  (གདོང་ཐུག་འགྱོ་བ།) 3 towards,  zone (ཕྱོགས་ལུ།) 
+
+ཁ་ཐུག་རྐྱབ། verb (fut., prs., pst.,  imp.) གདོང་ཐུག clash,  coincide, confront, meet 
+
+ཁ་ཐུང་འཕྲུལ་སོག noun jigsaw  ཁ་ཐུན། noun ཞལ་ཐུན།  prayer 
+
+ཁ་ཐུམ། noun on the spot,  instantly 
+
+ཁ་ཐུལ། noun flurry 
+
+ཁ་ཐོག noun 1 oral, verbal (ངག་ ཐོག)  ཞལ་ཐོག 2 surface  (སྟེང་།)
+
+58 
+
+ཁ་ཐོགས། 59 ཁ་བསྡུ་མི། 
+
+ཁ་ཐོགས། verb (fut., prs., pst.)  stammer, speak haltingly ཁ་ཐོགས་ཆགས་མེདཔ། adj. fluent,  articulate 
+
+ཁ་མཐུན། noun ཞལ་མཐུན།  alliance, concurrence,  
+
+unanimity, knit 
+
+ཁ་མཐུན་ཚོགས་སྡེ། noun  
+
+confederation 
+
+ཁ་མཐོ་ཚད། noun elevation, high  altitude 
+
+ཁ་འཐབ། verb (fut., prs., pst.,  imp.) 1 tally (འགྲིག)  
+
+2 argument, clash (ཤགས་རྐྱབ།) ཁ་འཐབ་ཚིག་འཐབ། noun  
+
+argument, quarrel, tiff, row,  face-off 
+
+ཁ་འཐེན། noun གསུང་འཕྲིན།  verbal message,  
+
+communication, message ཁ་འཐེན་འབག་མི། noun  
+
+messenger 
+
+ཁ་འཐེན་སབ་མི། noun go-between ཁ་འཐོར། noun scatter, dispersal,  fragmentary 
+
+ཁ་དད་ཅན། adj. slimy 
+
+ཁ་དར། noun scarf 
+
+ཁ་དིག verb (fut., prs., pst.)  ཞལ་དིག stammer, stutter 
+
+ཁ་དིག་མི། noun stammerer,  stutterer 
+
+ཁ་དོག noun colour 
+
+ཁ་དོག་སྣ་ཚོགས། noun parti coloured 
+
+ཁ་དོག་སྣ་ཚོགས་ཅན། adj. dappled ཁ་དྲང་ཧིང་དྲང༌། noun outspoken ཁ་དམ་དྲགས། adj. tight-lipped,  reserved, tight, hermetic 
+
+ཁ་གདན། noun cover-sheet ཁ་གདུག noun mutter, grumble ཁ་གདུག་ཁེག་ཁེ། adj. acid 
+
+ཁ་གདུག་འབར། verb (fut., prs.,  pst.) grumble, nag, upbraid,  mutter, rap 
+
+ཁ་གདུག་འབར་མི། noun grumbler ཁ་བདེ་ལྕེ་བདེ། noun vocal,  eloquent, articulate, glib,  loquacious, talkative, voluble ཁ་བདེ་དྲགས། adj. articulate, glib,  loquacious, talkative, voluble,  vocal, eloquent 
+
+ཁ་སྡེབ། noun mob 
+
+ཁ་བསམ། verb (fut., prs., imp.)  pst. བསམས། seal 
+
+ཁ་བསམ་རས། noun gag 
+
+ཁ་བསྡུ་མི། noun scapegoat,  defendant, accused, fall guy
+
+ཁ 
+
+59 
+
+ཁ་བསོམ། 60 ཁ་བང་ཐོ་དེབ། 
+
+ཁ་བསོམ། verb (fut.) prs. སོམ།  pst. བསོམས། imp. སོམས།  ཁ་བྲལ། bind, join, knit, unite,  mob 
+
+ཁ་ན་མ་ཐོ་བ། noun wrong doings,  misdeeds 
+
+ཁ་ནད། noun thrush, mouth  disease 
+
+ཁ་གནོན། noun subdue,  
+
+counterforce, antidote 
+
+ཁ་སྣོན། noun replenishment,  reinforcement, addition,  adjunct, infusion 
+
+ཁ་དཔག verb (fut., prs., imp.)  pst. དཔགས། mouth 
+
+ཁ་དཔག་ས། noun mouthpiece ཁ་དཔེ། noun proverb 
+
+ཁ་སྤར། verb (fut., prs., pst.,  imp.) mouth 
+
+ཁ་སྤར་གོ་རྟོགས། noun lip-reading  ཁ་སྤུ། noun moustache 
+
+ཁ་སྤུབ། verb (fut., prs.) pst.  སྤུབས། imp. སྤུབས། facing  down, upside down 
+
+ཁ་སོ་ངན་པ། noun insolence ཁ་ཕུང༌། noun snowdrift, drift ཁ་ཕོག་མི། noun fall guy,  
+
+accused, defendant, scapegoat 
+
+ཁ་ཕྱད། verb (fut., prs., pst.,  imp.) ཁ་བལ། meet,  
+
+encounter 
+
+ཁ་ཕྱད་སྒྲ་སྒྲིག noun engagement ཁ་ཕྱལ། verb (fut., prs., pst.,  imp.) separate, disbandment,  detach, disband, divert, prise,  divisive 
+
+ཁ་ཕྱིས། noun napkin 
+
+ཁ་ཕྱེ། verb (fut., prs.) pst. ཕྱེས།  imp. ཕྱེས།  ཞལ་ཕྱེ། open,  gape, prise, unfurl 
+
+ཁ་ཕྱོགས། noun ཞལ་ཕྱོགས།  direction, orientation, course,  trend 
+
+ཁ་ཕྱོགས་འགྱུར་བ། noun drift,  angle 
+
+ཁ་བ། noun snow 
+
+ཁ་བ་ཅན། adj. snowy, filled with  snow 
+
+ཁ་བ་མེ་ཏོག noun snowdrop ཁ་བ་་འཁྱེག་དུམ། noun  
+
+snowflake 
+
+ཁ་བེད། verb (fut., prs., pst.)  release 
+
+ཁ་བང་། noun ཞལ་བང་།  address, epigraph, nameplate,  ticket, postcode 
+
+ཁ་བང་ཐོ་དེབ། noun directory
+
+60 
+
+ཁ་བལ། 61 ཁ་མེད་ལྕེ་མེད། 
+
+ཁ་བལ། verb (fut., prs., pst.,  imp.) ཁ་ཕྱད། depart,  sunder, detach, dissolve,  
+
+divorce, separate, part, leave taking 
+
+ཁ་བལ་ཐག་གཅད། noun  
+
+separation 
+
+ཁ་བལ་གནས་ཡུན། noun  
+
+separation 
+
+ཁ་བལ་ཕྱད་དབང་། noun visitation ཁ་བལ་བལཝ། noun divorced ཁ་བལ་བཟའ་ཚང༌། noun broken  home 
+
+ཁ་བལ་ལེགས་སོན། noun goodbye,  farewell, adieu 
+
+ཁ་བྲལ། noun ཁ་བསོམ།  depart, sunder, dissolution,  detach, dissolve, divorce,  parting, repudiation, leave taking 
+
+ཁ་བྲལ་མཐོང་སྣང་། noun leave taking  
+
+ཁ་བྲལ་གཟིགས་སྐོར། noun  
+
+farewell visit 
+
+ཁ་བྲལ་ལེགས་སོན། noun goodbye,  farewell, adieu 
+
+ཁ་བྲལ་གསོལ་སྟོན། noun farewell  party 
+
+ཁ་དབྱེ། verb (fut., prs., pst.,  imp.) classify, specify 
+
+ཁ་འབབ། noun snowfall 
+
+ཁ་འབར་སྲབ་ལེབ། noun veneer ཁ་སྦུབ། noun prone 
+
+ཁ་སྦྱར། noun sealant 
+
+ཁ་མ་འགྱུར་མི། noun colour fast ཁ་མ་འགྲིགས་པ། adj. contention ཁ་མ་བཅད་པ། adj. uncovered ཁ་མ་འཆམས་པ། adj. contention,  
+
+disagreement, schism, differ,  oppose, difference, 
+
+ཁ་མ་མཐུན་པ། adj. schism, differ,  disagree, oppose, difference,  contention 
+
+ཁ་མར། adv. ཁ་ཡར། descent ཁ་མར་ཁ་ཐུག adv. downward ཁ་མར་མུར། adj. murmur, mutter ཁ་མི་འཆམ་པ། adj. differ,  
+
+disagree, oppose, difference,  schism, contention 
+
+ཁ་མི་མཐུན་པ། adj. oppose,  schism, differ, disagree,  
+
+oppose, difference, contention ཁ་མི་བཟེད་པ། adj. refuse,  decline, demur, disclaim 
+
+ཁ་མིག noun plough 
+
+ཁ་མེད་ལྕེ་མེད། adj. weak, quiet,  meek person
+
+ཁ 
+
+61 
+
+ཁ་མང་། 62 ཁ་གཞོང་། 
+
+ཁ་མང་། adj. ཞལ་མང་།  talkative, loose tongue, ranty ཁ་མང་དྲགས། adj. talkative,  loose tongue, ranty 
+
+ཁ་རྨ། noun ཞལ་རྨ། mouth  ulcer 
+
+ཁ་སན། noun ointment for  mouth  
+
+ཁ་ཙ། adv. yesterday 
+
+ཁ་ཙ་ཁ་ཉིནམ། adv. recently, the  other day 
+
+ཁ་ཙང་མ་ཆགས་མི། noun loose  tongue  
+
+ཁ་ཙམ། noun lip-service,  superficial 
+
+ཁ་ཙམ་དོན་མེད། noun lip-service,  talk 
+
+ཁ་ཙམ་མིན་པ། adj. true, sincere ཁ་བཙན། verb (fut., prs., pst.)  1 able, dominant (རྒྱལ་བ།)  2 intact, tightly closed (དམ་ དྲགས།) 
+
+ཁ་བཙུམ། verb (fut., prs., imp.)  pst. བཙུམས།  ཁ་བརྒྱང་།   ཞལ་བཙུམ། shut up, silent,  quiet, muzzle 
+
+ཁ་བཙོག་པ། noun ཞལ་བཙོག་ པ། vulgar speech, words ཁ་རྩི། noun sealant 
+
+ཁ་རྩུབ་དྲགས། adj. sharp 
+
+ཁ་་ོད། noun debate, argument,  spat, spy, rift, row 
+
+ཁ་་ོད་བསྡུར་བ། verb (fut., pst.)  prs. སྡུར། imp. སྡུར། joust  ཁ་ཚ། noun ཞལ་ཚ། hot,  spicy 
+
+ཁ་ཚ་རྐང་ནད། noun foot and  mouth disease 
+
+ཁ་ཚ་དྲགས། adj. 1 harsh, hurtful,  rant, acid (ཁ་རྩུབ་དྲགས།) 2 hot  (བྲོཝ་ཚ་བ།) 
+
+ཁ་ཚད་་་ཆས། noun spirit level ཁ་ཚིག noun covenant, terms,  undertaking, agreement,  commitment 
+
+ཁ་ཚིག་གན་རྒྱ། noun settlement ཁ་ཚིག་་ར་འབད་བ། verb (fut.,  prs., pst., imp.) deliver 
+
+ཁ་ཚོན། noun lip-stick 
+
+ཁ་མཚམས། noun snowline ཁ་ཞག noun skin 
+
+ཁ་ཞེ་གཉིས་མེད། noun true,  sincere 
+
+ཁ་ཞེ་མི་མཐུན་པ། adj. treacherous ཁ་ཞེ་མི་མཚུངས་པ། adj.  
+
+unprincipled 
+
+ཁ་གཞོང་། noun allure, woo,  flattery
+
+62 
+
+ཁ་གཞོང་མི། 63 ཁ་ལོ་བ། 
+
+ཁ་གཞོང་མི། noun flatterer ཁ་ཟས་རྒྱ་སྨུག noun brownie ཁ་ཟས་ལག་ཟས། noun snack,  foodstuffs, nibble, nosh 
+
+ཁ་ཟིམ། noun flurry, shower ཁ་གཟར། noun hill  
+
+ཁ་བཟང༌། noun greeting,  
+
+salutation 
+
+ཁ་བཟེད། verb (fut., prs., pst.,  imp.) ཞལ་བཞེས། agree,  accept, admission, accede,  
+
+admit, assent, commit, grant,  humour  
+
+ཁ་བཟེད་བཅུག་པ། verb foist ཁ་བཟེད་བཏུབ་པ། adj. agreeable ཁ་ཡར། adv. ཁ་མར། upward ཁ་ཡིག noun address, caption,  
+
+epigraph, label, tab, ticket, tag,  postcode 
+
+ཁ་ཡུན་རིངམོ། adj. gabfest ཁ་ཡོག noun blame, pretext ཁ་ཡོག་ཕོག་མི། noun accused,  defendant, scapegoat 
+
+ཁ་རགས། noun muzzle 
+
+ཁ་རང་། noun kharang, grits ཁ་རམ། noun མི་ཁ།  
+
+malicious talk, cunning talk,  deceitful language 
+
+ཁ་རལ། noun cleft lip 
+
+ཁ་རས། noun ཞལ་རས།  mouth cover, serviette 
+
+ཁ་རི་ཁ་ཐུག adv. blunt,  
+
+forthright, forward, frank ཁ་རི་མུ་ཟ། noun watermelon,  melon 
+
+ཁ་རིལ་སྨྱུ་གུ། noun ballpoint pen ཁ་རིས། noun frontispiece ཁ་རུད། noun གངས་རུད།  avalanche, glacier 
+
+ཁ་རུབ་པ། verb (fut., prs., pst.)  1 bind, join, knit, unite, mob  (ཁ་བསོམ།) 2 healing of wound  (རྨ་ ཁ་ཟུམ་པ།) 
+
+ཁ་རླུང༌། noun snowstorm ཁ་ལན། noun གསུང་ལན།  verbal reply, response, retort,  backchat 
+
+ཁ་ལན་འཇལ། verb (fut., prs.,  pst., imp.) ཞལ་ལོག་ཞུ།  retort, backchat 
+
+ཁ་ལས་སྐྱོར། verb (fut., prs., pst.,  imp.) recite 
+
+ཁ་ལུ་ཉན་མི། noun docile, obeyer ཁ་ལུག་པ། verb (fut., prs.) pst.  ལུགས། imp. ལུགས། pout 
+
+ཁ་ལུང༌། noun tab 
+
+ཁ་ལེབ། noun cover, lid 
+
+ཁ་ལོ་བ། noun driver, pilot
+
+ཁ 
+
+63 
+
+ཁ་ལོག 64 ཁ་གསལ་མེད་མི། 
+
+ཁ་ལོག verb (fut., prs., pst.)  1 uproar (རྒོལ་བ།) 2 fade (ཚོས་ ཡལ་བ།) 
+
+ཁ་ཤ། noun canvas, cloth ཁ་ཤ་སྤུ་ཅནམ། noun velour ཁ་ཤ་སིང་ཐགས། noun calico ཁ་ཤགས། noun argument,  
+
+quarrel, clash, fight, tiff, row,  face-off, spy, strife, rift,  squabble 
+
+ཁ་ཤགས་ཆུང་ཀུ། noun brush ཁ་ཤགས་་དམོ། noun talk show ཁ་ཤན། noun rim 
+
+ཁ་ཤས། adj. few 
+
+ཁ་ཤེས་མི། noun speaker 
+
+ཁ་ཤོ་རལ། noun cleft lip, harelip ཁ་ཤོག noun flap, tab, ticket ཁ་ཤོར། verb (fut., prs., pst.)  
+
+lost, given up unintentionally,  release 
+
+ཁ་བཤད། noun empty talk,  gossip, verbal statement,  narration, narrative, verbalize,  articulate and convincing  presentation, explanation  ཁ་བཤལ་སན་ཆུ། noun  
+
+mouthwash 
+
+ཁ་སངས་ཧིང་གསལ། adj.  
+
+forthright, frankness, open,  
+
+open-hearted, unequivocal,  bluff, frank and open minded ཁ་སུབ། noun bung, cork, plug,  gag, muzzle 
+
+ཁ་སུབ་རས། noun gag 
+
+ཁ་སྲུང༌། noun ཞལ་སྲུང་། diet ཁ་སྲུང་མི། noun dieter, abstainer ཁ་སབ། noun call, speak, talk,  
+
+conversation, converse, speech ཁ་སབ་མཁས་དྲགས། adj.  
+
+conversationalist 
+
+ཁ་སབ་ཐངས། adj. way of  speaking, locution 
+
+ཁ་སབ་དལ་དབང་། noun freedom  of speech 
+
+ཁ་སབ་མི། noun speaker 
+
+ཁ་གསར། noun virgin 
+
+ཁ་གསར་རང་བཞིན། noun virginity ཁ་གསལ། noun clear, explicit,  detail, clarification, intimate,  lucidity, minute, transparency,  clarify, explain, spell, explain,  amplify 
+
+ཁ་གསལ་ཅན། adj. graphic,  lucidly 
+
+ཁ་གསལ་པོ། adj. articulate ཁ་གསལ་མེད་མི། noun bare
+
+64 
+
+ཁ་གསོ། 65 ཁག་ཚན། 
+
+ཁ་གསོ། noun renew, restore,  replenishment, restoration,  refresh 
+
+ཁ་གསོ་སྦྱོང་བརྡར། noun refresher  course 
+
+ཁ་གསོ་སོབ་སྦྱོང་། noun refresher  course, training 
+
+ཁ་བསྲུང་བ། verb (fut.) prs. སྲུང་།  pst. བསྲུངས། imp. སྲུངས། diet ཁ་བསླུ་བ། verb (fut.) prs. སླུ། pst.  བསླུས། imp. སླུས། defraud ཁ་ཧན་གདིང་ངན། adj. siren ཁ་ལྷན། noun kiss 
+
+ཁ་ལྷམ། noun snowshoe 
+
+ཁ་ལྷུ། noun allure, flatter, woo,  flattery, defraud 
+
+ཁ་ལྷུ་རྐྱབ་མི། noun flatterer ཁ་ལྷོག verb (fut., prs., pst.,  imp.) open, uncover, turn over ཁག noun group, part, unit  liability, clutch 
+
+ཁག་བཀལ། verb (fut., prs., pst.,  imp.) excuse 
+
+ཁག་བགོ། noun partition 
+
+ཁག་འགན། noun charge,  
+
+responsibility 
+
+ཁག་ཆེ། adj. important, vital 
+
+ཁག་ཆེ་ཏོག་ཏོ། adj. crucial,  essential, important, vital,  burning, urgent 
+
+ཁག་ཆེ་དྲགས། adj. big,  
+
+imperative, important, serious ཁག་ཆེ་ཤོས། adj. chief, linchpin,  overriding, uppermost, first  degree 
+
+ཁག་བསྙད། noun buck 
+
+ཁག་ཏེག་ཏེ། adj. ཁག་དྲགས།  bitter, bitterness 
+
+ཁག་ཏེམ། noun bitter gourd ཁག་ཐེག noun attestation, vouch  for, assume responsibility,  affirm 
+
+ཁག་དྲགས། adj. ཁག་ཏེག་ཏེ།  bitter, bitterness, bile, foul ཁག་འཕུལ་བ། verb (fut., prs.,  pst., imp.) unload 
+
+ཁག་དབྱེ། verb (fut., prs., pst.,  imp.) breakdown,  
+
+segmentation 
+
+ཁག་འབག noun contract,  warranty, take responsibility  ཁག་འབག་ཆུང་བ། noun petty  contract 
+
+ཁག་འབགཔ། noun contractor ཁག་ཚན། noun team, block,  cluster
+
+ཁ 
+
+65 
+
+ཁག་བཟེད། 66 ཁམ། 
+
+ཁག་བཟེད། verb (fut., prs., pst.,  imp.) guarantee 
+
+ཁག་བཟེད་མི། noun guarantor ཁག་ལེན། noun warranty, vouch ཁག་ལེན་མི། noun guarantor ཁང་། noun house, hall 
+
+ཁང་ཁྱིམ། noun house 
+
+ཁང་གླ། noun rent 
+
+ཁང་ཅུང༌། noun cubbyhole ཁང་བཅད་གྲུ་བཞི། noun cubicle ཁང་ཆང༌། noun minibar 
+
+ཁང་ཆས། noun furniture 
+
+ཁང་ཆུང༌། noun booth 
+
+ཁང་ཆེན། noun pavilion 
+
+ཁང་གཉེར། noun ཁྱིམ་སྲུངཔ།  watchman, house-keeper,  caretaker, housekeeper 
+
+ཁང་བདག noun homeowner  ཁང་སྡེ། noun block 
+
+ཁང་མིག noun chamber,  compartment, pavilion, room,  cabin, apartment 
+
+ཁང་མིག་ཆུང་ཀུ། noun closet ཁང་མིག་ལཱ་གཡོག noun room  service 
+
+ཁང་ཚན། noun flat, unit 
+
+ཁང་བཟང༌། noun edifice,  mansion, pavilion 
+
+ཁང་གཡོག noun minion, orderly,  room service 
+
+ཁང་གཡོགཔ། noun peon 
+
+ཁང་གཡོགམོ། noun chambermaid ཁང་རིང༌། noun skyscraper ཁང་ཤུལ། noun ruined house ཁབ། noun needle, pin 
+
+ཁབ་ཀོ་མ། noun safety pin, hook ཁབ་ཏོ། noun cover, lid, brim,  cap, stopper, tap, top 
+
+ཁབ་ཏོ་ཅན། adj. lidded  
+
+ཁབ་དུང་། noun needle-case  ཁབ་གདན། noun pin-cushion ཁབ་མིག noun eye 
+
+ཁབ་རྩེ། noun needle-point, pin ཁབ་ཟས། noun biscuit 
+
+ཁབ་ཟས་བཟོ་ཁང་། noun bakery,  confectionery factory 
+
+ཁབ་ཟས་བཟོ་མི། noun baker ཁབ་གཟེར། noun pin 
+
+ཁབ་གཟེར་མགུ་ཏོ། noun pinhead ཁབ་ལེན་ལྕགས། noun magnet ཁབ་ལེན་ལྕགས་བཟོ། noun  
+
+magnetization 
+
+ཁབ་ལེན་སྣེ་མཐའ། noun polarity ཁབ་ལེན་སྣེ་ཟུར། noun pole ཁབ་ཤུབས། noun needle-case  ཁམ། noun peach
+
+66 
+
+ཁམ་ཏོ། 67 ཁམས་སངས་འགྲུལ་སྐྱོད། 
+
+ཁམ་ཏོ། noun mouthful, bite,  gulp, nibble, morsel 
+
+ཁམ་བུ། noun peach 
+
+ཁམ་ཚད། noun mouthful 
+
+ཁམ་ཚིག noun peach nut 
+
+ཁམ་ཚིག་པགས་ཀོ། noun nutshell  ཁམ་ལོག་སི་སི། adj. bedraggled ཁམ་ཤིང་། noun peach tree ཁམས། noun 1 health, physical  
+
+condition (གཟུགས་སྟོབས།)  2 element (འབྱུང་བ།)  
+
+3 arrogance (ང་རྒྱལ།) 4 realm  (གླིང་།) 
+
+ཁམས་ལྔ། noun the five elements ཁམས་ཅན། adj. arrogant,  haughty, overbearing,  
+
+presumptuous, hauteur 
+
+ཁམས་མཐུན། noun congenial ཁམས་མཐོ་དྲགས། adj. very  proud, arrogant 
+
+ཁམས་དྭངས་ཏོག་ཏོ། adj.  ཁམས་ལོག་སི་སི། clean,  
+
+appealing, fresh 
+
+ཁམས་དྭངས་འཕྲོས་འཕྲོས། adj.  fresh, clean 
+
+ཁམས་ཕོག noun biliousness,  disgust, nausea, nauseate, sick,  sickness, gag, heave, bilious 
+
+ཁམས་ཕོག་རྐྱབ་སི་སི། adj.  
+
+nauseous, unsavoury,  
+
+disgusting, unappetizing ཁམས་ཕྲན། noun cell, corpuscle ཁམས་འཕྲོད་བཞེས་སྒོ། noun  wholefood 
+
+ཁམས་དམར་སྣོད། noun ovary ཁམས་གཙང༌། noun neatness  ཁམས་གཙང་ཏོག་ཏོ། adj. clean,  refreshing 
+
+ཁམས་རས། noun cellulose ཁམས་གཞན་མི་ཁུངས། noun alien ཁམས་ཟས། noun refreshments ཁམས་ཟེ། adj. arrogant, hauteur,  machismo, macho,  
+
+overweening 
+
+ཁམས་ལོག verb (fut., prs., pst.)  obscenity, dirty, filthy,  
+
+nauseous 
+
+ཁམས་ལོག་སི་སི། adj. ཁམས་ དྭངས་ཏོག་ཏོ། dirty, nauseating,  filthy, messy, nasty, obscene,  offensive, scuzzy, shambles,  
+
+squalid, pig 
+
+ཁམས་སངས། noun leisure,  holiday, recess, refresh 
+
+ཁམས་སངས་འགྲུལ་སྐྱོད། noun  jaunt, outing
+
+ཁ 
+
+67 
+
+ཁམས་གསུམ། 68 ཁས་ལེན། 
+
+ཁམས་གསུམ། noun the three  realms 
+
+ཁཝ། noun snow 
+
+ཁ་་མཆུ། noun lip  
+
+ཁ་་རང་དབང༌། noun voice ཁར། prep. by, onto 
+
+ཁར་ཁིར། adj. hyperactive,  vigorous 
+
+ཁར་ཉན་པ། verb (fut., prs., pst.,  imp.) obey 
+
+ཁར་འཐོན། verb (fut., prs.) pst.  ཐོན། imp. ཐོན། talk 
+
+ཁལ། num. twenty, score (གྱངས་ ཁ།) noun load (དོ།) 
+
+ཁལ་རྒྱབ། noun pannier 
+
+ཁལ་སྒ། noun pack saddle ཁལ་ལྔ། num. hundred 
+
+ཁལ་གཅིག num. twenty 
+
+ཁལ་ཆེན། num. eight thousand ཁལ་གཉིས། num. forty 
+
+ཁལ་རྟ། noun pack-horse, pack pony 
+
+ཁལ་རྟ་ཤུགས་ཅན། noun shire  horse 
+
+ཁལ་ཐག noun pack rope ཁལ་དྲེལ། noun pack-mule ཁལ་ཚན། noun score 
+
+ཁལ་བཞི། num. eighty 
+
+ཁལ་གསུམ། num. sixty 
+
+ཁས་བླངས། noun pledge,  
+
+commitment, volunteer,  
+
+guarantee, promise,  
+
+undertaking, vow, voluntary ཁས་བླངས་བསྐྱར་གསོ། noun  reassurance, reaffirmation ཁས་བླངས་འཐུས་ཤོར། noun sell out 
+
+ཁས་བླངས་དམ་བཅའ། noun oath  of allegiance, pledge 
+
+ཁས་བླངས་པ། noun volunteer ཁས་བླངས་དམག་མི། noun militia  volunteer 
+
+ཁས་བླངས་དམག་འཛིང་པ། noun  vassal 
+
+ཁས་བླངས་ལས་མི། noun volunteer  worker 
+
+ཁས་བླངས་གསལ་བསྒྲགས། noun  manifesto 
+
+ཁས་དབང་ལས་འགལ་བ། adj.  breach of privileges 
+
+ཁས་མི་ལེན་པ། adj. defiance,  denial, intolerance, negation,  rebuff, refusal 
+
+ཁས་མི་ལེན་པ་་གཏམ། noun  disclaimer 
+
+ཁས་ལེན། noun assent, consent,  acceptance, acknowledgement, 
+
+68
